@@ -1,7 +1,7 @@
 # multilingualTaxonomies
 
 
-The folder taxonomies contains the first version of the multilingual Taxonomies. 
+The folder taxonomies contains the first version of the multilingual taxonomy of olfactory terms. The taxonomy is available in English, French, German, Dutch, Italian and Slovenian, and has been created semi-automatically, starting from a core set of WordNet synsets and extending them with co-occurring terms using n-grams. 
 
 For each language, we release two files in tab-separated format. 
 
