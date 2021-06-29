@@ -1,0 +1,16 @@
+aftershave_noun
+alkaline_adj
+ammonia_noun
+balsam_noun
+benzene_noun
+bergamot_noun
+bitumen_noun
+cigar_noun
+disgusting_adj
+humid_adj
+incense_noun
+opium_noun
+orchard_noun
+sulphurous_adj
+toilet_noun
+trash_noun

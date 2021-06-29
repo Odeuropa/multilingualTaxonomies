@@ -1,0 +1,1864 @@
+word	synset	first appearance	1650-1700	1701-1750	1751-1800	1801-1850	1851-1900	1901-1925	smell-source	quality
+Aroma_noun	seed		1799	no	no	no	yes	yes	yes
+Ausduenstung_noun	seed		1508	no	no	yes	yes	yes	yes
+Bluetenduft_noun	seed		1659	no	no	no	no	no	yes
+Blume_noun	seed		1659	yes	no	yes	yes	yes	yes
+Blumenduft_noun	seed		1781	no	no	no	yes	yes	yes
+Bouquet_noun	seed		1754	no	no	no	yes	yes	yes
+Duft_noun	seed	['s14292']	1659	yes	no	yes	yes	yes	yes
+Geruch_noun	seed	['s14288', 's27490']	1508	yes	yes	yes	yes	yes	yes
+Geruchssinn_noun	seed	['s27490']	1795	no	no	no	no	no	yes
+Gestank_noun	seed	['s14289']	1659	no	no	yes	yes	yes	yes
+Knoblauchgeruch_noun	seed		1782	no	no	no	no	yes	yes
+Lavendelwasser_noun	seed		1758	no	no	no	no	yes	yes
+Nase_noun	seed		1508	yes	yes	yes	yes	yes	yes
+Riechstoff_noun	seed		1797	no	no	no	yes	yes	yes
+Rosenduft_noun	seed		1781	no	no	no	no	yes	yes
+Ruch_noun	seed		1717	no	no	no	yes	yes	yes
+Schaerfe_noun	seed		1508	no	yes	yes	yes	yes	yes
+Spuersinn_noun	seed		1799	no	no	no	no	yes	yes
+Veilchenduft_noun	seed		1779	no	no	no	no	yes	yes
+Wohlgeruch_noun	seed		1760	no	no	no	yes	yes	yes
+abgeben_verb	seed		1508	no	yes	yes	yes	yes	yes
+absondern_verb	seed		1508	no	yes	yes	yes	yes	yes
+duften_verb	seed	['s58713']	1751	no	no	no	yes	yes	yes
+duftend_adj	seed		1760	yes	no	yes	yes	yes	yes
+olfaktorisch_adj	seed	['s85082']	1890	no	no	no	no	no	yes
+parfuemieren_verb	seed	['s54647', 's106840']	1780	no	no	no	no	yes	yes
+riechen_verb	seed	['s58710', 's54431', 's58712', 's58565']	1659	yes	yes	yes	yes	yes	yes
+riechend_adj	seed		1764	no	no	no	yes	yes	yes
+schnuppern_verb	seed	['s58567']	1813	no	no	no	no	no	yes
+stinken_verb	seed	['s54432', 's58711']	1751	no	no	no	yes	yes	yes
+stinkend_adj	seed		1659	no	no	no	yes	yes	yes
+verbreiten_verb	seed		1508	yes	yes	yes	yes	yes	yes
+wahrnehmen_verb	seed		1528	yes	yes	yes	yes	yes	yes
+wittern_verb	seed		1703	no	no	yes	yes	yes	yes
+wohlriechend_adj	seed	['s93614']	1756	no	no	yes	yes	yes	yes
+Abnormes_noun	cooc		1659	no	no	no	yes	yes	yes		
+Abschneiden_noun	cooc		1659	no	no	no	yes	yes	yes		
+Absicht_noun	cooc		1508	no	no	no	no	yes	yes		
+Absonderung_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Abwesenheit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Aether_noun	cooc		1659	no	no	no	yes	yes	yes		
+Affektionen_noun	cooc		1769	no	no	no	no	yes	yes		
+After_noun	cooc		1659	no	no	no	yes	yes	yes		
+Alkohol_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Amerika_noun	cooc		1528	no	no	no	yes	yes	yes		
+Ammoniak_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Amselschlag_noun	cooc		1845	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Anatomie_noun	cooc		1508	no	no	no	no	yes	yes		
+Anblick_noun	cooc		1508	no	no	no	yes	yes	yes		
+Anforderung_noun	cooc		1508	no	no	no	no	yes	yes		
+Angenehme_noun	cooc		1708	no	no	yes	yes	yes	yes		
+Angst_noun	cooc		1525	no	no	no	yes	yes	yes		
+Anna_noun	cooc		1645	no	no	no	no	no	yes		
+Annehmlichkeit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Anschauen_noun	cooc		1659	no	no	no	yes	yes	yes		
+Anschauung_noun	cooc		1508	no	no	no	no	yes	yes		
+Ansehen_noun	cooc		1508	no	no	no	yes	yes	no		
+Ansicht_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Anspruch_noun	cooc		1508	no	no	no	yes	no	no		
+Arbeit_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+Arbeiter_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|industry	
+Arbeiterbewegung_noun	cooc		1719	no	no	no	no	yes	no		
+Arbeiterklasse_noun	cooc		1719	no	no	no	no	no	yes		
+Arbeiterschaft_noun	cooc		1727	no	no	no	no	no	yes		
+Aristoteles_noun	cooc		1628	no	no	no	yes	yes	yes		
+Arm_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|animal|people	
+Armee_noun	cooc		1508	no	no	no	yes	yes	yes		
+Art_noun	cooc		1508	no	no	yes	no	no	yes		
+Articulationssinnes_noun	cooc		1836	no	no	no	yes	yes	yes		
+Articulationsvermoegens_noun	cooc		1836	no	no	no	yes	yes	yes		
+Athmen_noun	cooc		1734	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Athmung_noun	cooc		1770	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Atlas_noun	cooc		1508	no	no	no	no	no	yes		
+Atmen_noun	cooc		1729	no	no	no	no	yes	yes		
+Atmosphaere_noun	cooc		1628	no	no	no	yes	yes	yes		
+Atmung_noun	cooc		1756	no	no	no	no	yes	yes		
+Auffassung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Aufklaerung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Aufruhrs_noun	cooc		1628	no	no	no	yes	yes	no		
+Aufzaehlung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Auge_noun	cooc		1508	no	yes	yes	yes	yes	yes		
+Augenblicks_noun	cooc		1659	no	no	no	yes	yes	yes		
+Augenbraue_noun	cooc		1801	no	no	no	yes	yes	yes		
+Augenlider_noun	cooc		1763	no	no	no	yes	yes	yes		
+Augenlidern_noun	cooc		1760	no	no	no	yes	yes	yes		
+Ausdauer_noun	cooc		1508	no	no	no	no	yes	yes		
+Ausdehnung_noun	cooc		1508	no	no	no	yes	no	yes		
+Ausdruck_noun	cooc		1508	no	no	no	yes	yes	yes		
+Ausduenstungen_noun	cooc		1508	no	no	no	yes	yes	yes		
+Auseinandersetzung_noun	cooc		1508	no	no	no	no	no	yes		
+Ausfluss_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Ausgabe_noun	cooc		1508	no	no	no	no	yes	yes		
+Ausgesprochenes_noun	cooc		1815	no	no	no	yes	yes	yes		
+Ausland_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Auslande_noun	cooc		1508	no	no	no	yes	yes	yes		
+Aussehen_noun	cooc		1528	no	no	no	yes	yes	yes		
+B_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Barte_noun	cooc		1508	no	no	no	no	yes	yes		
+Basis_noun	cooc		1508	no	no	no	no	yes	yes		
+Bauer_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Baum_noun	cooc		1545	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Beaengstigung_noun	cooc		1645	no	no	no	yes	yes	yes		
+Bearbeitung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Beatmung_noun	cooc		1821	no	no	no	no	no	yes		
+Becher_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Bedauern_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Bedingung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Beet_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Begriff_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Behauptung_noun	cooc		1508	no	no	no	no	yes	yes		
+Beispiel_noun	cooc		1508	no	no	no	yes	yes	yes		
+Beitrag_noun	cooc		1508	no	no	no	no	yes	yes		
+Beobachtung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Berechnung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Bereich_noun	cooc		1508	no	no	no	yes	no	yes		
+Beruf_noun	cooc		1508	no	no	no	yes	yes	yes		
+Beschluss_noun	cooc		1508	no	no	no	yes	yes	no		
+Besitz_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Bestimmtheit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Bestimmungsgrund_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Bestreben_noun	cooc		1508	no	no	no	no	yes	yes		
+Bestrebung_noun	cooc		1729	no	no	no	yes	yes	yes		
+Betriebsarten_noun	cooc		1789	no	no	no	no	yes	yes		
+Bevoelkerung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Bewegung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Beweis_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Beweisarten_noun	cooc		1764	no	no	yes	yes	yes	yes		
+Beweisgrund_noun	cooc		1736	no	no	yes	yes	yes	yes		
+Bewunderung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Bewusstsein_noun	cooc		1508	no	no	no	yes	no	no		
+Beziehung_noun	cooc		1508	no	no	no	no	no	yes		
+Bezirk_noun	cooc		1508	no	no	no	yes	yes	no		
+Bezug_noun	cooc		1508	no	no	no	yes	yes	yes		
+Bibel_noun	cooc		1545	no	no	no	yes	yes	no		
+Biene_noun	cooc		1741	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Bild_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Bildung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Billigung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Bisam_noun	cooc		1742	no	no	no	yes	yes	yes		
+Bitterkeit_noun	cooc		1528	no	no	no	no	yes	yes		
+Blase_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Blatt_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Bleibende_noun	cooc		1729	no	no	no	yes	yes	yes		
+Blick_noun	cooc		1508	no	no	no	yes	yes	yes		
+Blickes_noun	cooc		1659	no	no	no	no	yes	yes		
+Bluete_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Bluetenduft_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Blume_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Blut_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Blutbahn_noun	cooc		1800	no	no	no	no	yes	yes		
+Blutung_noun	cooc		1745	no	no	yes	yes	yes	yes		
+Boden_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Boesen_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Bohren_noun	cooc		1745	no	no	no	yes	yes	yes	CATEGORY|industry	
+Botschaft_noun	cooc		1528	no	no	no	no	no	yes		
+Branntwein_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Braten_noun	cooc		1689	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Brille_noun	cooc		1729	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Bronchie_noun	cooc		1816	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Buch_noun	cooc		1508	no	no	no	yes	yes	yes		
+Buttersaeure_noun	cooc		1814	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Chance_noun	cooc		1727	no	no	no	no	no	yes		
+Charakteristik_noun	cooc		1720	no	no	no	yes	yes	yes		
+China_noun	cooc		1508	no	no	no	yes	yes	yes		
+Chlor_noun	cooc		1767	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Choanen_noun	cooc		1808	no	no	no	yes	yes	yes		
+Christenthum_noun	cooc		1628	no	no	no	yes	yes	yes		
+Christentum_noun	cooc		1727	no	no	no	yes	yes	yes		
+Dampf_noun	cooc		1717	no	no	no	no	yes	yes	CATEGORY|industry	
+Darstellung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Dasein_noun	cooc		1508	no	no	no	yes	yes	yes		
+Datis_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Dauer_noun	cooc		1508	no	no	no	no	no	yes		
+Demokratie_noun	cooc		1628	no	no	no	no	yes	no		
+Denkbestimmungen_noun	cooc		1812	no	no	no	yes	yes	yes		
+Denken_noun	cooc		1628	no	no	yes	yes	yes	yes		
+Deutlichkeit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Deutschland_noun	cooc		1508	no	no	no	yes	yes	yes		
+Deutschlands_noun	cooc		1508	no	no	no	yes	yes	yes		
+Diagnose_noun	cooc		1508	no	no	no	yes	yes	yes		
+Dialektik_noun	cooc		1659	no	no	no	no	yes	yes		
+Dichterische_noun	cooc		1778	no	no	no	yes	yes	yes		
+Ding_noun	cooc		1528	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Dritte_noun	cooc		1508	no	no	no	no	yes	yes		
+Druck_noun	cooc		1508	yes	no	yes	yes	yes	yes		
+Druecke_noun	cooc		1708	no	no	no	no	no	yes		
+Duft_noun	cooc	['s14292']	1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ehre_noun	cooc		1508	no	no	no	yes	yes	no		
+Ei_noun	cooc		1508	no	no	yes	yes	yes	no		
+Eigenheit_noun	cooc		1528	no	no	no	no	yes	yes		
+Eigenschaft_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Einbildungskraft_noun	cooc		1528	no	no	no	yes	yes	yes		
+Eindruck_noun	cooc		1508	no	no	no	no	yes	yes		
+Einfluss_noun	cooc		1508	no	no	no	yes	yes	yes		
+Einheit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Einigung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Einnahme_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Einsicht_noun	cooc		1508	no	no	no	yes	yes	yes		
+Einzelheit_noun	cooc		1659	no	no	no	no	yes	yes		
+Einzelnheiten_noun	cooc		1508	no	no	no	yes	yes	yes		
+Eiter_noun	cooc		1734	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Eiters_noun	cooc		1756	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Eiterungen_noun	cooc		1778	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Element_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Empfaenglichkeit_noun	cooc		1528	no	no	no	yes	yes	yes		
+Empfinden_noun	cooc		1659	no	no	no	yes	yes	yes		
+Empfindung_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Ende_noun	cooc		1508	no	no	no	yes	yes	no		
+Energie_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+England_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Entdeckung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Entscheidung_noun	cooc		1508	no	no	no	yes	yes	no		
+Entschiedenheit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Entschlossenheit_noun	cooc		1508	no	no	no	no	no	yes		
+Entwicklung_noun	cooc		1508	no	no	no	no	no	yes		
+Entzuendung_noun	cooc		1708	no	no	no	yes	yes	yes		
+Epoche_noun	cooc		1628	no	no	no	no	no	yes		
+Erdball_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Erdboden_noun	cooc		1545	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Erde_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Erdkreis_noun	cooc		1739	no	no	yes	yes	yes	yes		
+Erfahrung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Erfahrungseinheit_noun	cooc		1781	no	no	yes	yes	yes	yes		
+Erinnern_noun	cooc		1699	no	no	no	no	yes	yes		
+Erinnerung_noun	cooc		1508	no	no	no	no	no	yes		
+Erkenntnis_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Erkenntniss_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Erklaerung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Erklaerungsgrund_noun	cooc		1756	no	no	yes	yes	yes	yes		
+Erkrankung_noun	cooc		1508	no	no	no	no	yes	yes		
+Erkundigung_noun	cooc		1508	no	no	no	no	yes	yes		
+Erscheinung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Erstaunen_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Erwerbmittel_noun	cooc		1776	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Europa_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Europas_noun	cooc		1508	no	no	no	yes	yes	yes		
+Evangelium_noun	cooc		1659	no	no	no	yes	yes	yes		
+Evangeliums_noun	cooc		1720	no	no	no	yes	yes	yes		
+Ewigkeit_noun	cooc		1545	no	no	no	yes	yes	yes		
+Exemplar_noun	cooc		1508	no	no	no	no	yes	yes		
+F_noun	cooc		1508	no	no	no	no	yes	yes		
+Faerbestoff_noun	cooc		1793	no	no	no	yes	yes	yes		
+Farbe_noun	cooc		1528	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Faust_noun	cooc		1689	no	no	no	yes	yes	yes		
+Feinheit_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Feld_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Feldes_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Fenster_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Feuchtigkeit_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Feuer_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|industry	
+Finger_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Finsteres_noun	cooc		1772	no	no	no	yes	yes	yes		
+Fisch_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Fixsterne_noun	cooc		1752	no	no	yes	yes	yes	yes		
+Flaeche_noun	cooc		1528	no	no	no	yes	yes	yes		
+Flieder_noun	cooc		1754	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Fluessigkeit_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Flugblatt_noun	cooc		1729	no	no	no	no	yes	yes		
+Folge_noun	cooc		1508	no	no	yes	no	no	no		
+Folgewelt_noun	cooc		1794	no	no	no	yes	yes	yes		
+Form_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Formulierung_noun	cooc		1727	no	no	no	no	no	yes		
+Forschung_noun	cooc		1628	no	no	no	yes	yes	yes		
+Fortschritt_noun	cooc		1508	no	no	no	yes	yes	yes		
+Frage_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Frankreich_noun	cooc		1508	no	no	no	yes	yes	yes		
+Frau_noun	cooc		1508	no	no	no	yes	yes	no	CATEGORY|animal|people	
+Freude_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Friede_noun	cooc		1508	no	no	yes	no	yes	yes		
+Frucht_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Fuehlen_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|industry	
+Fuelle_noun	cooc		1528	no	no	no	yes	yes	yes		
+Functionen_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Funktion_noun	cooc		1508	no	no	no	no	no	yes		
+Furcht_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Fuss_noun	cooc		1508	no	no	yes	no	no	yes		
+Galle_noun	cooc		1659	no	no	no	yes	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Ganzes_noun	cooc		1508	no	no	no	no	no	yes		
+Garderobe_noun	cooc		1756	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+Garten_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Gas_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Gasse_noun	cooc		1645	no	no	no	no	yes	yes		
+Gaumen_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+Gebiet_noun	cooc		1508	no	no	no	yes	yes	yes		
+Gebild_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Gebirge_noun	cooc		1545	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Gebisse_noun	cooc		1689	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Gebrauch_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Gedanke_noun	cooc		1508	no	no	no	yes	yes	yes		
+Gedanken_noun	cooc		1508	no	no	no	yes	yes	yes		
+Gedankenteilung_noun	cooc		1894	no	no	no	no	no	yes		
+Gedankentheilung_noun	cooc		1787	no	no	yes	yes	yes	yes		
+Gefahr_noun	cooc		1508	no	no	no	no	yes	yes		
+Gefuehl_noun	cooc		1508	no	yes	yes	yes	yes	yes		
+Gefuehltes_noun	cooc		1803	no	no	no	yes	yes	yes		
+Gegend_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Gegensatz_noun	cooc		1508	no	no	no	yes	yes	yes		
+Gegenstaendliche_noun	cooc		1791	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Gegenstand_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gehoer_noun	cooc		1508	yes	yes	yes	yes	yes	yes		
+Geist_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Geisterwelt_noun	cooc		1628	no	no	no	yes	yes	yes		
+Geistigkeit_noun	cooc		1659	no	no	no	yes	yes	yes		
+Geld_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|industry	
+Gelegenheit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gemauschel_noun	cooc		1862	no	no	no	no	yes	yes		
+Gemeinschaft_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Genauigkeit_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Genehmigung_noun	cooc		1508	no	no	no	no	yes	yes		
+Generation_noun	cooc		1508	no	no	no	no	yes	yes		
+Genie_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Geraeusch_noun	cooc		1659	no	no	no	no	yes	yes		
+Geruch_noun	cooc	['s14288', 's27490']	1508	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+Geruecht_noun	cooc		1689	no	no	yes	yes	yes	yes		
+Gesang_noun	cooc		1508	no	no	no	no	yes	yes		
+Geschaeft_noun	cooc		1508	no	no	no	no	yes	no		
+Geschichte_noun	cooc		1508	no	no	yes	yes	yes	no		
+Geschlechtskrankheit_noun	cooc		1818	no	no	no	no	no	yes		
+Geschlechtsorgan_noun	cooc		1797	no	no	no	no	yes	yes		
+Geschlechtsorganen_noun	cooc		1778	no	no	no	no	yes	yes		
+Geschmack_noun	cooc		1508	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+Geschmackssinn_noun	cooc		1791	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Geschmaecke_noun	cooc		1752	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+Geschmaecken_noun	cooc		1787	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Gesellschaft_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gesetz_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gesetzgebung_noun	cooc		1508	no	no	no	no	yes	yes		
+Gesicht_noun	cooc		1528	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Gesinnung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Gestalt_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gestirn_noun	cooc		1659	no	no	no	yes	yes	yes		
+Getast_noun	cooc		1800	no	no	no	yes	yes	yes		
+Getrennte_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Gewalt_noun	cooc		1508	no	no	no	yes	no	yes		
+Gewandtheit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Gewisse_noun	cooc		1756	no	no	no	yes	yes	yes		
+Gewissheit_noun	cooc		1508	no	no	no	yes	no	no		
+Gewitterwind_noun	cooc		1810	no	no	no	no	no	yes	CATEGORY|animal|people	
+Glanz_noun	cooc		1528	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Glaube_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Glaubwuerdigkeit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Glied_noun	cooc		1508	no	no	no	yes	yes	yes		
+Glueckseligkeit_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Gor_noun	cooc		1689	no	no	no	no	no	yes		
+Gott_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gottheit_noun	cooc		1628	no	no	no	no	yes	yes		
+Grad_noun	cooc		1508	no	no	no	yes	yes	yes		
+Grammatik_noun	cooc		1729	no	no	no	yes	yes	yes		
+Gras_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Grausamkeit_noun	cooc		1528	no	no	no	no	yes	yes		
+Grenze_noun	cooc		1508	no	no	no	yes	no	no		
+Grossbritanniens_noun	cooc		1528	no	no	no	no	no	yes		
+Grund_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Grundlage_noun	cooc		1508	no	no	no	yes	yes	yes		
+Grundsatz_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Guete_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gutachten_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gute_noun	cooc		1508	no	no	no	yes	no	yes		
+Guten_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Gutsvorstehers_noun	cooc		1864	no	no	no	no	yes	no		
+H_noun	cooc		1508	no	no	no	no	no	yes		
+Haar_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Haerte_noun	cooc		1508	no	no	no	yes	yes	yes		
+Hals_noun	cooc		1545	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Hand_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Handeln_noun	cooc		1508	no	no	no	yes	yes	yes		
+Harmonie_noun	cooc		1528	no	no	no	yes	yes	yes		
+Hauch_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Haus_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Haut_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Heiden_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Heiligkeit_noun	cooc		1628	no	no	yes	yes	yes	yes		
+Heimat_noun	cooc		1645	no	no	no	no	yes	yes		
+Heiterkeit_noun	cooc		1528	no	no	no	yes	yes	yes		
+Henning_noun	cooc		1720	no	no	no	no	no	yes		
+Herr_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Herrlichkeit_noun	cooc		1628	no	no	yes	yes	yes	yes		
+Herumtappen_noun	cooc		1775	no	no	yes	yes	yes	yes		
+Herzen_noun	cooc		1508	no	no	no	yes	yes	yes		
+Heu_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Himmel_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Himmelskoerper_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Hineinbilden_noun	cooc		1803	no	no	no	yes	yes	yes		
+Hinsicht_noun	cooc		1508	no	no	no	yes	yes	yes		
+Hintergrund_noun	cooc		1508	no	no	no	no	yes	yes		
+Hitze_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Hochamts_noun	cooc		1772	no	no	no	yes	yes	yes		
+Hoehe_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Horizont_noun	cooc		1508	no	no	no	no	no	yes		
+Hornbrille_noun	cooc		1835	no	no	no	yes	yes	yes		
+Huette_noun	cooc		1508	no	no	no	yes	yes	yes		
+Humanitaet_noun	cooc		1508	no	no	no	yes	yes	yes		
+Hypothese_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Idee_noun	cooc		1508	no	no	no	yes	yes	yes		
+Ideenordnung_noun	cooc		1787	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Ihrigen_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Illusion_noun	cooc		1508	no	no	no	no	yes	yes		
+Imperativ_noun	cooc		1659	no	no	no	no	yes	yes		
+Indien_noun	cooc		1628	no	no	no	yes	yes	yes		
+Inhalt_noun	cooc		1508	no	no	no	no	yes	yes		
+Innere_noun	cooc		1628	no	no	no	yes	yes	yes		
+Innern_noun	cooc		1508	no	no	no	yes	yes	no		
+Insekt_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Intensitaet_noun	cooc		1659	no	no	no	no	yes	yes		
+Interesse_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Irrthuemer_noun	cooc		1528	no	no	no	yes	yes	yes		
+Irrtum_noun	cooc		1545	no	no	no	yes	yes	yes		
+Islam_noun	cooc		1729	no	no	no	no	yes	yes		
+Italien_noun	cooc		1508	no	no	no	yes	yes	yes		
+Juchten_noun	cooc		1723	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Jucken_noun	cooc		1721	no	no	no	yes	yes	yes		
+Jude_noun	cooc		1634	no	no	no	yes	yes	yes		
+Jugend_noun	cooc		1528	no	no	no	yes	yes	yes		
+K_noun	cooc		1508	no	no	no	no	yes	yes		
+Kaelte_noun	cooc		1508	no	no	no	no	yes	yes		
+Kampf_noun	cooc		1508	no	no	no	yes	yes	yes		
+Kant_noun	cooc		1659	no	no	no	yes	yes	yes		
+Kasse_noun	cooc		1508	no	no	no	no	yes	yes		
+Katarrhe_noun	cooc		1769	no	no	no	no	yes	yes		
+Katarrhen_noun	cooc		1769	no	no	no	no	yes	yes		
+Kehlkopf_noun	cooc		1778	no	no	no	no	yes	yes		
+Kehlkopfes_noun	cooc		1769	no	no	no	yes	yes	yes		
+Kehlkopfs_noun	cooc		1796	no	no	no	yes	yes	yes		
+Kelch_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Kenntnis_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Kennzeichen_noun	cooc		1659	no	no	no	no	yes	yes		
+Ketzerei_noun	cooc		1758	no	no	no	yes	yes	yes		
+Kind_noun	cooc		1508	no	no	no	yes	yes	no	CATEGORY|animal|people	
+Kinn_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Kinns_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Kirche_noun	cooc		1508	no	no	yes	no	no	no		
+Kitzel_noun	cooc		1729	no	no	yes	yes	yes	yes		
+Klang_noun	cooc		1508	no	no	no	yes	yes	yes		
+Klarheit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Kleid_noun	cooc		1679	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Kleopatra_noun	cooc		1759	no	no	no	no	yes	yes		
+Klingel_noun	cooc		1742	no	no	no	no	no	yes		
+Kneifer_noun	cooc		1759	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Knopfloch_noun	cooc		1755	no	no	no	no	yes	yes		
+Knospe_noun	cooc		1528	yes	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Koerper_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Kohlensaeure_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Konflikt_noun	cooc		1659	no	no	no	no	yes	yes		
+Konsequenz_noun	cooc		1659	no	no	no	no	yes	yes		
+Konsistenz_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Kontinent_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|animal|people	
+Kontur_noun	cooc		1748	no	no	no	no	no	yes		
+Kopf_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Kopfkissen_noun	cooc		1784	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Kosten_noun	cooc		1508	no	no	no	no	yes	yes		
+Kraft_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Krankheit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Kreis_noun	cooc		1508	no	no	no	yes	yes	yes		
+Kreuz_noun	cooc		1628	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Kriterium_noun	cooc		1508	no	no	no	yes	yes	yes		
+Kritik_noun	cooc		1508	no	no	no	yes	yes	yes		
+Krone_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Kuerze_noun	cooc		1508	no	no	no	yes	yes	yes		
+Kultur_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Kunde_noun	cooc		1508	no	no	no	no	yes	yes		
+Kunst_noun	cooc		1508	no	no	no	yes	yes	no	CATEGORY|cleaning|medicinal	
+Lachmann_noun	cooc		1794	no	no	no	no	yes	yes		
+Lade_noun	cooc		1699	no	no	no	yes	yes	yes		
+Laerm_noun	cooc		1727	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+Lage_noun	cooc		1508	no	no	no	no	no	yes		
+Land_noun	cooc		1508	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+Landbevoelkerung_noun	cooc		1727	no	no	no	no	yes	yes		
+Landwirtschaft_noun	cooc		1508	no	no	no	no	yes	no		
+Larynx_noun	cooc		1757	no	no	no	yes	yes	yes		
+Lauf_noun	cooc		1508	no	no	no	no	yes	yes		
+Lauffeuer_noun	cooc		1729	no	no	no	no	no	yes		
+Lautorgane_noun	cooc		1833	no	no	no	yes	yes	yes		
+Lauts_noun	cooc		1723	no	no	no	yes	yes	yes		
+Leben_noun	cooc		1508	no	yes	yes	yes	yes	yes		
+Lebensodem_noun	cooc		1772	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Legende_noun	cooc		1729	no	no	no	no	yes	yes		
+Lehre_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Lehrmeinung_noun	cooc		1781	no	no	no	no	yes	yes		
+Leichenhaftes_noun	cooc		1813	no	no	no	yes	yes	yes		
+Leid_noun	cooc		1645	no	no	yes	yes	yes	yes		
+Leidenschaft_noun	cooc		1528	no	no	no	yes	yes	yes		
+Lerchenwirbel_noun	cooc		1834	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Leser_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Leute_noun	cooc		1508	no	no	no	no	no	yes		
+Licht_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Linden_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Lippe_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Loewen_noun	cooc		1508	no	no	no	yes	yes	yes		
+Logik_noun	cooc		1528	no	no	no	no	yes	yes		
+Luege_noun	cooc		1727	no	no	no	yes	yes	yes		
+Luft_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Luftroehre_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Luftstrom_noun	cooc		1774	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Lunge_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Lupus_noun	cooc		1754	no	no	no	no	yes	yes		
+Macht_noun	cooc		1508	no	no	no	no	no	yes		
+Madensack_noun	cooc		1721	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Magen_noun	cooc		1659	no	no	no	yes	no	yes	CATEGORY|food|beverage	
+Mal_noun	cooc		1508	no	no	no	yes	yes	yes		
+Mangel_noun	cooc		1508	no	no	no	no	yes	yes		
+Mass_noun	cooc		1508	no	no	no	yes	no	no		
+Masse_noun	cooc		1508	no	no	no	no	yes	yes		
+Massen_noun	cooc		1508	no	no	no	no	yes	yes		
+Massstab_noun	cooc		1508	no	no	no	yes	yes	yes		
+Materie_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Materien_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Maules_noun	cooc		1758	no	no	no	yes	yes	yes		
+Meer_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Meinen_noun	cooc		1689	no	no	no	yes	yes	yes		
+Meinung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Menge_noun	cooc		1508	no	no	no	yes	yes	yes		
+Mensch_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Menschenfleisch_noun	cooc		1731	no	no	no	no	no	yes	CATEGORY|food|beverage	
+Menschengattung_noun	cooc		1780	no	no	yes	yes	yes	yes		
+Menschengeschlecht_noun	cooc		1528	no	no	no	no	yes	yes		
+Menschenhaufen_noun	cooc		1776	no	no	no	no	no	yes	CATEGORY|animal|people	
+Menschheit_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Merkmal_noun	cooc		1508	no	no	no	yes	yes	yes		
+Michel_noun	cooc		1724	no	no	no	yes	yes	yes		
+Milch_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Milde_noun	cooc		1659	no	no	no	yes	yes	yes		
+Minute_noun	cooc		1508	no	no	no	no	yes	yes		
+Mitglied_noun	cooc		1508	no	no	no	yes	no	yes		
+Mitgliedschaft_noun	cooc		1508	no	no	no	no	no	yes		
+Mitte_noun	cooc		1508	yes	no	yes	yes	yes	yes		
+Mittel_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Mittelursachen_noun	cooc		1760	no	no	yes	yes	yes	yes		
+Mitwerber_noun	cooc		1747	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Moeglichkeit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Mohn_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Moment_noun	cooc		1508	no	no	no	yes	yes	yes		
+Moralitaet_noun	cooc		1508	no	no	no	yes	yes	yes		
+Morgenhelle_noun	cooc		1793	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Morgenluft_noun	cooc		1745	no	no	no	no	yes	yes		
+Morgenroete_noun	cooc		1659	no	no	no	no	yes	yes		
+Mund_noun	cooc		1508	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Mundhoehle_noun	cooc		1769	no	no	no	yes	yes	yes		
+Mundwinkeln_noun	cooc		1793	no	no	no	no	yes	yes		
+Mut_noun	cooc		1545	no	no	no	no	no	yes		
+Nachdruck_noun	cooc		1508	no	no	no	no	yes	yes		
+Nachricht_noun	cooc		1508	no	no	no	yes	yes	yes		
+Nacht_noun	cooc		1508	no	no	no	no	no	yes		
+Naehe_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Name_noun	cooc		1508	no	no	no	yes	yes	yes		
+Nase_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Nasennebenhoehlen_noun	cooc		1872	no	no	no	no	no	yes	CATEGORY|animal|people	
+Nasenrachenraum_noun	cooc		1824	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nasenrachenraumes_noun	cooc		1851	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nasenrachenraums_noun	cooc		1863	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nasenrachens_noun	cooc		1886	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nation_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Nationaleigenschaften_noun	cooc		1786	no	no	yes	yes	yes	yes		
+Natur_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Naturwesen_noun	cooc		1659	no	no	no	yes	yes	yes		
+Naturwissenschaften_noun	cooc		1508	no	no	no	yes	yes	yes		
+Nebenhoehle_noun	cooc		1798	no	no	no	yes	yes	yes		
+Nelke_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Nettigkeit_noun	cooc		1689	no	no	yes	yes	yes	yes		
+Neutralitaet_noun	cooc		1508	no	no	no	no	no	yes		
+Niere_noun	cooc		1659	no	no	no	no	yes	yes		
+Nimbus_noun	cooc		1659	no	no	no	yes	yes	yes		
+Niveau_noun	cooc		1659	no	no	no	no	no	yes		
+Nothwendigkeit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Nuestern_noun	cooc		1765	no	no	no	yes	yes	yes		
+O_noun	cooc		1508	no	no	no	no	no	yes		
+Oberlippe_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Object_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Objekt_noun	cooc		1659	no	no	yes	no	yes	yes		
+Odem_noun	cooc		1720	no	no	yes	yes	yes	yes		
+Oeffentlichkeit_noun	cooc		1508	no	no	no	no	yes	yes		
+Ohr_noun	cooc		1628	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+Ohres_noun	cooc		1659	no	no	no	yes	yes	yes		
+Orangenhaine_noun	cooc		1659	yes	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ordnung_noun	cooc		1508	no	no	no	yes	no	yes		
+Organismus_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Orgelton_noun	cooc		1764	no	no	no	no	yes	yes		
+Ort_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Osten_noun	cooc		1508	no	no	no	yes	yes	no		
+Panik_noun	cooc		1729	no	no	no	no	no	yes		
+Patient_noun	cooc		1721	no	no	no	yes	yes	yes		
+Person_noun	cooc		1508	no	no	no	yes	yes	no		
+Pflanze_noun	cooc		1628	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Pflicht_noun	cooc		1508	no	no	no	no	no	yes		
+Pflichtbegriffe_noun	cooc		1795	no	no	yes	yes	yes	yes		
+Pharynx_noun	cooc		1771	no	no	no	yes	yes	yes		
+Philosophie_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Physiologie_noun	cooc		1628	no	no	no	no	yes	yes		
+Planet_noun	cooc		1729	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Poesie_noun	cooc		1628	no	no	no	yes	yes	yes		
+Polemik_noun	cooc		1508	no	no	no	no	yes	yes		
+Polen_noun	cooc		1528	no	no	no	yes	yes	no		
+Politik_noun	cooc		1508	no	no	no	no	no	yes		
+Polizei_noun	cooc		1508	no	no	no	no	no	yes		
+Praegnanz_noun	cooc		1814	no	no	no	no	yes	yes		
+Praezision_noun	cooc		1659	no	no	no	no	yes	yes		
+Praxis_noun	cooc		1508	no	no	no	no	yes	yes		
+Presse_noun	cooc		1508	no	no	no	yes	yes	yes		
+Principien_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Probierstein_noun	cooc		1744	no	no	yes	yes	yes	yes		
+Probirstein_noun	cooc		1760	no	no	no	yes	yes	yes	CATEGORY|industry	
+Problem_noun	cooc		1628	no	no	no	yes	yes	yes		
+Produkt_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Produktivitaet_noun	cooc		1659	no	no	no	no	no	yes		
+Propaganda_noun	cooc		1719	no	no	no	yes	yes	no		
+Provinz_noun	cooc		1703	no	no	no	yes	yes	yes		
+Pruefung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Psychologie_noun	cooc		1628	no	no	no	no	yes	yes		
+Publikum_noun	cooc		1508	no	no	no	yes	yes	yes		
+Punkt_noun	cooc		1508	no	no	no	no	yes	yes		
+Quark_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Quelle_noun	cooc		1508	no	no	no	yes	yes	yes		
+Rachen_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Rahmen_noun	cooc		1508	no	no	no	no	yes	yes		
+Rand_noun	cooc		1586	no	no	no	no	yes	yes		
+Rauch_noun	cooc		1679	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Raum_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|industry	
+Reaktionaer_noun	cooc		1830	no	no	no	no	yes	yes		
+Rechenschaft_noun	cooc		1508	no	no	no	no	no	yes		
+Recht_noun	cooc		1508	no	no	no	no	no	yes		
+Recueil_noun	cooc		1768	no	no	no	yes	yes	yes		
+Regel_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Regierung_noun	cooc		1508	no	no	yes	no	no	no		
+Reich_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Reiches_noun	cooc		1528	no	no	no	no	yes	yes		
+Reinheit_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Reiz_noun	cooc		1508	no	yes	yes	yes	yes	no		
+Religion_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Republik_noun	cooc		1508	no	no	yes	no	no	no		
+Reseden_noun	cooc		1781	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Respiration_noun	cooc		1760	no	no	no	yes	yes	yes		
+Revolution_noun	cooc		1508	no	no	no	no	no	yes		
+Richtigkeit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Richtschnur_noun	cooc		1508	no	no	no	yes	yes	yes		
+Richtung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Riechen_noun	cooc		1723	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ring_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Romantik_noun	cooc		1729	no	no	no	yes	yes	yes		
+Rose_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Rosenduft_noun	cooc		1781	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ruecken_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Ruecksichtslosigkeit_noun	cooc		1729	no	no	no	yes	yes	yes		
+Ruhm_noun	cooc		1528	no	no	no	yes	yes	yes		
+Russ_noun	cooc		1701	no	no	no	no	yes	yes		
+Russland_noun	cooc		1508	no	no	no	yes	yes	yes		
+S_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Saatengruen_noun	cooc		1844	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Sache_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Saeure_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Saskia_noun	cooc		1781	no	no	no	no	no	yes		
+Sauerstoff_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schaerpe_noun	cooc		1756	no	no	no	no	yes	yes		
+Schall_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schande_noun	cooc		1508	no	no	no	no	no	yes		
+Schaum_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Scheidewand_noun	cooc		1659	yes	no	yes	yes	yes	yes		
+Schein_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Scheinbild_noun	cooc		1765	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Schicht_noun	cooc		1645	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Schlafstelle_noun	cooc		1721	no	no	no	no	yes	yes		
+Schlag_noun	cooc		1508	no	no	no	yes	yes	yes		
+Schleim_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Schleimhaeute_noun	cooc		1778	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schleimhaeuten_noun	cooc		1769	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schleimhaut_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Schlingen_noun	cooc		1659	no	no	no	no	no	yes		
+Schlundes_noun	cooc		1750	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Schmerz_noun	cooc		1508	no	no	no	yes	yes	yes		
+Schmetterling_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schmutz_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schnee_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schnurrbart_noun	cooc		1729	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Schoenheit_noun	cooc		1545	no	no	yes	yes	yes	yes		
+Schreck_noun	cooc		1721	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Schrift_noun	cooc		1508	no	no	no	yes	yes	yes		
+Schritt_noun	cooc		1508	no	no	no	yes	yes	yes		
+Schueler_noun	cooc		1508	no	no	no	yes	yes	yes		
+Schule_noun	cooc		1508	no	yes	no	yes	yes	yes		
+Schuss_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Schwall_noun	cooc		1729	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Schwefel_noun	cooc		1645	no	no	no	yes	yes	yes	CATEGORY|industry	
+Schwefelwasserstoff_noun	cooc		1769	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schweiz_noun	cooc		1508	no	no	no	yes	yes	yes		
+Schwert_noun	cooc		1545	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schwerts_noun	cooc		1545	no	no	yes	yes	yes	yes		
+Schwimmkunst_noun	cooc		1799	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Seele_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Segen_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Sehnsucht_noun	cooc		1508	no	no	no	no	yes	yes		
+Sehorgans_noun	cooc		1777	no	no	no	yes	yes	yes		
+Seite_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Seitenwand_noun	cooc		1659	no	no	no	yes	yes	yes		
+Sekretion_noun	cooc		1659	no	no	no	no	yes	yes		
+Selbstpruefung_noun	cooc		1729	no	no	yes	yes	yes	yes		
+Sicherheit_noun	cooc		1508	no	no	no	yes	yes	yes		
+Sinn_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Sinnenantrieb_noun	cooc		1833	no	no	no	yes	yes	yes		
+Sinnenwelt_noun	cooc		1628	no	no	yes	yes	yes	yes		
+Sinnes_noun	cooc		1508	no	no	no	yes	yes	yes		
+Sinnesorganen_noun	cooc		1789	no	no	no	no	no	yes		
+Sinnlichkeit_noun	cooc		1628	no	no	no	yes	no	yes		
+Sitte_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Soldat_noun	cooc		1508	no	no	no	yes	yes	yes		
+Sommernacht_noun	cooc		1760	no	no	no	no	yes	yes		
+Sommersprosse_noun	cooc		1802	no	no	no	no	yes	no	CATEGORY|nature_flowers|plant|tree|soil	
+Sonderung_noun	cooc		1659	no	no	no	yes	yes	yes		
+Sonnen_noun	cooc		1645	no	no	no	yes	yes	yes		
+Sonnenlichts_noun	cooc		1741	no	no	yes	yes	yes	yes		
+Sophisten_noun	cooc		1628	no	no	no	yes	yes	yes		
+Sowjetunion_noun	cooc		1852	no	no	no	no	no	yes		
+Sozialismus_noun	cooc		1719	no	no	no	no	yes	yes		
+Spanien_noun	cooc		1508	no	no	no	yes	no	yes		
+Spiel_noun	cooc		1508	no	no	no	yes	yes	yes		
+Spitzen_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Sprache_noun	cooc		1508	no	no	no	yes	yes	yes		
+Sprachlauts_noun	cooc		1836	no	no	no	yes	yes	yes		
+Sprachsinns_noun	cooc		1803	no	no	no	yes	yes	yes		
+Spur_noun	cooc		1628	no	no	no	yes	yes	yes		
+Staat_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Staatsanwaltschaft_noun	cooc		1508	no	no	no	no	no	yes		
+Stadt_noun	cooc		1508	no	no	no	yes	yes	yes		
+Stamm_noun	cooc		1528	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Stand_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Standpunkt_noun	cooc		1508	no	no	no	no	no	yes		
+Staub_noun	cooc		1645	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Stelle_noun	cooc		1508	no	no	no	yes	yes	yes		
+Stengel_noun	cooc		1659	yes	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Sterbende_noun	cooc		1720	no	no	no	no	yes	yes		
+Stern_noun	cooc		1528	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Steuererklaerung_noun	cooc		1818	no	no	no	no	no	yes		
+Stimme_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Stimmung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Stirn_noun	cooc		1659	yes	yes	yes	yes	yes	yes		
+Stoff_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Strahl_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|industry	
+Streife_noun	cooc		1659	no	no	no	no	yes	yes		
+Strom_noun	cooc		1628	yes	no	no	yes	yes	yes	CATEGORY|industry	
+Student_noun	cooc		1721	no	no	no	yes	yes	yes		
+Subjekt_noun	cooc		1659	no	no	no	yes	yes	yes		
+Substanz_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Substratum_noun	cooc		1781	no	no	yes	yes	yes	yes		
+Suche_noun	cooc		1717	no	no	no	no	yes	yes		
+Sueden_noun	cooc		1508	no	no	no	no	yes	yes		
+Suesses_noun	cooc		1758	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Symbol_noun	cooc		1586	no	no	no	yes	yes	yes		
+System_noun	cooc		1508	no	no	no	yes	no	no		
+Systems_noun	cooc		1508	no	no	no	yes	yes	yes		
+Tabak_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Tag_noun	cooc		1508	no	no	no	no	yes	no		
+Tagesordnung_noun	cooc		1508	no	no	no	no	no	yes		
+Taschentuch_noun	cooc		1762	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Tastsinn_noun	cooc		1659	no	no	no	yes	yes	yes		
+Tastsinns_noun	cooc		1805	no	no	no	yes	yes	yes		
+Tau_noun	cooc		1727	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Temperatur_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Thema_noun	cooc		1634	no	no	no	no	yes	no		
+Thuer_noun	cooc		1508	no	no	no	yes	yes	yes		
+Thuere_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Tiefe_noun	cooc		1508	no	no	no	yes	yes	yes		
+Tier_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Tisch_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Tod_noun	cooc		1508	no	yes	yes	yes	yes	yes		
+Ton_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|industry	
+Tor_noun	cooc		1545	no	no	no	no	no	yes		
+Trauer_noun	cooc		1508	no	no	no	yes	yes	yes		
+Traum_noun	cooc		1628	no	no	no	no	no	yes		
+Traumlande_noun	cooc		1799	no	no	no	no	yes	yes		
+Triebfeder_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Tritt_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Trockenheit_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Tropfen_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Tuch_noun	cooc		1689	no	yes	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Tuer_noun	cooc		1659	no	no	no	no	yes	yes		
+Tuere_noun	cooc		1659	no	no	no	no	no	yes		
+Turm_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|industry	
+Ueberzeugung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Umfang_noun	cooc		1508	no	no	no	yes	yes	yes		
+Umgebung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Umriss_noun	cooc		1528	no	no	no	yes	yes	yes		
+Umschlag_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Umstand_noun	cooc		1508	no	no	no	yes	no	yes		
+Undurchdringlichkeit_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Unfehlbarkeit_noun	cooc		1628	no	no	yes	yes	yes	yes		
+Universum_noun	cooc		1628	no	no	no	yes	yes	yes		
+Unruhe_noun	cooc		1528	no	no	no	yes	yes	no		
+Unsicherheit_noun	cooc		1508	no	no	no	no	no	yes		
+Unterscheidung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Unterschied_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Untersuchung_noun	cooc		1508	no	no	no	no	yes	yes		
+Unwahrheiten_noun	cooc		1734	no	no	no	no	yes	yes		
+Urin_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Ursache_noun	cooc		1508	no	no	no	yes	yes	yes		
+Urteil_noun	cooc		1659	no	no	no	yes	yes	yes		
+Urtheil_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Urtheils_noun	cooc		1508	no	no	no	yes	yes	yes		
+Vehikels_noun	cooc		1785	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Veilchen_noun	cooc		1727	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Veraenderung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Veranlassung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Verantwortlichkeit_noun	cooc		1508	no	no	no	no	yes	yes		
+Verbindung_noun	cooc		1508	no	no	yes	no	no	no		
+Vergnuegen_noun	cooc		1508	no	no	no	yes	yes	yes		
+Verhaeltnis_noun	cooc		1508	no	no	no	yes	yes	yes		
+Verknuepfung_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Verlauf_noun	cooc		1508	no	no	no	no	yes	yes		
+Verleumdungen_noun	cooc		1699	no	no	no	yes	yes	yes		
+Verlust_noun	cooc		1508	no	no	no	yes	yes	yes		
+Vermoegen_noun	cooc		1508	no	no	no	yes	yes	no		
+Vernunft_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Versammlung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Verschlungene_noun	cooc		1802	no	no	no	yes	yes	yes		
+Verschluss_noun	cooc		1508	no	no	no	no	yes	yes		
+Versicherung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Versprechen_noun	cooc		1508	no	no	no	no	no	yes		
+Verstand_noun	cooc		1525	no	no	yes	yes	yes	yes		
+Verstande_noun	cooc		1628	no	no	no	yes	yes	yes		
+Verstandes_noun	cooc		1508	no	yes	yes	yes	yes	yes		
+Verstandeswelt_noun	cooc		1781	no	no	yes	yes	yes	yes		
+Verstehen_noun	cooc		1689	no	no	no	no	yes	yes		
+Verstopfung_noun	cooc		1740	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Verwesung_noun	cooc		1715	no	no	no	no	yes	yes		
+Verwirrung_noun	cooc		1628	no	no	no	yes	yes	yes		
+Violett_noun	cooc		1753	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Voelkerschaft_noun	cooc		1659	no	no	no	yes	yes	yes		
+Vogel_noun	cooc		1689	no	no	no	no	no	yes	CATEGORY|animal|people	
+Vogels_noun	cooc		1740	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Volk_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Volksklassen_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Vollendung_noun	cooc		1508	no	no	no	no	yes	yes		
+Vorbild_noun	cooc		1508	no	no	no	no	yes	yes		
+Vordergrund_noun	cooc		1508	no	no	no	no	yes	yes		
+Vorschein_noun	cooc		1508	no	no	no	no	yes	yes		
+Vorstellung_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Votum_noun	cooc		1508	no	no	no	yes	yes	yes		
+W_noun	cooc		1508	no	no	no	yes	yes	yes		
+Waerme_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Waermen_noun	cooc		1745	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+Waffe_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Waffengewalt_noun	cooc		1729	no	no	no	no	yes	yes		
+Wahrheit_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Wange_noun	cooc		1659	no	no	yes	yes	yes	yes		
+Warze_noun	cooc		1756	no	no	yes	no	yes	yes		
+Wasser_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|industry	
+Weg_noun	cooc		1508	no	no	no	no	yes	no		
+Weihrauch_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+Weinberge_noun	cooc		1508	yes	no	no	yes	yes	yes		
+Weines_noun	cooc		1508	no	no	no	yes	yes	yes		
+Weise_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Weisheit_noun	cooc		1528	no	no	no	yes	yes	yes		
+Welle_noun	cooc		1659	no	no	no	no	yes	yes		
+Welt_noun	cooc		1508	no	yes	yes	yes	yes	yes		
+Weltanschauung_noun	cooc		1682	no	no	no	no	yes	yes		
+Werk_noun	cooc		1508	no	no	no	no	yes	yes		
+Wesen_noun	cooc		1508	no	no	yes	yes	no	no	CATEGORY|animal|people	
+Wesentlichen_noun	cooc		1508	no	no	no	no	yes	no		
+Westen_noun	cooc		1508	no	no	no	no	yes	yes		
+Wiedererscheinung_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Wilde_noun	cooc		1528	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Wille_noun	cooc		1508	no	no	no	yes	yes	yes		
+Willen_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Wind_noun	cooc		1634	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Winde_noun	cooc		1689	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Wirkung_noun	cooc		1508	no	no	no	no	yes	yes		
+Wissen_noun	cooc		1528	no	no	no	yes	yes	yes		
+Wissenschaft_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Wohlgefallen_noun	cooc		1528	no	no	yes	yes	yes	yes		
+Wohlgereimtheit_noun	cooc		1755	no	no	yes	yes	yes	yes		
+Wohlstand_noun	cooc		1508	no	no	no	yes	yes	yes		
+Wohnung_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+Wort_noun	cooc		1508	no	no	no	yes	yes	yes		
+Wuerzgeruch_noun	cooc		1798	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Wurm_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Wurzel_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Zahnfleisch_noun	cooc		1721	no	no	no	yes	yes	yes		
+Zartheit_noun	cooc		1528	no	no	no	no	no	yes		
+Zauberei_noun	cooc		1721	no	no	no	yes	yes	yes		
+Zeichnung_noun	cooc		1508	no	no	no	yes	yes	yes		
+Zeigefinger_noun	cooc		1754	no	no	yes	yes	yes	yes		
+Zeit_noun	cooc		1508	no	no	yes	yes	no	no		
+Zeitung_noun	cooc		1508	no	no	no	no	yes	yes		
+Zelle_noun	cooc		1508	no	no	no	yes	yes	yes		
+Zeuge_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Zeugnis_noun	cooc		1525	no	no	no	no	no	yes		
+Zivilisation_noun	cooc		1628	no	no	no	no	no	yes		
+Zu_noun	cooc		1508	no	no	no	no	no	yes		
+Zudeck_noun	cooc		1830	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Zug_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Zuhalten_noun	cooc		1755	no	no	no	no	yes	yes		
+Zukunft_noun	cooc		1508	no	no	no	yes	yes	yes		
+Zunge_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+Zusammenhang_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Zustand_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Zuversicht_noun	cooc		1508	no	no	no	no	no	yes		
+Zweck_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Zweifel_noun	cooc		1508	no	no	yes	no	no	yes		
+Zwicker_noun	cooc		1735	no	no	no	no	yes	yes		
+Zwischenraum_noun	cooc		1508	no	no	yes	yes	yes	yes		
+aashaften_adj	cooc		1770	no	no	no	yes	yes	yes		
+aber_adv	cooc		1508	yes	no	no	yes	yes	yes		
+abfallen_verb	cooc		1528	no	no	no	yes	yes	yes		
+abgeben_verb	cooc		1508	no	no	no	yes	yes	yes		
+abgerissener_adj	cooc		1659	no	no	no	yes	yes	yes		
+abschliessend_adj	cooc		1659	no	no	no	no	yes	yes		
+abschneiden_verb	cooc		1659	no	no	yes	yes	yes	yes		
+absondern_verb	cooc		1508	no	no	yes	yes	yes	yes		
+abstrakten_adj	cooc		1703	no	no	no	yes	no	yes		
+abwerfen_verb	cooc		1508	no	no	no	yes	no	yes		
+abziehen_verb	cooc		1659	no	no	no	yes	yes	yes		
+ackerbautreibenden_adj	cooc		1776	no	no	no	yes	yes	yes		
+aeusser_adj	cooc		1739	no	no	no	no	yes	yes		
+aeussere_adj	cooc		1508	no	no	yes	yes	yes	no		
+aeusseren_adj	cooc		1508	no	no	no	no	yes	yes		
+aeusserlich_verb	cooc		1745	no	no	no	yes	no	yes		
+aeussern_adj	cooc		1739	no	no	yes	yes	yes	yes		
+aeussern_verb	cooc		1508	no	no	no	yes	yes	yes		
+ahnungsvoll_adj	cooc		1796	no	no	no	no	yes	yes		
+akustisch_adj	cooc		1803	no	no	no	no	no	yes		
+akustische_adj	cooc		1803	no	no	no	no	no	yes		
+allein_adv	cooc		1508	no	no	yes	yes	yes	yes		
+allenthalben_adv	cooc		1508	no	no	yes	yes	yes	yes		
+allgemein_adj	cooc		1508	no	no	yes	yes	yes	yes		
+allgemeiner_adj	cooc		1508	no	no	yes	yes	yes	yes		
+alsdann_adv	cooc		1508	no	no	no	yes	yes	yes		
+alsdenn_adv	cooc		1659	no	no	yes	yes	yes	yes		
+also_adv	cooc		1508	no	no	yes	yes	yes	yes		
+ambrosischer_adj	cooc		1763	no	no	no	no	yes	yes		
+andere_adj	cooc		1508	no	no	yes	yes	yes	yes		
+anderen_adj	cooc		1508	no	no	yes	no	yes	yes		
+anerkennen_verb	cooc		1508	no	no	no	yes	no	yes		
+anfangen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+angehoeren_verb	cooc		1508	no	no	no	yes	yes	yes		
+angenehm_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+angenehmen_adj	cooc		1508	no	no	yes	yes	yes	yes		
+anhalten_verb	cooc		1528	no	no	no	yes	yes	yes		
+ankommen_verb	cooc		1508	no	no	no	yes	yes	yes		
+annehmen_verb	cooc		1508	no	no	yes	no	no	yes		
+anschauen_verb	cooc		1528	no	no	no	yes	yes	yes		
+ansehen_verb	cooc		1508	no	yes	no	yes	yes	yes		
+anziehen_verb	cooc		1659	no	no	no	no	no	yes		
+anzutreffendes_adj	cooc		1798	no	no	no	yes	yes	yes		
+aromatischen_adj	cooc		1729	no	no	no	yes	yes	yes		
+athmen_verb	cooc		1528	no	no	no	yes	yes	yes		
+atmen_verb	cooc		1727	no	no	no	no	yes	yes		
+auch_adv	cooc		1508	no	yes	yes	no	no	no		
+auditiv_adj	cooc		1892	no	no	no	no	no	yes		
+aufdecken_verb	cooc		1701	no	no	no	no	yes	yes		
+auffassen_verb	cooc		1508	no	no	no	yes	yes	yes		
+aufgeworfen_adj	cooc		1799	no	no	no	yes	yes	yes		
+auflegen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+aufnehmen_verb	cooc		1508	no	no	no	yes	yes	yes		
+aufstellen_verb	cooc		1508	no	no	no	yes	yes	yes		
+aufwerfen_verb	cooc		1508	no	no	no	no	no	yes		
+aufzugehn_verb	cooc		1731	no	no	no	no	no	yes		
+ausarbeiten_verb	cooc		1508	no	no	no	no	yes	no		
+ausbreitend_adj	cooc		1645	no	no	yes	yes	yes	yes		
+ausdufte_verb	cooc		1771	no	no	yes	yes	yes	yes		
+ausfuehrlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+ausfuehrlicher_adj	cooc		1508	no	no	no	yes	yes	yes		
+ausloeschen_verb	cooc		1628	no	no	no	no	yes	no		
+aussen_adv	cooc		1508	no	no	no	yes	yes	yes		
+aussprechen_verb	cooc		1508	no	no	no	yes	yes	yes		
+austauschen_verb	cooc		1528	no	no	no	no	yes	no		
+bald_adv	cooc		1508	no	no	yes	yes	yes	yes		
+bedarf_verb	cooc		1508	no	no	yes	yes	no	yes		
+bedenken_verb	cooc		1508	no	no	no	yes	yes	yes		
+beendigende_adj	cooc		1786	no	no	no	yes	yes	yes		
+befestigen_verb	cooc		1628	no	no	yes	yes	yes	yes		
+befoerdern_verb	cooc		1508	no	no	yes	yes	yes	yes		
+beginnen_verb	cooc		1508	no	no	no	yes	yes	yes		
+begraben_verb	cooc		1508	no	no	no	yes	yes	yes		
+begrifflicher_adj	cooc		1750	no	no	no	no	no	yes		
+begruenden_verb	cooc		1508	no	no	no	yes	yes	yes		
+begruendet_adj	cooc		1508	no	no	no	no	yes	yes		
+behagen_verb	cooc		1703	no	no	no	no	yes	yes		
+behandeln_verb	cooc		1508	no	no	yes	no	no	no		
+behaupten_verb	cooc		1508	no	no	yes	no	yes	yes		
+beitragen_verb	cooc		1508	no	no	no	yes	yes	yes		
+bekaempfen_verb	cooc		1682	no	no	no	no	yes	yes		
+bekennen_verb	cooc		1508	no	no	no	yes	yes	yes		
+bekommen_verb	cooc		1508	no	no	no	yes	yes	yes		
+beleben_verb	cooc		1525	no	no	no	yes	yes	yes		
+belebend_adj	cooc		1659	yes	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+bemerkbar_adj	cooc		1508	no	no	no	yes	yes	yes		
+bemerken_verb	cooc		1508	no	no	no	yes	yes	yes		
+bemuehen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+beobachten_verb	cooc		1508	no	no	no	yes	yes	yes		
+beredtes_adj	cooc		1645	no	no	no	no	yes	yes		
+beschaffen_verb	cooc		1508	no	no	no	yes	no	yes		
+beschraenkte_adj	cooc		1508	no	no	no	yes	yes	yes		
+beschreiben_verb	cooc		1528	no	no	no	yes	no	no		
+besonder_adj	cooc		1689	no	no	no	yes	yes	yes		
+besonderer_adj	cooc		1508	no	no	no	no	yes	yes		
+besonders_adv	cooc		1508	no	no	no	yes	no	no		
+besser_adj	cooc		1508	no	no	no	yes	yes	yes		
+bestaendig_adj	cooc		1528	no	no	no	yes	yes	yes		
+bestehen_verb	cooc		1508	no	no	no	no	yes	yes		
+bestimmen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+bestimmt_adj	cooc		1508	no	no	no	yes	yes	yes		
+bestimmte_adj	cooc		1508	no	no	no	yes	yes	yes		
+bestimmten_adj	cooc		1508	no	no	yes	yes	yes	yes		
+bestimmter_adj	cooc		1508	no	no	no	yes	yes	yes		
+betasten_verb	cooc		1659	yes	no	no	yes	yes	yes		
+betonen_verb	cooc		1508	no	no	no	no	yes	yes		
+betrachten_verb	cooc		1508	no	no	no	no	no	yes		
+betreffen_verb	cooc		1508	no	no	no	yes	yes	yes		
+beurteilen_verb	cooc		1659	no	no	no	no	no	yes		
+bevoelkerten_adj	cooc		1729	no	no	no	no	yes	yes		
+bewahren_verb	cooc		1508	no	no	yes	yes	yes	yes		
+bewandt_verb	cooc		1648	no	no	yes	yes	yes	yes		
+beweglich_adj	cooc		1659	no	no	no	yes	yes	yes		
+bewegte_adj	cooc		1586	no	no	yes	yes	yes	yes		
+bezeichnen_verb	cooc		1508	no	no	no	no	yes	yes		
+bieten_verb	cooc		1508	no	no	no	no	yes	yes		
+bietend_adj	cooc		1727	no	no	no	no	yes	yes		
+bilden_verb	cooc		1508	no	no	no	yes	no	no		
+binden_verb	cooc		1508	no	no	yes	yes	yes	yes		
+bindend_adj	cooc		1508	no	no	no	no	yes	yes		
+bisher_adv	cooc		1508	no	no	yes	yes	no	yes		
+bist_verb	cooc		1508	no	no	no	no	yes	yes		
+bitter_adj	cooc		1508	no	no	no	yes	no	yes		CATEGORY|pungent
+blasen_verb	cooc		1528	no	no	no	yes	yes	yes		
+blass_adj	cooc		1703	no	no	no	no	no	yes		CATEGORY|smoky|toasted|burnt|fatty
+blau_adj	cooc		1659	no	no	no	yes	yes	yes		
+blaue_adj	cooc		1659	no	no	no	no	yes	yes		
+bleiben_verb	cooc		1508	no	no	yes	yes	yes	yes		
+blosse_adj	cooc		1508	no	no	no	yes	yes	yes		
+blossen_adj	cooc		1508	no	no	no	no	no	yes		
+bluehen_verb	cooc		1528	no	no	yes	yes	yes	yes		
+bluten_verb	cooc		1708	no	no	yes	yes	yes	yes		
+blutend_adj	cooc		1760	no	no	no	yes	yes	yes		
+blutige_adj	cooc		1508	no	no	no	no	no	yes		
+blutleckenden_adj	cooc		1846	no	no	no	yes	yes	yes		
+bohren_verb	cooc		1689	no	no	yes	yes	yes	yes		
+brauche_verb	cooc		1508	no	no	no	yes	yes	yes		
+brauchen_verb	cooc		1508	no	no	no	no	yes	yes		
+brechen_verb	cooc		1508	no	no	no	yes	no	yes		
+breit_adj	cooc		1508	no	no	no	yes	yes	yes		
+brennen_verb	cooc		1545	no	no	no	yes	yes	yes		
+brennend_adj	cooc		1701	no	no	no	no	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+bringen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+buergerlich_adj	cooc		1727	no	no	no	no	yes	yes		
+charakteristisch_adj	cooc		1645	no	no	no	no	yes	yes		
+christlich_adj	cooc		1699	no	no	no	yes	yes	yes		
+christliche_adj	cooc		1508	no	no	yes	yes	yes	yes		
+da_adv	cooc		1508	no	no	yes	yes	yes	yes		
+dahingehend_adj	cooc		1508	no	no	no	no	no	yes		
+dampfen_verb	cooc		1723	no	no	no	no	yes	yes		
+dann_adv	cooc		1508	no	no	no	no	yes	no		
+darf_verb	cooc		1508	no	no	yes	yes	yes	yes		
+darstellen_verb	cooc		1508	no	no	no	no	no	yes		
+demonstrirte_adj	cooc		1770	no	no	yes	yes	yes	yes		
+denken_verb	cooc		1508	no	no	yes	yes	yes	yes		
+denn_adv	cooc		1508	no	no	yes	yes	yes	yes		
+derartigen_adj	cooc		1508	no	no	no	no	no	yes		
+desjenigen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+desselben_verb	cooc		1508	no	no	yes	yes	yes	yes		
+deutlich_adj	cooc		1508	yes	yes	yes	yes	yes	yes		
+deutlichsten_adj	cooc		1659	no	no	no	yes	yes	yes		
+deutsch_adj	cooc		1508	no	no	no	yes	yes	yes		
+dicht_adj	cooc		1645	no	no	no	yes	yes	no		CATEGORY|woody/earthy/mouldy
+dicke_adj	cooc		1525	no	no	no	yes	yes	yes		
+dieselbe_adj	cooc		1508	no	no	yes	yes	yes	yes		
+direkt_adj	cooc		1508	no	no	no	no	yes	yes		
+doch_adv	cooc		1508	no	no	yes	no	yes	yes		
+dort_adv	cooc		1508	no	no	yes	no	yes	yes		
+drehen_verb	cooc		1659	no	no	no	yes	yes	yes		
+dringen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+dritt_adj	cooc		1770	no	no	no	yes	no	yes		
+drohen_verb	cooc		1508	no	no	no	yes	yes	yes		
+drucken_verb	cooc		1508	no	no	no	yes	yes	yes		
+druecken_verb	cooc		1508	no	no	no	no	yes	yes		
+duenne_adj	cooc		1699	no	no	yes	yes	yes	yes		
+duenstenden_adj	cooc		1781	no	no	no	yes	yes	yes		
+duerfen_verb	cooc		1508	no	no	no	yes	yes	yes		
+dunkelroten_adj	cooc		1762	no	no	no	no	yes	yes		
+durchaus_adv	cooc		1508	no	no	no	yes	no	no		
+durchfuehren_verb	cooc		1508	no	no	no	yes	yes	yes		
+durchgaengige_adj	cooc		1508	no	no	yes	yes	yes	yes		
+durchsichtig_adj	cooc		1659	no	no	yes	no	yes	yes		
+eben_adv	cooc		1508	no	no	yes	yes	yes	yes		
+ebenso_adv	cooc		1508	no	no	no	yes	no	no		
+echt_adj	cooc		1721	no	no	no	no	no	yes		
+echte_adj	cooc		1659	no	no	no	no	yes	yes		
+eher_adv	cooc		1508	no	no	no	no	no	yes		
+ehrlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+eidesstattlich_adj	cooc		1847	no	no	no	no	yes	yes		
+eigen_adj	cooc		1508	no	no	no	yes	yes	yes		
+eigene_adj	cooc		1508	no	no	no	yes	yes	yes		
+eigenthuemlichen_adj	cooc		1508	no	no	no	yes	yes	yes		
+eigentlich_adv	cooc		1508	no	no	yes	yes	yes	yes		
+eigentuemlich_adj	cooc		1659	no	no	no	yes	yes	yes		
+eigentuemliche_adj	cooc		1628	no	no	no	yes	no	yes		
+eigenverantwortlich_adj	cooc		1867	no	no	no	no	yes	no		
+einatmen_verb	cooc		1805	no	no	no	no	yes	yes		
+einbuessen_verb	cooc		1528	no	no	no	no	no	yes		
+einerseits_adv	cooc		1508	no	no	no	yes	no	no		
+einfuehren_verb	cooc		1508	no	no	yes	yes	yes	yes		
+einheitlich_adj	cooc		1727	no	no	no	no	yes	yes		
+einmal_adv	cooc		1508	no	no	yes	no	no	yes		
+einsam_adj	cooc		1628	no	no	no	yes	yes	yes		
+einstimmig_adj	cooc		1508	no	no	yes	yes	yes	yes		
+eitrig_adj	cooc		1772	no	no	no	yes	yes	yes		CATEGORY|pungent
+empfangen_verb	cooc		1508	no	no	no	yes	yes	no		
+empfinden_verb	cooc		1508	no	no	yes	yes	yes	yes		
+empor_verb	cooc		1659	no	no	no	yes	yes	yes		
+enden_verb	cooc		1659	no	no	no	yes	yes	yes		
+endgueltig_adj	cooc		1508	no	no	no	no	yes	yes		
+endlich_adv	cooc		1508	no	no	no	yes	yes	yes		
+energisch_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|pungent
+entfalten_verb	cooc		1528	no	no	yes	yes	yes	yes		
+entfernen_verb	cooc		1508	no	no	no	yes	yes	yes		
+entfernt_verb	cooc		1508	no	no	no	no	yes	yes		
+entgegengesetzte_adj	cooc		1508	no	no	no	yes	no	yes		
+entgegentreten_verb	cooc		1508	no	no	no	no	yes	yes		
+enthalten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+entleeren_verb	cooc		1782	no	no	no	yes	yes	yes		
+entlegen_adj	cooc		1699	no	no	no	yes	yes	yes		
+entsprechend_adj	cooc		1508	no	no	no	no	no	yes		
+entstehen_verb	cooc		1508	no	no	no	yes	yes	no		
+entweder_adv	cooc		1628	no	no	yes	yes	yes	yes		
+entweichen_verb	cooc		1628	no	no	no	yes	yes	yes		
+entwerfen_verb	cooc		1508	no	no	no	yes	no	yes		
+entwickeln_verb	cooc		1508	no	no	no	yes	yes	yes		
+erdenken_verb	cooc		1717	no	no	no	yes	yes	yes		
+erfahren_verb	cooc		1508	no	no	no	yes	yes	yes		
+erfassen_verb	cooc		1528	no	no	no	yes	yes	yes		
+erfinden_verb	cooc		1659	no	no	no	yes	yes	yes		
+erforderlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+erforschen_verb	cooc		1628	no	no	no	yes	yes	yes		
+erfreulich_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+erfuellen_verb	cooc		1508	no	no	no	no	yes	yes		
+ergeben_verb	cooc		1508	no	no	no	no	yes	yes		
+ergoetzt_verb	cooc		1659	no	no	yes	yes	yes	yes		
+erhalten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+erheben_verb	cooc		1508	no	no	no	yes	yes	yes		
+erhoehen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+erkennen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+erklaeren_verb	cooc		1508	no	no	no	yes	yes	yes		
+erlangen_verb	cooc		1508	no	no	no	yes	yes	yes		
+erlauben_verb	cooc		1508	no	no	no	yes	yes	yes		
+erleben_verb	cooc		1508	no	no	no	no	yes	yes		
+erquickenden_adj	cooc		1729	no	no	no	no	yes	yes		
+erquickendste_adj	cooc		1768	no	no	no	yes	yes	yes		
+erregen_verb	cooc		1508	no	no	no	yes	yes	yes		
+erreichen_verb	cooc		1508	no	no	no	no	yes	yes		
+errichtete_adj	cooc		1508	no	no	no	yes	yes	yes		
+erschliessen_verb	cooc		1727	no	no	no	no	yes	yes		
+erste_adj	cooc		1508	no	no	yes	no	yes	yes		
+erstenmal_adv	cooc		1528	no	no	no	no	no	yes		
+erstere_verb	cooc		1508	no	no	yes	yes	yes	yes		
+erwecken_verb	cooc		1508	no	no	yes	yes	yes	yes		
+erweitern_verb	cooc		1508	no	no	yes	yes	yes	yes		
+erwerben_verb	cooc		1508	no	no	no	yes	yes	yes		
+erzeugen_verb	cooc		1508	no	no	no	yes	yes	yes		
+erzielen_verb	cooc		1508	no	no	no	no	yes	yes		
+etwas_adv	cooc		1508	no	no	yes	yes	yes	yes		
+ewgen_adj	cooc		1715	no	no	no	yes	yes	yes		
+ewig_adj	cooc		1525	no	no	no	yes	yes	yes		
+extensiv_adj	cooc		1770	no	no	no	yes	yes	yes		
+fad_adj	cooc		1776	no	no	no	yes	no	yes		CATEGORY|Fragrant|fruity|floral
+faehig_adj	cooc		1508	no	no	yes	yes	yes	yes		
+faellen_verb	cooc		1689	no	no	yes	yes	yes	yes		
+fahren_verb	cooc		1508	no	no	yes	yes	yes	yes		
+fallen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+farblos_adj	cooc		1659	no	no	no	no	yes	yes		CATEGORY|woody/earthy/mouldy
+fassen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+faulen_adj	cooc		1659	no	no	yes	yes	yes	yes		
+fauligen_adj	cooc		1659	no	no	no	yes	yes	yes		
+fauliger_adj	cooc		1770	no	no	no	yes	yes	yes		CATEGORY|decayed
+faustische_adj	cooc		1727	no	no	no	no	yes	yes		
+fehlen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+feierlich_adj	cooc		1508	no	no	no	no	yes	yes		
+fein_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+feiner_adj	cooc		1508	no	no	no	yes	yes	yes		
+feinste_adj	cooc		1659	no	no	yes	yes	yes	yes		
+fest_adj	cooc		1508	no	no	no	yes	yes	yes		
+feste_adj	cooc		1508	no	no	no	yes	yes	yes		
+festigen_verb	cooc		1729	no	no	no	yes	yes	yes		
+flattern_verb	cooc		1740	no	no	yes	yes	yes	yes		
+fliegen_verb	cooc		1586	no	no	yes	yes	yes	yes		
+foerdern_verb	cooc		1508	no	no	no	yes	yes	yes		
+foermlich_adj	cooc		1508	no	no	no	no	no	yes		
+foetider_adj	cooc		1838	no	no	no	yes	yes	yes		
+folgend_adj	cooc		1723	no	no	no	yes	yes	yes		
+folglich_adv	cooc		1508	no	no	yes	yes	yes	yes		
+formalen_adj	cooc		1659	no	no	no	yes	yes	yes		
+formulieren_verb	cooc		1806	no	no	no	no	yes	yes		
+fortpflanzen_verb	cooc		1659	no	no	no	yes	yes	yes		
+franzoesisch_adj	cooc		1508	no	no	no	no	yes	yes		
+freilich_adv	cooc		1508	no	no	no	yes	yes	yes		
+frisch_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|fresh|cool
+frischer_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|fresh|cool
+froehlichen_adj	cooc		1528	no	no	no	no	yes	yes		
+frueh_adj	cooc		1508	no	no	no	yes	yes	yes		
+fuehlen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+fuehren_verb	cooc		1508	no	no	no	yes	yes	yes		
+fuellet_verb	cooc		1659	no	no	no	yes	yes	yes		
+ganz_adj	cooc		1508	no	no	yes	yes	yes	yes		
+ganz_adv	cooc		1508	no	no	yes	yes	yes	yes		
+ganze_adj	cooc		1508	no	no	yes	yes	yes	yes		
+ganzer_adj	cooc		1508	no	no	no	no	no	yes		
+gar_adv	cooc		1508	no	no	yes	yes	yes	yes		
+geballt_adj	cooc		1823	no	no	no	yes	yes	yes		
+gebar_adj	cooc		1703	no	no	no	yes	yes	yes		
+geben_verb	cooc		1508	no	no	yes	yes	yes	yes		
+gebogen_adj	cooc		1525	no	no	no	yes	yes	yes		
+gebotenen_adj	cooc		1508	no	no	no	no	yes	yes		
+gedacht_verb	cooc		1508	no	no	no	yes	no	yes		
+gedaechte_verb	cooc		1545	no	no	no	yes	yes	yes		
+geeignet_adj	cooc		1508	no	no	no	yes	yes	yes		
+geeignet_verb	cooc		1508	no	no	no	yes	yes	yes		
+geeignetste_adj	cooc		1508	no	no	no	yes	yes	yes		
+geforderten_adj	cooc		1508	no	no	no	yes	yes	yes		
+gegeben_adj	cooc		1508	no	no	no	no	yes	yes		
+gehen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+gehoerig_adj	cooc		1508	no	no	no	yes	yes	no		
+gehoerigen_adj	cooc		1508	no	no	yes	yes	yes	yes		
+geistig_adj	cooc		1508	no	no	no	yes	yes	yes		
+gekannten_adj	cooc		1729	no	no	no	no	yes	yes		
+gelingen_verb	cooc		1508	no	no	no	yes	yes	yes		
+geltend_adj	cooc		1508	no	no	no	yes	yes	yes		
+gemeinsten_adj	cooc		1659	no	no	yes	yes	yes	yes		
+genuegend_adj	cooc		1508	no	no	no	no	yes	yes		
+genuegender_adj	cooc		1508	no	no	no	yes	yes	yes		
+geometrische_adj	cooc		1508	no	no	yes	yes	yes	yes		
+geplaetschte_adj	cooc		1798	no	no	no	yes	yes	yes		
+gerad_adv	cooc		1659	no	no	no	yes	yes	yes		
+gerade_adv	cooc		1508	no	no	yes	no	no	no		
+geradezu_adv	cooc		1508	no	no	no	no	no	yes		
+geraeuschvoll_adj	cooc		1729	no	no	no	no	yes	no		
+geraten_verb	cooc		1545	no	no	no	no	yes	no		
+gering_adj	cooc		1508	no	no	yes	yes	yes	yes		
+geringerer_adj	cooc		1508	no	no	no	no	yes	yes		
+gern_adv	cooc		1508	no	no	no	no	no	yes		
+gerne_adv	cooc		1508	no	no	no	no	yes	no		
+geschehen_verb	cooc		1508	no	no	no	yes	no	no		
+geschichtlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+geschlossen_adj	cooc		1508	no	no	no	yes	yes	yes		
+gespenstisch_adj	cooc		1806	no	no	no	no	yes	yes		
+gestalten_verb	cooc		1508	no	no	no	no	no	yes		
+gesundheitspolizeiliche_adj	cooc		1809	no	no	no	no	yes	yes		
+gewaltig_adj	cooc		1659	yes	no	no	yes	yes	yes		
+gewerbsmaessig_adj	cooc		1508	no	no	no	no	yes	yes		
+gewinnen_verb	cooc		1508	no	no	no	yes	yes	yes		
+gewiss_adj	cooc		1689	no	no	no	yes	yes	yes		
+gewissen_adj	cooc		1508	no	no	no	no	yes	yes		
+giftige_adj	cooc		1734	no	no	no	no	yes	yes		
+glauben_verb	cooc		1508	no	no	yes	yes	yes	yes		
+gleich_adj	cooc		1508	no	no	no	yes	yes	yes		
+gleichen_adj	cooc		1508	no	no	no	yes	yes	yes		
+gleicher_adj	cooc		1508	no	no	no	yes	yes	yes		
+gleichsam_adj	cooc		1508	no	no	no	yes	yes	yes		
+gleichzeitig_adj	cooc		1508	no	no	no	no	yes	no		
+glimmend_adj	cooc		1739	no	no	no	yes	yes	yes		
+golden_adj	cooc		1699	no	no	no	no	yes	yes		
+goldnen_adj	cooc		1721	no	no	no	yes	yes	yes		
+grob_adj	cooc		1528	no	no	yes	yes	yes	yes		
+groesser_adj	cooc		1508	no	no	no	yes	no	no		
+groessere_adj	cooc		1508	no	no	no	yes	yes	no		
+groessten_adj	cooc		1508	no	no	no	yes	yes	no		
+groesstmoeglich_adj	cooc		1789	no	no	yes	yes	yes	yes		
+gross_adj	cooc		1508	no	yes	yes	yes	yes	yes		
+grosse_adj	cooc		1508	no	no	no	yes	yes	yes		
+grosser_adj	cooc		1508	no	no	no	yes	yes	yes		
+gruenden_verb	cooc		1508	no	no	yes	yes	yes	yes		
+gueltig_adj	cooc		1508	no	no	yes	yes	yes	yes		
+guenstigen_adj	cooc		1508	no	no	no	no	yes	yes		
+gut_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+guten_adj	cooc		1508	no	no	yes	yes	yes	yes		
+gutgeschaffenen_adj	cooc		1803	no	no	no	yes	yes	yes		
+h_verb	cooc		1508	no	no	no	yes	yes	yes		
+habe_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+haben_verb	cooc		1508	no	yes	yes	no	yes	no		
+haengen_verb	cooc		1508	no	no	no	no	yes	yes		
+haette_verb	cooc		1508	no	no	yes	yes	yes	yes		
+haetten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+halten_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+hat_verb	cooc		1508	no	no	yes	yes	no	no		
+hatte_verb	cooc		1508	no	yes	no	no	no	no		
+heben_verb	cooc		1508	no	no	no	yes	yes	yes		
+heilen_verb	cooc		1508	no	no	no	no	yes	yes		
+heilig_adj	cooc		1508	no	no	no	no	yes	yes		
+heilsame_adj	cooc		1679	no	no	no	yes	yes	yes		
+heissen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+helfen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+hell_adj	cooc		1525	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+her_adv	cooc		1508	no	no	yes	yes	yes	yes		
+herabgestiegen_verb	cooc		1751	no	no	no	no	no	yes		
+herausarbeiten_verb	cooc		1770	no	no	no	no	no	yes		
+herausgeben_verb	cooc		1659	no	no	yes	no	yes	yes		
+herausstellen_verb	cooc		1508	no	no	no	no	yes	yes		
+herrlich_adj	cooc		1525	yes	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+herrschen_verb	cooc		1508	no	no	no	yes	yes	yes		
+herrschend_adj	cooc		1508	no	no	no	yes	yes	yes		
+herstellen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+herum_adv	cooc		1689	no	no	yes	yes	yes	yes		
+herumfahren_verb	cooc		1731	no	no	yes	yes	yes	yes		
+herumfuehren_verb	cooc		1752	no	no	yes	yes	yes	yes		
+herumfuehrte_verb	cooc		1760	no	no	no	no	yes	yes		
+herumtanzen_verb	cooc		1761	no	no	no	yes	yes	yes		
+herumzutanzen_verb	cooc		1779	no	no	no	no	yes	yes		
+hervorbringen_verb	cooc		1528	no	no	no	yes	yes	yes		
+hervordringende_adj	cooc		1738	no	no	no	yes	yes	yes		
+hervorheben_verb	cooc		1508	no	no	no	yes	yes	yes		
+hervorspringen_verb	cooc		1751	no	no	no	yes	yes	yes		
+hervortreten_verb	cooc		1508	no	no	no	yes	yes	yes		
+hervortritt_verb	cooc		1508	no	no	no	no	yes	yes		
+hie_adv	cooc		1508	no	no	yes	yes	yes	yes		
+hier_adv	cooc		1508	no	no	no	no	yes	yes		
+hiezu_verb	cooc		1508	no	no	yes	yes	yes	yes		
+himmlisch_adj	cooc		1659	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+himmlische_adj	cooc		1659	no	no	no	yes	yes	yes		
+hin_adv	cooc		1508	no	no	no	yes	yes	yes		
+hinauftritt_verb	cooc		1789	no	no	yes	yes	yes	yes		
+hinaus_adv	cooc		1508	no	no	no	no	yes	yes		
+hindeuten_verb	cooc		1508	no	no	no	yes	yes	yes		
+hinein_adv	cooc		1545	no	no	no	yes	yes	yes		
+hineingehen_verb	cooc		1545	no	no	no	yes	no	yes		
+hineinsteckt_verb	cooc		1760	no	no	no	no	no	yes		
+hingegen_adv	cooc		1508	no	no	yes	yes	yes	yes		
+hinreichend_adj	cooc		1508	no	no	yes	yes	yes	yes		
+hinweg_adv	cooc		1545	no	no	no	yes	yes	yes		
+hinweisen_verb	cooc		1508	no	no	no	no	yes	yes		
+hoch_adj	cooc		1508	no	no	no	no	yes	yes		
+hoechst_adv	cooc		1508	no	no	yes	yes	yes	yes		
+hoeren_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+hold_verb	cooc		1659	no	no	no	no	yes	yes		
+immer_adv	cooc		1508	yes	no	yes	yes	yes	yes		
+imstande_verb	cooc		1659	no	no	no	no	yes	yes		
+inner_adj	cooc		1508	no	no	no	yes	yes	no		
+innerlich_adj	cooc		1659	no	no	no	yes	yes	yes		
+inniger_adj	cooc		1508	no	no	no	yes	yes	yes		
+irdisch_adj	cooc		1720	no	no	no	no	yes	yes		
+irgend_adv	cooc		1508	no	no	no	no	yes	yes		
+ist_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+je_adv	cooc		1508	no	no	no	no	yes	yes		
+kalten_adj	cooc		1628	no	no	no	yes	yes	yes		
+kann_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+kategorische_adj	cooc		1659	no	no	no	no	yes	yes		
+katholisch_adj	cooc		1508	no	no	no	yes	yes	yes		
+kaum_adv	cooc		1508	no	no	yes	yes	yes	yes		
+klaeglich_adj	cooc		1699	no	no	no	no	yes	yes		
+klaren_adj	cooc		1508	no	no	no	no	yes	yes		
+klein_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+kleine_adj	cooc		1508	no	no	no	yes	yes	yes		
+kleiner_adj	cooc		1508	no	no	no	no	no	yes		
+knicken_verb	cooc		1528	no	no	no	no	no	yes		
+koeniglich_adj	cooc		1699	no	no	no	yes	yes	yes		
+koenne_verb	cooc		1508	no	no	yes	yes	yes	yes		
+koennen_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+koennte_verb	cooc		1508	no	no	yes	yes	yes	yes		
+koennten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+koerperlich_adj	cooc		1508	no	no	yes	yes	yes	yes		
+kommen_verb	cooc		1508	no	no	no	no	yes	yes		
+konnte_verb	cooc		1508	yes	no	yes	yes	yes	yes		
+konnten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+kosen_verb	cooc		1745	no	no	no	yes	yes	yes		
+kratzen_verb	cooc		1724	no	no	no	no	yes	no		
+kritisch_adj	cooc		1528	no	no	no	no	yes	yes		
+kuerzer_adj	cooc		1508	no	no	no	no	yes	yes		
+kurz_adj	cooc		1508	no	no	no	no	no	yes		
+kurze_adj	cooc		1508	no	no	no	no	yes	yes		
+laden_verb	cooc		1508	no	no	no	no	yes	yes		
+laechelnd_adj	cooc		1703	no	no	no	no	yes	yes		
+laenger_adj	cooc		1508	no	no	no	yes	yes	yes		
+laesst_verb	cooc		1508	no	no	no	yes	yes	yes		
+lang_adj	cooc		1508	no	no	yes	yes	yes	yes		
+lange_adj	cooc		1508	no	no	no	no	no	yes		
+langer_adj	cooc		1508	no	no	no	yes	yes	yes		
+lassen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+laufen_verb	cooc		1508	no	no	no	yes	yes	yes		
+lebendig_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+legen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+lehren_verb	cooc		1508	no	no	no	yes	yes	yes		
+lehrreich_adj	cooc		1703	no	no	no	yes	yes	yes		
+lehrreicher_adj	cooc		1736	no	no	no	yes	yes	yes		
+leicht_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+leiten_verb	cooc		1508	no	no	no	yes	yes	yes		
+lernen_verb	cooc		1508	no	no	no	yes	yes	yes		
+lesen_verb	cooc		1508	no	no	no	yes	no	yes		
+letzt_adj	cooc		1508	no	no	no	yes	yes	yes		
+letzte_adj	cooc		1508	no	no	no	yes	yes	yes		
+letzter_adj	cooc		1508	no	no	no	yes	yes	yes		
+letztere_adj	cooc		1508	no	no	no	yes	no	yes		
+leuchten_verb	cooc		1525	no	no	no	yes	yes	yes		
+lichtblaue_adj	cooc		1780	no	no	no	no	yes	yes		
+lichtem_adj	cooc		1748	no	no	no	yes	yes	yes		
+lieblich_adj	cooc		1525	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+liegen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+link_adj	cooc		1739	no	no	no	yes	yes	yes		
+logisch_adj	cooc		1508	no	no	yes	yes	yes	yes		
+logische_adj	cooc		1659	no	no	yes	yes	yes	yes		
+logischer_adj	cooc		1508	no	no	yes	yes	yes	yes		
+machen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+mag_verb	cooc		1508	no	no	no	yes	no	no		
+massenhaft_adj	cooc		1659	no	no	no	no	yes	no		
+mathematisch_adj	cooc		1508	no	no	yes	yes	yes	yes		
+mehr_adv	cooc		1508	no	no	yes	yes	yes	yes		
+mehren_verb	cooc		1645	no	no	no	yes	yes	yes		
+meinige_adj	cooc		1508	no	no	no	no	yes	yes		
+melancholische_adj	cooc		1703	no	no	no	yes	yes	yes		
+menschlich_adj	cooc		1628	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+menschlichen_adj	cooc		1508	no	no	no	no	yes	yes		
+mildern_verb	cooc		1508	no	no	no	no	yes	yes		
+mischen_verb	cooc		1508	no	no	no	no	yes	yes		
+mithin_adv	cooc		1508	no	no	yes	yes	yes	yes		
+mitten_adv	cooc		1508	no	no	yes	no	yes	no		
+mittler_adj	cooc		1659	no	no	yes	yes	yes	yes		
+moechte_verb	cooc		1508	no	no	no	yes	yes	yes		
+moeglich_adj	cooc		1508	no	no	yes	yes	yes	yes		
+moeglichen_adj	cooc		1508	no	no	no	no	yes	yes		
+moeglichst_adv	cooc		1508	no	no	no	yes	yes	yes		
+moralisch_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+muesse_verb	cooc		1508	no	no	yes	yes	yes	yes		
+muessen_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+muss_verb	cooc		1508	no	no	yes	yes	yes	yes		
+musste_verb	cooc		1508	no	no	yes	yes	yes	yes		
+nach_adv	cooc		1508	yes	no	yes	yes	yes	yes		
+naeher_adj	cooc		1508	no	no	no	yes	yes	no		
+naehren_verb	cooc		1645	no	no	no	yes	yes	yes		
+naemlich_adv	cooc		1508	no	no	yes	yes	no	no		
+naemliche_adj	cooc		1528	no	no	yes	yes	yes	yes		
+natuerlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+nehmen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+neigen_verb	cooc		1659	no	no	no	no	no	yes		
+nennen_verb	cooc		1508	no	no	no	no	yes	yes		
+neu_adj	cooc		1508	no	no	yes	yes	yes	yes		
+neue_adj	cooc		1508	no	no	no	yes	yes	no		
+nie_adv	cooc		1508	no	no	no	yes	yes	yes		
+niemals_adv	cooc		1508	no	yes	yes	yes	yes	yes		
+noch_adv	cooc		1508	no	no	no	no	yes	yes		
+noethigen_adj	cooc		1508	no	no	no	yes	yes	yes		
+noetig_adj	cooc		1659	no	no	no	no	yes	yes		
+normal_adj	cooc		1508	no	no	no	no	yes	yes		
+nothwendigen_adj	cooc		1508	no	no	no	yes	yes	yes		
+notwendig_adj	cooc		1508	no	no	no	no	yes	no		
+nuetzliche_adj	cooc		1508	no	no	yes	yes	yes	yes		
+nunmehr_adv	cooc		1508	no	no	yes	yes	yes	yes		
+nur_adv	cooc		1508	no	no	yes	yes	yes	yes		
+ober_adj	cooc		1508	no	no	yes	yes	yes	yes		
+oberen_adj	cooc		1508	no	no	no	no	no	yes		
+oeffentlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+optisch_adj	cooc		1753	no	no	no	no	no	yes		
+optische_adj	cooc		1720	no	no	no	no	no	yes		
+ordentlichsten_adj	cooc		1723	no	no	no	yes	yes	yes		
+organisch_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+penetranten_adj	cooc		1749	no	no	no	yes	yes	yes		
+pflegen_verb	cooc		1508	no	no	no	yes	yes	yes		
+pfluecken_verb	cooc		1729	no	no	no	yes	yes	yes		
+philosophisch_adj	cooc		1628	no	no	yes	yes	yes	yes		
+platt_adj	cooc		1659	no	no	yes	yes	yes	no		CATEGORY|pungent
+popularisieren_verb	cooc		1790	no	no	no	no	no	yes		
+praktisch_adj	cooc		1508	no	no	yes	yes	yes	yes		
+praktische_adj	cooc		1508	no	no	no	yes	no	yes		
+predigen_verb	cooc		1689	no	no	no	yes	yes	yes		
+pruefen_verb	cooc		1508	no	no	no	no	yes	yes		
+publizistisch_adj	cooc		1659	no	no	no	no	yes	yes		
+putzen_verb	cooc		1734	no	no	no	yes	yes	yes		
+rasch_adj	cooc		1508	no	no	no	yes	yes	yes		
+rauh_verb	cooc		1659	no	no	no	yes	no	yes		
+rauschen_verb	cooc		1703	no	no	no	no	no	yes		
+recht_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+recht_adv	cooc		1508	no	no	no	no	yes	no		
+rechte_adj	cooc		1508	no	no	no	no	yes	yes		
+rechtlichen_adj	cooc		1508	no	no	yes	yes	yes	yes		
+rechtzeitig_adj	cooc		1508	no	no	no	no	no	yes		
+regulativ_adj	cooc		1781	no	no	yes	yes	yes	yes		
+reiben_verb	cooc		1659	no	no	yes	yes	yes	yes		
+reichen_verb	cooc		1508	no	no	no	yes	yes	yes		
+rein_adv	cooc		1508	no	no	no	yes	yes	yes		
+reine_adj	cooc		1508	no	no	no	yes	yes	yes		
+reinen_adj	cooc		1508	no	no	no	yes	yes	yes		
+richten_verb	cooc		1508	no	no	no	yes	no	yes		
+richtige_adj	cooc		1508	no	no	no	yes	no	yes		
+riechen_verb	cooc	['s58710', 's54431', 's58712', 's58565']	1659	no	no	yes	yes	yes	yes		
+ringen_verb	cooc		1508	no	no	no	no	no	yes		
+rot_adj	cooc		1659	no	no	no	no	no	yes		
+rote_adj	cooc		1508	no	no	no	no	no	yes		
+roter_adj	cooc		1659	no	no	no	no	yes	yes		
+rothe_adj	cooc		1645	no	no	no	yes	yes	yes		
+ruempfen_verb	cooc		1758	no	no	yes	yes	yes	yes		
+ruhig_adj	cooc		1528	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+sagen_verb	cooc		1508	no	no	no	yes	yes	yes		
+sah_verb	cooc		1508	no	no	no	no	yes	yes		
+sammeln_verb	cooc		1508	no	no	no	yes	yes	yes		
+schaetzen_verb	cooc		1508	no	no	no	yes	yes	yes		
+schaffen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+scharf_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|pungent
+scheinen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+schenken_verb	cooc		1727	no	no	no	no	yes	yes		
+schlaefrig_adj	cooc		1720	no	no	no	no	yes	yes		
+schlagen_verb	cooc		1508	no	no	no	yes	yes	yes		
+schlank_adj	cooc		1659	no	no	no	yes	yes	yes		
+schlecht_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|pungent
+schliessen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+schmal_adv	cooc		1508	no	no	no	no	yes	yes		
+schmecken_verb	cooc		1659	no	yes	yes	yes	yes	yes		
+schmuecken_verb	cooc		1659	no	no	no	no	yes	yes		
+schneidend_adj	cooc		1628	no	no	no	yes	yes	yes		CATEGORY|pungent
+schneidender_adj	cooc		1751	no	no	no	yes	yes	yes		
+schnell_adj	cooc		1508	no	no	no	yes	yes	yes		
+schneller_adj	cooc		1528	no	no	no	yes	no	no		
+schoen_adj	cooc		1525	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+schoene_adj	cooc		1508	no	no	yes	yes	yes	yes		
+schon_adv	cooc		1508	no	no	no	yes	yes	yes		
+schriftlich_adj	cooc		1508	no	no	no	yes	yes	yes		
+schuetzen_verb	cooc		1508	no	no	no	yes	yes	yes		
+schwach_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+schweben_verb	cooc		1659	no	no	no	yes	yes	yes		
+schwefliger_adj	cooc		1793	no	no	no	yes	yes	yes		
+schwuel_adj	cooc		1754	no	no	no	yes	yes	no		
+sehen_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+sehn_verb	cooc		1528	no	no	no	no	no	yes		
+sehne_verb	cooc		1689	no	no	no	yes	yes	yes		
+sehr_adv	cooc		1508	no	no	no	yes	yes	yes		
+sei_verb	cooc		1508	no	no	no	yes	yes	no		
+sein_verb	cooc		1508	no	no	no	yes	no	no		
+selbst_adv	cooc		1508	no	no	yes	yes	yes	yes		
+seltsam_adj	cooc		1528	no	no	no	yes	yes	yes		CATEGORY|pungent
+setzen_verb	cooc		1508	no	no	no	yes	yes	yes		
+sicher_adj	cooc		1508	no	no	no	yes	yes	yes		
+sichern_verb	cooc		1508	no	no	no	yes	yes	no		
+silberglaenzend_adj	cooc		1804	no	no	no	no	no	yes		
+sind_verb	cooc		1508	no	no	yes	yes	yes	no		
+sinnlich_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+sitzen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+so_adv	cooc		1508	no	yes	yes	yes	yes	yes		
+soll_verb	cooc		1508	no	no	yes	yes	yes	yes		
+solle_verb	cooc		1508	no	no	yes	yes	yes	yes		
+sollen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+sollte_verb	cooc		1508	no	no	yes	yes	yes	yes		
+sollten_verb	cooc		1508	no	no	no	yes	yes	yes		
+sonderbare_adj	cooc		1659	no	no	no	no	yes	yes		
+sorgfaeltigsten_adj	cooc		1720	no	no	no	yes	yes	yes		
+sozusagen_adv	cooc		1508	no	no	no	no	yes	yes		
+spaeter_adj	cooc		1508	no	no	no	no	yes	yes		
+spitz_adj	cooc		1645	no	no	no	yes	yes	yes		
+spitze_adj	cooc		1659	no	no	no	yes	yes	yes		
+sprechen_verb	cooc		1508	yes	no	no	yes	yes	yes		
+spriessen_verb	cooc		1729	no	no	no	yes	yes	yes		
+spruehen_verb	cooc		1749	no	no	no	yes	yes	yes		
+staerken_verb	cooc		1528	no	no	no	yes	yes	yes		
+stark_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|pungent
+starke_adj	cooc		1508	no	no	yes	yes	yes	yes		
+starker_adj	cooc		1508	no	no	no	yes	yes	yes		
+stechen_verb	cooc		1659	no	no	no	yes	yes	yes		
+stechend_adj	cooc		1740	no	no	no	yes	yes	yes		CATEGORY|pungent
+stecken_verb	cooc		1645	no	no	no	yes	yes	yes		
+stehen_verb	cooc		1508	no	no	no	yes	yes	no		
+stehend_adj	cooc		1508	no	no	no	yes	yes	yes		
+steigen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+steigend_adj	cooc		1659	no	no	no	yes	yes	yes		
+stellen_verb	cooc		1508	no	no	no	no	no	yes		
+stossen_verb	cooc		1508	no	no	no	yes	yes	yes		
+streben_verb	cooc		1508	no	yes	no	yes	yes	yes		
+studieren_verb	cooc		1659	no	no	no	no	yes	yes		
+stumpfen_adj	cooc		1659	no	no	no	yes	yes	yes		
+suche_verb	cooc		1508	no	no	no	yes	yes	yes		
+suchen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+suessen_adj	cooc		1528	yes	no	no	yes	yes	yes		
+symbolische_adj	cooc		1628	no	no	no	yes	yes	yes		
+systematisch_adj	cooc		1528	no	no	no	no	yes	no		
+tasten_verb	cooc		1717	no	no	no	yes	yes	yes		
+tatsaechlich_adj	cooc		1508	no	no	no	no	yes	no		
+teils_adv	cooc		1659	no	no	no	no	no	yes		
+trachten_verb	cooc		1659	no	no	no	yes	yes	yes		
+tragen_verb	cooc		1508	no	no	yes	no	no	yes		
+treten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+trinken_verb	cooc		1508	no	no	no	yes	yes	yes		
+tritt_verb	cooc		1508	no	no	no	yes	yes	no		
+trocken_adj	cooc		1659	no	no	no	yes	yes	no		CATEGORY|woody/earthy/mouldy
+trueben_adj	cooc		1659	no	no	no	yes	yes	yes		
+tuechtig_adj	cooc		1508	no	no	yes	yes	yes	yes		
+uebel_adj	cooc		1528	no	no	yes	yes	yes	yes		
+ueben_verb	cooc		1508	no	no	no	no	yes	yes		
+ueberall_adv	cooc		1508	no	no	yes	yes	yes	yes		
+ueberallhin_adv	cooc		1781	no	no	no	yes	yes	yes		
+ueberbietender_adj	cooc		1829	no	no	no	no	yes	yes		
+ueberfluessig_adj	cooc		1508	no	no	no	yes	no	no		
+ueberhaupt_adv	cooc		1508	no	no	no	yes	yes	yes		
+ueberhebt_verb	cooc		1508	no	no	yes	yes	yes	yes		
+ueberholt_verb	cooc		1727	no	no	no	yes	yes	yes		
+ueberkommen_adj	cooc		1734	no	no	no	no	yes	yes		
+ueberraschend_adj	cooc		1508	no	no	no	yes	yes	yes		
+uebersetzen_verb	cooc		1659	no	no	no	no	yes	yes		
+uebertreffen_verb	cooc		1528	no	no	no	no	yes	yes		
+ueberwiegender_adj	cooc		1508	no	no	no	yes	yes	yes		
+uebler_adj	cooc		1659	no	no	yes	yes	yes	yes		
+uebrig_adj	cooc		1508	no	yes	yes	yes	yes	yes		
+umgebend_adj	cooc		1791	no	no	no	no	yes	yes		
+umgekehrt_adj	cooc		1508	no	no	no	yes	yes	yes		
+unangenehm_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|pungent
+unangenehmen_adj	cooc		1508	no	no	yes	yes	yes	yes		
+unbedingter_adj	cooc		1508	no	no	no	no	yes	yes		
+unbestimmbare_adj	cooc		1783	no	no	no	yes	yes	yes		
+undeutlich_adj	cooc		1659	no	no	no	yes	yes	yes		
+unerbittlicher_adj	cooc		1740	no	no	no	no	yes	yes		
+unertraeglich_adj	cooc		1659	no	no	no	yes	yes	yes		
+unertraeglichen_adj	cooc		1508	no	no	yes	yes	yes	yes		
+unertraeglicher_adj	cooc		1645	no	no	yes	yes	yes	yes		
+unerwartet_adj	cooc		1508	no	no	no	yes	yes	yes		
+ungebildeten_adj	cooc		1508	no	no	no	yes	yes	yes		
+ungeheuren_adj	cooc		1508	no	no	no	no	yes	yes		
+ungemein_adj	cooc		1689	no	no	yes	yes	yes	yes		
+ungewoehnlich_adj	cooc		1508	no	no	no	no	yes	yes		
+ungewoehnlicher_adj	cooc		1628	no	no	no	no	no	yes		
+unmerkliche_adj	cooc		1659	no	no	no	yes	yes	yes		
+unmittelbar_adj	cooc		1508	no	no	yes	yes	yes	yes		
+unmoeglich_adj	cooc		1508	no	no	no	yes	yes	no		
+unscheinbar_adj	cooc		1756	no	no	no	yes	yes	yes		
+unschuldig_adj	cooc		1689	no	no	no	yes	yes	yes		CATEGORY|pungent
+unsrige_adj	cooc		1528	no	no	no	yes	yes	yes		
+unsterblichen_adj	cooc		1628	no	no	no	yes	yes	yes		
+untere_adj	cooc		1508	no	no	no	yes	yes	no		
+unteren_adj	cooc		1508	no	no	no	yes	yes	no		
+unterscheiden_verb	cooc		1508	no	no	yes	yes	yes	yes		
+unterscheidend_adj	cooc		1701	no	no	no	yes	yes	yes		
+unterstuetzen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+unverminderter_adj	cooc		1773	no	no	no	no	yes	yes		
+ursaechlich_adj	cooc		1777	no	no	no	no	yes	yes		
+veraechtlich_adj	cooc		1708	no	no	no	no	no	yes		
+veraendern_verb	cooc		1508	no	no	yes	yes	yes	yes		
+verallgemeinern_verb	cooc		1508	no	no	no	no	yes	no		
+veranstalten_verb	cooc		1508	no	no	no	no	yes	yes		
+verantwortlich_adj	cooc		1508	no	no	no	no	yes	yes		
+verarbeiten_verb	cooc		1508	no	no	no	yes	yes	yes		
+verbessern_verb	cooc		1508	no	no	no	yes	yes	yes		
+verbinden_verb	cooc		1508	no	no	no	yes	yes	yes		
+verbindet_verb	cooc		1508	no	no	no	yes	yes	yes		
+verblueht_verb	cooc		1749	no	no	no	no	yes	yes		
+verbreiten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+verdorret_verb	cooc		1729	no	no	yes	yes	yes	yes		
+verdorrt_verb	cooc		1659	no	no	no	yes	yes	yes		
+vereinigenden_adj	cooc		1508	no	no	no	yes	yes	yes		
+vereinigten_adj	cooc		1508	no	no	no	no	yes	yes		
+verfassen_verb	cooc		1719	no	no	no	yes	yes	no		
+verfolgen_verb	cooc		1508	no	no	no	yes	yes	yes		
+vergaengliche_adj	cooc		1708	no	no	no	yes	yes	yes		
+vergehen_verb	cooc		1508	no	no	no	yes	no	yes		
+verhalten_verb	cooc		1508	no	no	no	yes	no	yes		
+verharren_verb	cooc		1528	no	no	no	yes	yes	yes		
+verknuepfen_verb	cooc		1528	no	no	no	no	yes	yes		
+verkuenden_verb	cooc		1508	no	no	no	yes	yes	yes		
+verleihen_verb	cooc		1508	no	no	no	yes	yes	yes		
+verlieren_verb	cooc		1508	no	yes	no	yes	yes	yes		
+vermag_verb	cooc		1508	no	no	no	yes	yes	yes		
+vermehren_verb	cooc		1508	no	no	no	yes	yes	yes		
+vermeinen_verb	cooc		1689	no	no	yes	yes	yes	yes		
+vermischen_verb	cooc		1659	no	no	no	no	yes	no		
+vermitteln_verb	cooc		1508	no	no	no	no	yes	yes		
+vermochte_verb	cooc		1508	no	no	no	yes	yes	yes		
+vermoegen_verb	cooc		1508	no	no	no	yes	yes	yes		
+veroeffentlichen_verb	cooc		1508	no	no	no	yes	yes	yes		
+verschieden_adj	cooc		1508	no	no	no	yes	yes	yes		
+verschiedene_adj	cooc		1508	no	no	yes	yes	no	yes		
+verschiedenen_adj	cooc		1508	no	no	yes	yes	no	no		
+verschwinden_verb	cooc		1508	no	no	no	yes	yes	yes		
+versprechen_verb	cooc		1508	no	no	no	yes	yes	yes		
+verstaerken_verb	cooc		1508	no	no	no	yes	yes	yes		
+verstehen_verb	cooc		1508	no	no	no	yes	yes	yes		
+verstopfen_verb	cooc		1729	no	no	yes	yes	yes	yes		
+versuchen_verb	cooc		1508	no	no	no	yes	yes	yes		
+verteidigen_verb	cooc		1659	no	no	no	no	yes	yes		
+vertiefen_verb	cooc		1727	no	no	no	yes	yes	yes		
+vertreten_verb	cooc		1508	no	no	no	yes	yes	yes		
+verurteilen_verb	cooc		1729	no	no	no	no	yes	yes		
+vervielfaeltigen_verb	cooc		1508	no	no	no	yes	yes	yes		
+verwandeln_verb	cooc		1508	no	no	no	yes	yes	yes		
+verwandten_adj	cooc		1508	no	no	yes	yes	yes	yes		
+verwelken_verb	cooc		1628	no	no	no	yes	yes	yes		
+verwelket_verb	cooc		1739	no	no	yes	yes	yes	yes		
+verwirklichen_verb	cooc		1508	no	no	no	yes	yes	yes		
+vielleicht_adv	cooc		1508	no	no	no	yes	no	no		
+vielmehr_adv	cooc		1508	no	no	yes	yes	no	no		
+visuelle_adj	cooc		1838	no	no	no	no	no	yes		
+voellig_adj	cooc		1508	no	no	yes	yes	yes	yes		
+voll_adj	cooc		1508	yes	no	no	yes	yes	yes		
+vollenden_adj	cooc		1759	no	no	yes	yes	yes	yes		
+voller_adj	cooc		1508	no	no	no	yes	yes	yes		
+vollkommenere_adj	cooc		1659	no	no	no	yes	yes	yes		
+voneinander_adv	cooc		1659	no	no	no	no	yes	yes		
+vorangehen_verb	cooc		1508	no	no	no	yes	yes	yes		
+voraussetzen_verb	cooc		1508	no	no	no	yes	no	yes		
+vorgehen_verb	cooc		1508	no	no	no	yes	yes	yes		
+vorgehend_adj	cooc		1761	no	no	no	no	no	yes		
+vorhanden_adj	cooc		1508	no	no	no	yes	no	no		
+vorhergehende_adj	cooc		1508	no	no	no	no	yes	yes		
+vornehmen_verb	cooc		1508	no	no	no	no	yes	no		
+vorsichtig_adj	cooc		1508	no	no	no	yes	yes	yes		
+vorstellen_verb	cooc		1508	no	no	no	yes	yes	yes		
+wachsen_verb	cooc		1508	no	no	no	yes	yes	yes		
+wachsenden_adj	cooc		1508	no	no	no	no	no	yes		
+waechserne_adj	cooc		1742	no	no	yes	yes	yes	yes		
+waechsernen_adj	cooc		1729	no	no	no	yes	no	yes		
+waere_verb	cooc		1508	no	no	no	yes	yes	no		
+wahr_adj	cooc		1508	no	no	yes	yes	yes	yes		
+wahrnehmen_verb	cooc		1528	no	no	no	yes	yes	yes		
+war_verb	cooc		1508	no	no	no	no	yes	yes		
+ward_verb	cooc		1508	no	no	no	no	yes	no		
+webend_adj	cooc		1772	no	no	no	no	yes	yes		
+wecken_verb	cooc		1508	no	no	yes	yes	yes	yes		
+weg_adv	cooc		1508	no	no	no	yes	yes	yes		
+wegschnappen_verb	cooc		1751	no	no	no	yes	yes	yes		
+wegschnappte_verb	cooc		1798	no	no	no	no	yes	yes		
+wehen_verb	cooc		1528	no	no	no	yes	yes	yes		
+weiblich_adj	cooc		1699	no	no	no	no	yes	yes		
+weiss_verb	cooc		1508	no	no	yes	yes	yes	yes		
+weit_adj	cooc		1508	no	no	yes	yes	yes	yes		
+weit_adv	cooc		1508	no	yes	yes	yes	yes	yes		
+weiterhin_adv	cooc		1508	no	no	no	yes	no	yes		
+weitern_adj	cooc		1508	no	no	no	yes	yes	yes		
+weitesten_adj	cooc		1508	no	no	no	yes	yes	yes		
+weithin_adv	cooc		1659	no	no	no	yes	yes	yes		
+welken_verb	cooc		1528	no	no	no	no	no	yes		
+wenden_verb	cooc		1508	no	no	no	no	yes	yes		
+werde_verb	cooc		1508	no	no	yes	yes	yes	yes		
+werden_verb	cooc		1508	no	no	yes	no	yes	yes		
+wesentlich_adj	cooc		1508	no	no	no	yes	no	yes		
+widerlich_adj	cooc		1745	no	no	no	yes	yes	yes		CATEGORY|pungent
+widerstandslos_adj	cooc		1528	no	no	no	yes	yes	yes		
+wieder_adv	cooc		1508	no	no	yes	yes	yes	yes		
+wiederholen_verb	cooc		1508	no	no	no	yes	no	yes		
+wild_adj	cooc		1659	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+will_verb	cooc		1508	no	no	no	yes	yes	yes		
+wird_verb	cooc		1508	no	yes	yes	yes	yes	yes		
+wirken_verb	cooc		1508	no	no	yes	yes	yes	yes		
+wirklich_adj	cooc		1508	no	no	yes	yes	yes	yes		
+wirklichen_adj	cooc		1508	no	no	no	yes	yes	yes		
+wirksam_adj	cooc		1508	no	no	no	no	yes	yes		
+wirksamer_adj	cooc		1508	no	no	no	no	no	yes		
+wissen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+woelben_verb	cooc		1732	no	no	no	yes	yes	yes		
+wohl_adv	cooc		1508	no	no	no	no	yes	no		
+wohlbekannte_adj	cooc		1729	no	no	no	no	yes	yes		
+wolle_verb	cooc		1508	no	no	no	no	yes	yes		
+wollen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+wollte_verb	cooc		1508	no	no	no	no	yes	yes		
+wollten_verb	cooc		1508	no	no	yes	yes	yes	yes		
+woran_adj	cooc		1773	no	no	yes	yes	yes	yes		
+worden_verb	cooc		1508	no	no	yes	yes	no	yes		
+wuenschen_verb	cooc		1508	no	no	no	yes	yes	yes		
+wuenschenswerten_adj	cooc		1659	no	no	no	no	yes	yes		
+wuerde_verb	cooc		1508	no	no	yes	yes	yes	yes		
+wuerden_verb	cooc		1508	no	no	no	no	no	yes		
+wulstige_adj	cooc		1791	no	no	no	yes	yes	yes		
+wundermilden_adj	cooc		1861	no	no	no	no	no	yes		
+wurde_verb	cooc		1508	no	no	yes	no	no	no		
+wusste_verb	cooc		1508	no	no	no	no	yes	yes		
+zarte_adj	cooc		1508	no	no	no	yes	yes	yes		
+zeichnen_verb	cooc		1508	no	no	no	yes	yes	yes		
+zeigen_verb	cooc		1508	no	no	no	yes	no	yes		
+zerbrochen_adj	cooc		1738	no	no	no	no	no	yes		
+zerstoerend_adj	cooc		1659	no	no	no	yes	yes	yes		
+zertreten_verb	cooc		1659	no	no	no	yes	yes	yes		
+zertruemmern_verb	cooc		1528	no	no	no	no	no	yes		
+ziehen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+zuerst_adv	cooc		1508	no	no	no	yes	yes	no		
+zugleich_adv	cooc		1508	no	no	no	yes	no	yes		
+zuhalten_verb	cooc		1525	no	no	yes	yes	yes	yes		
+zukommen_verb	cooc		1508	no	no	yes	yes	yes	yes		
+zukuenftigen_adj	cooc		1508	no	no	yes	yes	yes	yes		
+zuletzt_adv	cooc		1508	no	no	no	yes	yes	yes		
+zumachen_verb	cooc		1508	no	no	no	no	no	yes		
+zunaechst_adv	cooc		1508	no	no	no	yes	no	yes		
+zunahmen_verb	cooc		1659	no	no	no	no	no	yes		
+zunehmen_verb	cooc		1508	no	no	no	yes	yes	yes		
+zunehmender_adj	cooc		1628	no	no	no	no	yes	yes		
+zupfen_verb	cooc		1760	no	no	no	yes	yes	yes		
+zurueckbleiben_verb	cooc		1508	no	no	no	yes	yes	yes		
+zurueckweisen_verb	cooc		1508	no	no	no	yes	yes	yes		
+zusammenfassen_verb	cooc		1508	no	no	no	yes	yes	yes		
+zusammenschlagen_verb	cooc		1659	no	no	no	yes	yes	yes		
+zusammenstossen_verb	cooc		1659	no	no	no	yes	yes	yes		
+zuschlagen_verb	cooc		1525	no	yes	no	yes	yes	yes		
+zutage_adv	cooc		1645	no	no	no	no	yes	yes		
+zwar_adv	cooc		1508	no	no	yes	yes	yes	yes		
+zweckmaessig_adj	cooc		1508	no	no	yes	yes	yes	yes		
+sensorisches Attribut	WordNetExpansion	s14262
+Modergeruch	WordNetExpansion	s146554
+Kellergeruch	WordNetExpansion	s151654
+Wohlgeruch	WordNetExpansion	s113551
+Odeur	WordNetExpansion	s113551
+Gasgeruch	WordNetExpansion	s136168
+Aasgeruch	WordNetExpansion	s146559
+Ausdünstung	WordNetExpansion	s83055
+Seegeruch	WordNetExpansion	s154610
+Verwesungsgeruch	WordNetExpansion	s149552
+Leichengeruch	WordNetExpansion	s149552
+Chlorgeruch	WordNetExpansion	s146566
+Tabakgeruch	WordNetExpansion	s154611
+Benzingeruch	WordNetExpansion	s149056
+Stallgeruch	WordNetExpansion	s151481
+Duftgemisch	WordNetExpansion	s158113
+Körpergeruch	WordNetExpansion	s86852
+Teergeruch	WordNetExpansion	s154612
+Wildgeruch	WordNetExpansion	s154613
+Rauchgeruch	WordNetExpansion	s145834
+Schwefelgeruch	WordNetExpansion	s135676
+Mief	WordNetExpansion	s14291
+Muffigkeit	WordNetExpansion	s14291
+Muff	WordNetExpansion	s14291
+Mundgeruch	WordNetExpansion	s76612
+Brandgeruch	WordNetExpansion	s139361
+Eigengeruch	WordNetExpansion	s124376
+Alkoholgeruch	WordNetExpansion	s139617
+Uringeruch	WordNetExpansion	s144939
+Fischgeruch	WordNetExpansion	s148882
+Blume	WordNetExpansion	s14293
+Bukett	WordNetExpansion	s14293
+Bouquet	WordNetExpansion	s14293
+Essensgeruch	WordNetExpansion	s147011
+Fußgeruch	WordNetExpansion	s145531
+Schimmelgeruch	WordNetExpansion	s151554
+Knoblauchgeruch	WordNetExpansion	s146745
+Knoblauchduft	WordNetExpansion	s146745
+Ledergeruch	WordNetExpansion	s151652
+Schärfe	WordNetExpansion	s109855
+Spürsinn	WordNetExpansion	s110001
+Nase	WordNetExpansion	s112846
+Kosmetikartikel	WordNetExpansion	s11331
+Kosmetik	WordNetExpansion	s11331
+Kosmetikprodukt	WordNetExpansion	s11331
+Herrenduft	WordNetExpansion	s140496
+Eau de Cologne	WordNetExpansion	s11347
+Kölnisch Wasser	WordNetExpansion	s11347
+Lavendelwasser	WordNetExpansion	s87469
+Eau de Toilette	WordNetExpansion	s11346
+Toilettenwasser	WordNetExpansion	s11346
+Geruchsstoff	WordNetExpansion	s47601
+Riechstoff	WordNetExpansion	s47601
+Ambra	WordNetExpansion	s73077
+Blumenduft	WordNetExpansion	s146330
+Blumengeruch	WordNetExpansion	s146330
+Kaffeeduft	WordNetExpansion	s142554
+Rosenduft	WordNetExpansion	s139916
+Fliederduft	WordNetExpansion	s141799
+Tannenduft	WordNetExpansion	s148970
+Veilchenduft	WordNetExpansion	s137179
+Dufthauch	WordNetExpansion	s158114
+Bratengeruch	WordNetExpansion	s151556
+Bratenduft	WordNetExpansion	s151556
+Duftwolke	WordNetExpansion	s158095
+Duftnote	WordNetExpansion	s103565
+Mandelduft	WordNetExpansion	s157174
+Lavendelduft	WordNetExpansion	s143229
+Glühweinduft	WordNetExpansion	s155590
+Blütenduft	WordNetExpansion	s130342
+Ruch	WordNetExpansion	s110380
+Lieblingsduft	WordNetExpansion	s139655
+absondern	WordNetExpansion	s54399
+sekretieren	WordNetExpansion	s54399
+wahrnehmen	WordNetExpansion	s58414
+perzipieren	WordNetExpansion	s58414
+wittern	WordNetExpansion	s58566
+beriechen	WordNetExpansion	s58568
+beschnuppern	WordNetExpansion	s58568
+beschnüffeln	WordNetExpansion	s58568
+erschnuppern	WordNetExpansion	s83572
+erschnüffeln	WordNetExpansion	s83341
+Hautpflege	WordNetExpansion	s54645
+verbreiten	WordNetExpansion	s82692
+abgeben	WordNetExpansion	s82692
+ausgasen	WordNetExpansion	s119817
+geruchsspezifisch	WordNetExpansion	s3185

@@ -1,0 +1,2695 @@
+word	source	synset	first appearance	1650-1700	1701-1750	1751-1800	1801-1850	1851-1900	1901-1925	smell-source	quality
+annusare_verb	seed	['smell.v.01']	1769	no	no	no	no	no	yes
+aroma_noun	seed	['aroma.n.02', 'spice.n.02']	1612	no	no	no	yes	yes	yes
+aromatico_adj	seed	['fragrant.a.01']	1701	no	no	no	yes	yes	yes
+bouquet_noun	seed	['bouquet.n.02']	1787	no	no	no	no	yes	yes
+decomposizione_noun	seed	['putrefaction.n.01']	1564	no	no	yes	yes	yes	yes
+droga_noun	seed	['spice.n.02']	1667	no	no	no	yes	yes	yes
+effluvio_noun	seed	['malodor.n.01', 'aroma.n.02', 'bouquet.n.02']	1706	no	no	no	no	yes	yes
+emanare_verb	seed	['smell.v.02']	1564	yes	yes	yes	yes	yes	yes
+emanazione_noun	seed	['emission.n.01']	1610	yes	yes	yes	yes	yes	yes
+emissione_noun	seed	['emission.n.01']	1564	yes	yes	yes	yes	yes	yes
+esalazione_noun	seed	['emission.n.01']	1604	no	yes	yes	yes	yes	yes
+essenza_noun	seed	['essential_oil.n.01']	1610	yes	yes	yes	yes	yes	yes
+estratto_noun	seed		1564	no	no	yes	yes	yes	yes
+fetido_adj	seed	['malodorous.a.01']	1599	no	no	yes	yes	yes	yes
+fetore_noun	seed	['malodor.n.01']	1623	no	no	yes	yes	yes	yes
+fiutare_verb	seed	['smell.v.01']	1707	no	no	no	no	yes	yes
+fragrante_adj	seed	['fragrant.a.01']	1734	no	no	no	no	yes	yes
+fragranza_noun	seed	['aroma.n.02']	1657	no	no	no	yes	yes	yes
+leppo_noun	seed	['malodor.n.01']	1610	no	no	yes	yes	yes	yes
+lezzo_noun	seed	['malodor.n.01']	1674	no	no	yes	yes	yes	yes
+miasma_noun	seed	['malodor.n.01', 'miasma.n.02']	1718	no	no	no	yes	yes	yes
+morbo_noun	seed		1578	no	yes	yes	yes	yes	yes
+odorare_verb	seed	['smell.v.01', 'smell.v.02', 'smell.v.03', 'perfume.v.01']	1555	no	no	yes	yes	yes	yes
+odorato_adj	seed		1555	no	no	yes	yes	yes	yes
+odore_noun	seed	['aroma.n.02', 'olfactory_property.n.01', 'smell.n.01', 'scent.n.02']	1550	no	yes	yes	yes	yes	yes
+odoroso_adj	seed	['fragrant.a.01']	1668	no	no	no	yes	yes	yes
+olezzare_verb	seed		1715	no	no	yes	yes	yes	yes
+olezzo_noun	seed	['malodor.n.01', 'aroma.n.02']	1729	no	no	no	yes	yes	yes
+olfattivo_adj	seed		1802	no	no	no	yes	yes	yes
+olfattorio_adj	seed		1754	no	no	no	yes	yes	yes
+olire_verb	seed		1564	no	no	no	yes	yes	no
+pestilenza_noun	seed	['malodor.n.01']	1638	no	yes	yes	yes	yes	yes
+profumare_verb	seed	['perfume.v.01', 'perfume.v.02']	1679	no	no	no	yes	yes	yes
+profumato_adj	seed	['fragrant.a.01', 'scented.a.01']	1670	no	no	no	no	yes	yes
+profumo_noun	seed	['aroma.n.02', 'olfactory_property.n.01', 'smell.n.01', 'perfume.n.02']	1638	no	no	yes	yes	yes	yes
+putire_verb	seed		1555	no	no	no	yes	yes	yes
+putrefatto_adj	seed	['putrid.a.01']	1668	no	no	no	yes	yes	yes
+putrefazione_noun	seed	['putrefaction.n.01']	1697	no	no	yes	yes	yes	yes
+puzza_noun	seed	['malodor.n.01']	1604	no	no	yes	yes	yes	yes
+puzzare_verb	seed	['smell.v.03']	1603	no	no	no	yes	yes	yes
+puzzo_noun	seed	['malodor.n.01']	1657	no	no	yes	yes	yes	yes
+puzzolente_adj	seed	['malodorous.a.01']	1563	no	no	no	no	yes	yes
+sentire_verb	seed	['smell.v.01']	1550	yes	yes	yes	yes	yes	yes
+sito_noun	seed	['malodor.n.01']	1550	yes	yes	yes	yes	yes	yes
+soave_adj	seed		1679	no	yes	yes	yes	yes	yes
+suave_adj	seed		1731	no	no	no	no	yes	yes
+tanfo_noun	seed	['malodor.n.01']	1599	no	no	no	no	yes	yes
+abbandonare_noun	cooc		1802	no	no	no	no	yes	yes
+abbandonare_verb	cooc		1550	no	no	no	no	yes	no
+abbruciando_verb	cooc		1674	no	no	no	yes	no	no
+abitare_noun	cooc		1787	no	no	yes	yes	yes	yes
+abitare_verb	cooc		1550	no	no	no	yes	yes	no
+abitato_verb	cooc		1578	no	no	no	yes	yes	yes
+abituato_verb	cooc		1599	no	no	no	no	no	yes
+absoluta_noun	cooc		1729	no	no	no	no	no	yes
+abusare_noun	cooc		1790	no	no	no	yes	yes	yes
+abuso_noun	cooc		1604	no	no	yes	yes	yes	yes
+accademici_noun	cooc		1667	no	no	no	no	yes	yes
+accadere_verb	cooc		1555	no	no	no	no	yes	yes
+accelerare_verb	cooc		1599	no	no	no	no	yes	yes
+accettare_verb	cooc		1555	no	no	no	no	no	yes
+accolta_adj	cooc		1610	no	no	no	no	yes	yes
+accompagnare_verb	cooc		1555	no	no	yes	yes	yes	yes
+accordare_noun	cooc		1838	no	no	no	no	no	yes
+accrescere_verb	cooc		1550	no	no	no	no	no	yes
+accusa_noun	cooc		1623	no	no	no	yes	yes	yes
+accusare_verb	cooc		1623	no	no	no	no	yes	yes
+accusato_verb	cooc		1623	no	no	no	no	yes	yes
+acetico_adj	cooc		1788	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+aceto_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+acetone_noun	cooc		1789	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+achea_adj	cooc		1734	no	no	no	yes	no	no
+acido_noun	cooc		1671	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal
+acqua_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|industry
+acquoso_adj	cooc		1706	no	no	no	yes	yes	yes		CATEGORY|pungent
+acre_adj	cooc		1565	no	no	no	yes	yes	yes		CATEGORY|pungent
+acutezza_noun	cooc		1550	no	no	no	yes	yes	yes
+acuto_adj	cooc		1557	no	no	yes	yes	yes	yes		CATEGORY|pungent
+addirittura_adv	cooc		1610	no	no	no	no	yes	no
+addison_noun	cooc		1787	no	no	no	no	yes	yes
+adem_noun	cooc		1657	no	no	no	yes	yes	yes
+adombra_adv	cooc		1729	no	no	no	no	yes	yes
+adornare_verb	cooc		1603	no	no	no	yes	yes	yes
+adorno_noun	cooc		1559	no	no	no	no	yes	yes
+adunare_verb	cooc		1657	no	no	no	no	yes	yes
+affarismo_noun	cooc		1785	no	no	no	no	yes	yes
+afferrare_verb	cooc		1629	no	no	no	no	no	yes
+affetta_verb	cooc		1599	no	no	no	no	yes	yes
+affetti_noun	cooc		1550	no	no	no	no	yes	yes
+affetti_verb	cooc		1578	no	no	no	no	yes	yes
+affetto_adj	cooc		1599	no	no	no	no	yes	yes
+affezione_noun	cooc		1555	no	no	no	no	yes	yes
+affittanza_noun	cooc		1610	no	no	no	yes	yes	yes
+affliggere_verb	cooc		1670	no	no	no	yes	yes	yes
+affogare_verb	cooc		1668	no	no	no	no	no	yes
+africano_adj	cooc		1555	no	no	no	no	yes	yes
+aggiunta_noun	cooc		1550	no	no	no	no	no	yes
+agio_noun	cooc		1550	no	no	no	no	no	yes
+agire_verb	cooc		1610	no	no	no	yes	yes	yes
+aglio_noun	cooc		1599	no	no	yes	yes	yes	yes	CATEGORY|food|beverage
+agrario_adj	cooc		1610	yes	yes	no	yes	yes	yes
+agricolo_adj	cooc		1610	no	no	no	yes	yes	yes
+aguglion_noun	cooc		1796	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+aguta_adj	cooc		1802	no	no	no	no	no	yes
+aiuola_noun	cooc		1701	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+alagna_noun	cooc		1610	no	no	no	no	yes	yes
+alba_noun	cooc		1563	no	no	no	yes	yes	yes
+alcool_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+alcoolico_adj	cooc		1629	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+alcuna_adj	cooc		1550	no	no	no	no	yes	yes
+alienum_verb	cooc		1787	no	no	no	yes	yes	yes
+alitare_noun	cooc		1760	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+allaltro_adj	cooc		1555	no	no	yes	yes	yes	yes
+allegria_noun	cooc		1648	no	no	no	no	no	yes
+allestero_adv	cooc		1851	no	no	no	no	no	yes
+allontanarsi_verb	cooc		1550	no	no	no	yes	yes	yes
+alloro_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+alluvione_noun	cooc		1706	no	no	no	no	no	yes
+almeno_adv	cooc		1550	no	no	no	no	yes	yes
+alquanto_adj	cooc		1561	no	no	yes	no	yes	yes
+altamente_adv	cooc		1550	no	no	no	no	no	yes
+altarino_noun	cooc		1563	no	no	no	no	no	yes
+alterarne_noun	cooc		1749	no	no	no	yes	yes	yes
+alto_adj	cooc		1550	no	no	no	no	no	yes
+alto_adv	cooc		1555	no	no	no	yes	yes	yes
+alto_noun	cooc		1550	no	no	no	no	yes	no
+amaro_verb	cooc		1674	no	no	yes	yes	yes	yes
+ambizione_noun	cooc		1550	no	no	yes	yes	yes	no
+ambra_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+amburgo_noun	cooc		1681	no	no	yes	yes	yes	yes
+amenità_noun	cooc		1603	no	no	yes	yes	yes	yes
+amico_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people
+amministrativo_adj	cooc		1564	no	yes	yes	no	yes	yes
+amministrazione_noun	cooc		1564	no	no	yes	no	yes	yes
+ammissione_noun	cooc		1564	no	no	no	no	no	yes
+ammoniaca_noun	cooc		1750	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+ammoniacale_adj	cooc		1612	no	no	no	yes	yes	yes		CATEGORY|pungent
+amore_noun	cooc		1550	no	no	no	no	yes	yes
+ampliare_verb	cooc		1599	no	no	yes	yes	yes	yes
+analisi_noun	cooc		1610	no	no	no	no	yes	no
+analogia_noun	cooc		1564	no	no	no	no	no	yes
+analogo_adj	cooc		1610	no	no	yes	yes	yes	yes
+andamento_noun	cooc		1564	no	no	no	yes	yes	yes
+andare_verb	cooc		1550	no	no	no	no	yes	yes
+andarlo_verb	cooc		1599	no	no	no	no	yes	yes
+angelico_adj	cooc		1680	no	no	no	yes	yes	yes
+angolare_noun	cooc		1599	no	no	no	no	yes	yes
+angustia_noun	cooc		1604	no	yes	yes	yes	yes	yes
+anidride_noun	cooc		1682	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+animale_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+animali_verb	cooc		1706	no	no	no	no	no	yes
+animare_noun	cooc		1778	no	no	yes	yes	yes	yes
+animato_adj	cooc		1599	no	no	no	no	no	yes
+animato_verb	cooc		1653	no	no	no	no	no	yes
+annone_noun	cooc		1564	no	no	no	yes	yes	yes
+annunzi_noun	cooc		1610	no	no	no	no	yes	yes
+ansioso_adj	cooc		1587	no	no	no	yes	yes	no
+anticipazione_noun	cooc		1564	no	no	no	yes	yes	yes
+antico_adj	cooc		1550	no	no	yes	yes	yes	yes
+aperta_verb	cooc		1563	no	no	no	yes	yes	yes
+aperti_verb	cooc		1563	no	no	no	no	no	yes
+apparenza_noun	cooc		1550	no	no	no	no	yes	yes
+appartamento_noun	cooc		1550	no	no	no	no	yes	yes
+appartenere_verb	cooc		1564	no	no	yes	yes	yes	yes
+applausi_adj	cooc		1785	no	no	no	no	no	yes
+apposito_adj	cooc		1564	no	no	no	no	yes	yes
+apprensione_noun	cooc		1557	no	no	no	yes	yes	yes
+appreso_adj	cooc		1563	no	no	no	no	no	yes
+appressarsi_noun	cooc		1704	no	no	no	no	yes	yes
+apprezzare_verb	cooc		1558	no	no	no	yes	yes	yes
+approfondire_verb	cooc		1612	no	no	no	no	yes	yes
+appropriazione_noun	cooc		1700	no	no	no	no	yes	yes
+approvare_verb	cooc		1608	no	no	no	yes	yes	yes
+approvazione_noun	cooc		1564	no	no	no	no	no	yes
+aquileia_noun	cooc		1624	no	no	no	no	yes	yes
+aquisgrana_noun	cooc		1578	no	no	no	no	yes	yes
+arancio_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+arbitrio_noun	cooc		1555	no	no	no	no	no	yes
+arbore_adj	cooc		1608	no	no	no	yes	yes	yes
+archeologico_adj	cooc		1610	no	no	no	no	yes	no
+arcivescovo_adj	cooc		1731	no	no	no	yes	yes	no
+arcivescovo_noun	cooc		1550	yes	no	yes	yes	yes	yes
+ardire_verb	cooc		1555	no	no	no	no	yes	yes
+argentare_noun	cooc		1749	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+argomentare_noun	cooc		1792	no	no	no	no	no	yes
+aria_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+aristocratico_adj	cooc		1711	no	no	no	no	yes	yes
+aristocrazia_noun	cooc		1711	no	no	no	no	yes	yes
+armare_noun	cooc		1680	no	no	no	yes	yes	yes
+armonia_noun	cooc		1599	no	no	no	yes	yes	yes
+aroma_noun	cooc	['aroma.n.02', 'spice.n.02']	1612	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+aromatico_adj	cooc	['fragrant.a.01']	1701	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+arrecare_verb	cooc		1599	no	no	yes	yes	yes	yes
+arrivare_verb	cooc		1550	no	no	no	no	no	yes
+arrivato_verb	cooc		1550	no	no	no	no	no	yes
+arte_noun	cooc		1550	no	no	no	no	yes	yes
+articolare_noun	cooc		1791	no	no	no	yes	yes	yes
+artista_noun	cooc		1610	no	no	no	no	no	yes
+ascoltare_verb	cooc		1587	no	no	no	no	no	yes
+asiatico_adj	cooc		1774	no	no	no	yes	yes	yes
+aspettare_noun	cooc		1793	no	no	no	yes	yes	yes
+aspre_verb	cooc		1671	no	no	no	no	yes	yes
+assab_noun	cooc		1822	no	no	no	no	yes	yes
+assassinare_verb	cooc		1623	no	no	no	no	yes	no
+assegnare_noun	cooc		1791	no	no	no	yes	yes	yes
+assegno_noun	cooc		1564	no	no	yes	yes	yes	yes
+asseverantemente_adv	cooc		1679	no	no	no	yes	yes	yes
+assicurazione_noun	cooc		1564	no	no	no	yes	yes	yes
+assistere_verb	cooc		1564	no	no	no	no	yes	yes
+assorbimento_noun	cooc		1610	no	no	no	yes	yes	yes
+assuefatto_verb	cooc		1648	no	no	no	yes	yes	yes
+attaccare_noun	cooc		1674	no	no	no	no	no	yes
+attaccato_verb	cooc		1559	no	no	no	yes	yes	yes
+attenenti_adj	cooc		1604	no	no	no	yes	yes	yes
+attenuare_verb	cooc		1564	no	no	no	no	yes	yes
+atteso_noun	cooc		1550	no	no	yes	yes	yes	yes
+attillati_adj	cooc		1701	no	no	no	yes	yes	yes
+attimo_noun	cooc		1667	no	no	no	no	no	yes
+attitudine_noun	cooc		1550	no	no	yes	yes	yes	yes
+atto_noun	cooc		1550	yes	yes	yes	yes	yes	yes
+attrarre_verb	cooc		1612	no	no	no	no	yes	yes
+attraversare_verb	cooc		1610	no	no	no	no	no	yes
+attribuire_verb	cooc		1555	no	no	no	yes	yes	yes
+attributo_noun	cooc		1563	no	no	yes	yes	yes	yes
+attuale_adj	cooc		1564	no	no	yes	yes	yes	yes
+attuative_adj	cooc		1610	no	no	yes	no	no	no
+attuazione_noun	cooc		1564	no	no	no	no	no	yes
+auditive_adj	cooc		1770	no	no	no	yes	yes	yes
+augusta_noun	cooc		1562	no	no	no	no	yes	no
+aumentare_noun	cooc		1784	no	no	no	no	yes	yes
+aura_noun	cooc		1578	no	no	no	yes	yes	yes
+autem_verb	cooc		1562	no	no	no	no	no	yes
+autentico_adj	cooc		1564	no	no	yes	no	no	no		CATEGORY|Fragrant|fruity|floral
+autor_noun	cooc		1565	no	no	no	no	yes	yes
+autore_noun	cooc		1550	no	no	no	no	no	yes
+autorevole_adj	cooc		1565	no	no	no	no	yes	yes
+autorità_noun	cooc		1550	no	no	no	no	no	yes
+autorizzare_verb	cooc		1564	no	no	no	yes	yes	yes
+autorizzazione_noun	cooc		1564	no	no	no	yes	yes	yes
+autrice_noun	cooc		1610	no	no	no	no	no	yes
+avanzare_verb	cooc		1550	no	no	no	no	yes	yes
+avanzata_noun	cooc		1691	no	no	no	yes	yes	yes
+aventi_adj	cooc		1564	yes	no	no	yes	yes	yes
+avere_verb	cooc		1550	yes	yes	yes	yes	yes	yes
+averlo_noun	cooc		1612	no	no	no	no	no	yes
+avidità_noun	cooc		1550	no	no	no	no	yes	yes
+avrebbe_verb	cooc		1550	no	no	no	no	yes	yes
+avrebbero_verb	cooc		1550	no	no	no	no	no	yes
+avvenimento_noun	cooc		1668	no	no	no	no	yes	yes
+avvenire_verb	cooc		1565	no	no	no	no	yes	yes
+avvertire_verb	cooc		1608	no	no	no	no	yes	yes
+avvezzarvi_verb	cooc		1815	no	no	no	no	yes	yes
+avvisare_noun	cooc		1824	no	no	no	yes	yes	yes
+azione_noun	cooc		1564	no	yes	no	yes	yes	yes
+bacio_verb	cooc		1660	no	no	no	no	no	yes
+bagnata_adj	cooc		1578	no	no	no	no	yes	yes
+bambino_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|animal|people
+banca_noun	cooc		1564	no	no	no	yes	yes	yes
+bancari_adj	cooc		1610	no	no	no	no	yes	yes
+bancario_adj	cooc		1610	no	no	no	no	yes	yes
+banco_noun	cooc		1550	no	no	no	yes	yes	yes
+banconota_noun	cooc		1851	no	no	no	no	no	yes
+bando_noun	cooc		1550	no	no	yes	no	yes	yes
+banti_noun	cooc		1744	no	no	no	no	yes	yes
+barbarie_noun	cooc		1599	no	no	no	yes	yes	yes
+barbaro_adj	cooc		1578	no	no	yes	yes	yes	yes
+barlow_noun	cooc		1763	no	no	no	no	yes	yes
+basedow_noun	cooc		1793	no	no	no	no	yes	yes
+basire_noun	cooc		1806	no	no	no	yes	yes	yes
+batterio_noun	cooc		1698	no	no	no	no	yes	yes
+battito_noun	cooc		1699	no	no	no	yes	yes	yes
+bava_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+baviera_noun	cooc		1550	no	yes	yes	yes	yes	yes
+belladonna_noun	cooc		1754	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+bellezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+bellissimo_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|Fragrant|fruity|floral
+bello_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+bello_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people
+ben_adv	cooc		1550	no	no	no	no	no	yes
+benadir_noun	cooc		1848	no	no	no	no	yes	yes
+bene_noun	cooc		1550	no	no	yes	yes	yes	yes
+benefici_adj	cooc		1682	no	no	no	no	yes	yes
+benefico_adj	cooc		1578	no	no	no	yes	yes	yes
+benefico_noun	cooc		1680	no	no	yes	yes	yes	yes
+benessere_noun	cooc		1612	no	no	no	yes	yes	yes
+benigno_adj	cooc		1563	no	no	yes	yes	yes	yes
+benzina_noun	cooc		1803	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+bere_verb	cooc		1550	no	no	no	no	no	yes
+bergamotto_noun	cooc		1781	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+berlino_noun	cooc		1674	no	no	no	no	yes	yes
+biancheria_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+bianco_adj	cooc		1550	no	no	no	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+biglietto_noun	cooc		1564	no	no	no	yes	yes	yes
+bisognare_noun	cooc		1738	no	no	yes	yes	yes	yes
+bitume_noun	cooc		1604	no	no	no	yes	yes	yes	CATEGORY|industry
+blandizie_noun	cooc		1704	no	no	no	no	no	yes
+bocca_noun	cooc		1550	no	no	yes	no	yes	yes	CATEGORY|animal|people
+boccetta_noun	cooc		1775	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal
+bolletta_noun	cooc		1612	no	no	no	no	yes	yes
+bollettino_noun	cooc		1610	no	no	no	no	yes	yes
+bollire_noun	cooc		1691	no	no	no	no	yes	yes	CATEGORY|food|beverage
+boni_noun	cooc		1610	no	no	no	yes	yes	yes
+bonn_noun	cooc		1660	no	no	no	no	yes	yes
+bononia_noun	cooc		1562	no	no	no	no	no	yes
+borghesia_noun	cooc		1720	no	no	no	no	no	yes
+boschetto_noun	cooc		1612	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+bottiglia_noun	cooc		1731	no	no	no	no	yes	yes	CATEGORY|food|beverage
+bretagna_noun	cooc		1608	no	no	no	no	no	yes
+breve_adj	cooc		1550	no	no	no	no	no	yes
+bright_noun	cooc		1674	no	no	no	yes	yes	yes
+britannico_adj	cooc		1667	no	no	no	no	yes	yes
+bruciare_verb	cooc		1679	no	no	no	yes	yes	yes
+bruciata_adj	cooc		1690	no	no	no	no	yes	yes
+bruciaticcio_noun	cooc		1827	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+bruciore_noun	cooc		1707	no	no	yes	yes	yes	yes
+bruttare_adj	cooc		1751	no	no	no	no	yes	yes
+brutto_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|decayed
+bruxelles_noun	cooc		1563	no	no	no	no	yes	yes
+bulbo_noun	cooc		1690	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+buon_adj	cooc		1550	no	no	yes	yes	yes	yes
+buonissima_adj	cooc		1679	no	no	no	yes	yes	no
+buono_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+burocrazia_noun	cooc		1785	no	no	no	no	yes	yes
+bussare_noun	cooc		1842	no	no	no	no	no	yes
+butirrico_adj	cooc		1820	no	no	no	no	yes	yes
+cadavere_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|animal|people
+caffè_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+calamo_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+calcolare_noun	cooc		1831	no	no	no	no	yes	yes
+caldo_adj	cooc		1555	no	no	no	yes	yes	yes		CATEGORY|fresh
+caldo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+calmo_noun	cooc		1764	no	no	no	no	yes	yes
+calor_verb	cooc		1670	no	no	no	yes	no	yes
+calore_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+cambiale_noun	cooc		1564	no	no	no	no	yes	yes
+camera_noun	cooc		1550	yes	no	no	no	no	no	CATEGORY|cleaning|medicinal
+camminare_noun	cooc		1789	no	no	yes	yes	yes	yes
+camminare_verb	cooc		1555	no	no	no	no	yes	yes
+campagna_noun	cooc		1550	no	no	no	no	yes	yes
+campano_noun	cooc		1668	no	yes	no	no	yes	yes
+campidoglio_noun	cooc		1550	no	no	no	no	no	yes
+canale_noun	cooc		1550	no	no	no	no	no	yes
+cancellare_verb	cooc		1624	no	no	yes	yes	yes	yes
+cancrena_noun	cooc		1565	no	no	no	no	no	yes
+candore_noun	cooc		1557	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+cane_noun	cooc		1555	no	no	no	no	no	yes	CATEGORY|animal|people
+canfora_noun	cooc		1612	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+cannella_noun	cooc		1555	no	no	no	no	no	yes	CATEGORY|food|beverage
+cannone_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people
+cantare_noun	cooc		1711	no	no	no	yes	yes	no
+canto_noun	cooc		1550	no	no	no	no	yes	yes
+capace_adj	cooc		1555	no	no	yes	yes	yes	yes
+capacità_noun	cooc		1555	no	no	yes	yes	yes	yes
+capello_noun	cooc		1563	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+capere_noun	cooc		1563	no	no	no	yes	yes	yes
+capire_verb	cooc		1604	no	no	no	no	yes	yes
+capitale_noun	cooc		1555	no	yes	no	no	yes	yes
+capitalismo_noun	cooc		1679	no	no	no	no	no	yes
+capitare_verb	cooc		1578	no	no	no	no	yes	yes
+capre_noun	cooc		1623	no	no	no	no	no	yes	CATEGORY|animal|people
+carattere_noun	cooc		1564	no	no	yes	no	yes	yes
+caratteristico_adj	cooc		1624	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+caratteristico_noun	cooc		1781	no	no	no	no	no	yes
+caratterizzare_verb	cooc		1681	no	no	no	no	yes	yes
+carbonato_noun	cooc		1791	no	no	no	no	no	yes	CATEGORY|industry
+carbonico_adj	cooc		1788	no	no	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+carbonio_noun	cooc		1780	no	no	no	no	no	yes	CATEGORY|industry
+carestia_noun	cooc		1604	no	no	no	yes	yes	yes
+cari_noun	cooc		1599	no	no	no	no	yes	yes
+caricare_noun	cooc		1714	no	no	no	yes	yes	yes
+carnale_adj	cooc		1555	no	no	no	no	yes	yes
+carne_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+caro_adj	cooc		1550	no	no	no	no	yes	yes
+carolina_noun	cooc		1624	no	no	no	no	yes	yes
+carta_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+cartaceo_adj	cooc		1718	no	no	no	no	yes	yes
+cartagine_noun	cooc		1555	no	no	no	no	yes	yes
+cartella_noun	cooc		1610	yes	no	no	yes	yes	yes
+casellario_noun	cooc		1624	no	no	no	no	yes	yes
+caso_noun	cooc		1550	no	yes	yes	no	yes	yes
+cassa_noun	cooc		1550	no	no	no	no	yes	yes
+cassare_noun	cooc		1786	no	no	no	no	yes	yes
+castigare_noun	cooc		1811	no	no	no	yes	yes	yes
+catastale_adj	cooc		1610	no	no	no	no	yes	yes
+catrame_noun	cooc		1699	no	no	no	no	yes	yes	CATEGORY|industry
+cattedrale_noun	cooc		1578	no	no	no	yes	yes	yes
+cattivare_adj	cooc		1808	no	no	no	yes	yes	yes
+cattivi_adj	cooc		1624	no	no	no	yes	yes	yes
+cattivo_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|decayed
+cattolicismo_noun	cooc		1760	no	no	no	yes	yes	yes
+cattura_noun	cooc		1550	no	no	no	no	yes	yes
+causa_noun	cooc		1562	no	no	no	no	no	yes
+causare_noun	cooc		1792	no	no	yes	yes	yes	yes
+cautelare_adj	cooc		1558	no	no	no	no	no	yes
+cavare_verb	cooc		1550	no	no	no	yes	yes	yes
+celesti_adj	cooc		1550	no	no	no	no	no	yes
+cellula_noun	cooc		1735	no	no	no	no	yes	yes
+cen_noun	cooc		1555	no	no	yes	yes	yes	yes
+cenere_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke
+cenno_noun	cooc		1559	no	no	no	no	no	yes
+centesimo_noun	cooc		1564	no	no	no	yes	yes	yes
+centrale_adj	cooc		1564	no	no	no	no	no	yes
+cera_adv	cooc		1710	no	no	no	no	no	yes
+cerare_noun	cooc		1776	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+cercare_verb	cooc		1550	no	no	yes	no	no	yes
+cerebro_noun	cooc		1667	no	no	no	yes	yes	yes
+certificare_noun	cooc		1795	no	no	no	yes	yes	yes
+certificato_noun	cooc		1564	no	no	no	yes	yes	yes
+certo_adv	cooc		1550	no	no	no	no	no	yes
+certuni_noun	cooc		1668	no	no	no	no	yes	yes
+cessare_verb	cooc		1562	no	no	no	yes	yes	yes
+cessazione_noun	cooc		1564	no	no	no	yes	yes	yes
+chiamare_verb	cooc		1550	no	no	no	yes	yes	yes
+chiara_verb	cooc		1555	no	no	no	no	yes	yes
+chiaro_adj	cooc		1550	no	no	no	no	no	yes
+chiesa_noun	cooc		1550	no	no	no	no	yes	yes
+chiuso_adj	cooc		1564	no	no	no	no	yes	yes
+chiuso_noun	cooc		1564	no	no	no	no	yes	yes
+ci_adv	cooc		1550	no	no	no	no	no	yes
+ciascun_verb	cooc		1559	no	no	no	no	no	yes
+cioè_adv	cooc		1555	no	no	no	no	yes	yes
+circa_adv	cooc		1550	no	no	no	no	yes	no
+circolare_noun	cooc		1557	no	no	yes	no	yes	no
+circolare_verb	cooc		1557	no	no	no	no	no	yes
+circolari_adj	cooc		1610	no	no	no	no	no	yes
+circolazione_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+circoscrivere_verb	cooc		1624	no	no	no	no	yes	yes
+citazione_noun	cooc		1610	no	no	yes	no	no	yes
+cittadino_noun	cooc		1550	no	no	no	no	yes	yes
+città_noun	cooc		1550	no	no	no	yes	yes	yes
+civile_adj	cooc		1564	no	no	no	no	yes	yes
+civili_adj	cooc		1564	no	no	no	no	yes	yes
+civiltà_noun	cooc		1635	no	no	no	yes	yes	yes
+classe_noun	cooc		1564	no	no	no	no	yes	yes
+clero_noun	cooc		1550	no	no	yes	yes	yes	yes
+clima_noun	cooc		1555	no	no	yes	yes	yes	yes
+clinico_adj	cooc		1624	no	no	no	no	yes	yes
+cloro_noun	cooc		1691	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+cloroformio_noun	cooc		1812	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+coblenza_noun	cooc		1791	no	no	no	no	yes	yes
+codice_noun	cooc		1555	no	no	yes	yes	yes	yes
+cogliere_verb	cooc		1565	no	no	no	no	yes	yes
+coglierne_verb	cooc		1657	no	no	no	no	yes	yes
+cognizione_noun	cooc		1550	no	no	yes	no	no	yes
+coincidenza_noun	cooc		1610	no	no	no	no	no	yes
+coincidere_verb	cooc		1610	no	no	no	no	no	yes
+coitale_adj	cooc		1788	no	no	no	yes	yes	yes
+colla_adj	cooc		1564	no	no	no	no	yes	yes
+collezione_noun	cooc		1629	no	no	no	yes	no	no
+collocamento_noun	cooc		1564	no	no	no	no	yes	yes
+colmare_verb	cooc		1550	no	no	no	no	no	yes
+colme_adj	cooc		1603	no	no	no	no	yes	no
+colono_noun	cooc		1610	no	no	no	no	yes	yes
+color_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+colorire_noun	cooc		1786	no	no	yes	yes	yes	yes
+colpire_verb	cooc		1599	no	no	no	yes	yes	yes
+colpite_adj	cooc		1564	no	no	no	yes	yes	yes
+colpo_noun	cooc		1550	no	no	no	yes	no	yes
+colto_verb	cooc		1563	no	no	no	no	no	yes
+comandare_verb	cooc		1555	no	no	no	yes	no	yes
+combattere_verb	cooc		1550	no	no	no	no	yes	yes
+combattuta_adj	cooc		1599	no	no	no	no	yes	yes
+come_adv	cooc		1550	no	no	no	no	yes	yes
+cominciare_verb	cooc		1550	no	yes	yes	yes	yes	yes
+cominciommi_adj	cooc		1796	no	no	yes	yes	yes	yes
+commemorativo_adj	cooc		1754	no	no	no	no	no	yes
+commerciale_adj	cooc		1564	no	no	no	no	yes	yes
+commettere_verb	cooc		1558	no	no	no	no	no	yes
+commissione_noun	cooc		1550	no	no	no	no	no	yes
+comodità_noun	cooc		1550	no	no	no	yes	yes	yes
+compagno_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+comparizione_noun	cooc		1610	no	no	no	no	yes	yes
+compartecipazione_noun	cooc		1610	no	no	no	no	yes	yes
+compensare_noun	cooc		1791	no	no	yes	no	yes	yes
+competenza_noun	cooc		1562	no	no	yes	no	yes	yes
+compiere_verb	cooc		1564	no	no	no	no	no	yes
+compilare_verb	cooc		1564	no	no	no	no	no	yes
+complessivo_adj	cooc		1610	no	no	no	no	yes	yes
+complesso_noun	cooc		1564	no	no	no	no	yes	yes
+comporre_verb	cooc		1555	no	no	no	no	yes	no
+comportarsi_verb	cooc		1610	no	no	no	yes	no	yes
+composizione_noun	cooc		1550	no	no	no	yes	yes	yes
+comprendere_verb	cooc		1555	no	no	yes	yes	yes	yes
+comprenderne_verb	cooc		1667	no	no	no	no	yes	no
+comune_adj	cooc		1550	no	no	yes	no	yes	yes
+comunione_noun	cooc		1550	no	no	no	no	no	yes
+concavi_adj	cooc		1711	no	no	no	no	no	yes
+concedere_verb	cooc		1555	no	no	no	yes	yes	yes
+concentramento_noun	cooc		1629	no	no	no	no	yes	yes
+concepire_verb	cooc		1624	no	no	no	yes	yes	yes
+concernere_verb	cooc		1610	no	no	no	yes	yes	yes
+concessione_noun	cooc		1562	no	no	no	no	yes	yes
+concetto_noun	cooc		1550	no	no	no	no	yes	yes
+conciliarle_verb	cooc		1674	no	no	no	yes	yes	yes
+concludere_verb	cooc		1555	no	yes	no	no	no	no
+concorrenza_noun	cooc		1550	no	no	no	no	no	yes
+concorrere_noun	cooc		1713	no	no	no	no	yes	yes
+concorrere_verb	cooc		1550	no	no	no	no	no	yes
+concussione_noun	cooc		1667	no	no	no	yes	yes	yes
+condizione_noun	cooc		1555	yes	no	no	no	no	yes
+conduzione_noun	cooc		1610	no	no	no	no	yes	yes
+confermare_verb	cooc		1555	no	no	no	no	no	yes
+confermato_verb	cooc		1550	no	no	no	no	no	yes
+confino_noun	cooc		1695	no	no	no	yes	yes	yes
+confondere_verb	cooc		1562	no	no	no	no	yes	yes
+conforme_adj	cooc		1562	no	no	no	yes	yes	yes
+conformemente_verb	cooc		1564	no	no	no	no	yes	no
+confortare_noun	cooc		1842	no	no	no	yes	yes	yes
+confortare_verb	cooc		1563	no	no	no	yes	yes	yes
+congresso_noun	cooc		1648	no	no	no	no	no	yes
+conoscenza_noun	cooc		1564	no	no	no	no	no	yes
+conoscere_noun	cooc		1670	no	no	no	yes	yes	yes
+conoscere_verb	cooc		1550	no	no	no	yes	yes	yes
+conoscerne_verb	cooc		1610	no	no	no	yes	yes	yes
+conseguenza_noun	cooc		1564	no	no	no	no	yes	yes
+consentire_verb	cooc		1550	no	no	no	no	no	yes
+considerare_verb	cooc		1550	no	no	yes	yes	yes	yes
+considerato_verb	cooc		1550	no	no	no	yes	yes	yes
+consigliare_noun	cooc		1670	yes	no	no	yes	yes	yes
+consistere_verb	cooc		1604	no	no	yes	yes	yes	yes
+consolare_verb	cooc		1558	no	no	no	yes	yes	yes
+consolazione_noun	cooc		1550	no	no	no	no	yes	yes
+consulta_noun	cooc		1638	no	no	no	no	yes	no
+consumere_noun	cooc		1701	no	no	no	no	yes	yes	CATEGORY|food|beverage
+contabile_adj	cooc		1564	no	no	yes	no	no	no
+contagio_noun	cooc		1563	no	no	no	yes	yes	yes
+contagioso_adj	cooc		1657	no	no	yes	yes	yes	yes
+contaminare_verb	cooc		1648	no	no	no	no	yes	yes
+contare_noun	cooc		1785	no	no	no	yes	yes	yes
+contenere_noun	cooc		1711	no	no	no	no	yes	yes
+contenere_verb	cooc		1564	no	no	no	yes	yes	yes
+contenta_noun	cooc		1562	no	no	no	no	yes	yes
+contento_adj	cooc		1550	no	no	no	no	no	yes
+contento_verb	cooc		1550	no	no	no	no	yes	yes
+contenzione_noun	cooc		1714	no	no	no	yes	yes	no
+contingibili_adj	cooc		1564	no	no	no	no	yes	yes
+continuare_verb	cooc		1564	yes	yes	no	yes	yes	yes
+continuo_verb	cooc		1550	no	no	yes	yes	yes	yes
+conto_noun	cooc		1550	no	no	no	no	yes	no
+contrada_noun	cooc		1565	no	no	no	no	yes	yes
+contraddizione_noun	cooc		1608	no	no	no	no	no	yes
+contraria_verb	cooc		1550	no	no	no	no	no	yes
+contrariamente_verb	cooc		1612	no	no	no	no	yes	yes
+contrario_adj	cooc		1550	no	no	no	yes	yes	yes
+contrario_noun	cooc		1550	no	no	yes	no	no	no
+contrarre_verb	cooc		1564	no	no	no	yes	yes	yes
+contratti_noun	cooc		1564	yes	yes	no	yes	yes	yes
+contribuire_verb	cooc		1610	no	no	no	no	no	yes
+conversi_noun	cooc		1701	no	no	no	no	yes	yes
+convessi_adj	cooc		1750	no	no	no	no	no	yes
+convocazione_noun	cooc		1564	no	no	yes	no	yes	no
+cooley_noun	cooc		1842	no	no	no	no	no	yes
+cooperativa_adj	cooc		1610	no	no	no	no	yes	no
+cooperativo_noun	cooc		1624	no	no	no	no	yes	no
+copia_noun	cooc		1550	no	no	no	no	yes	yes
+coprire_verb	cooc		1550	no	no	no	yes	yes	yes
+coraggio_noun	cooc		1604	no	no	no	no	no	yes
+core_noun	cooc		1558	no	no	no	yes	yes	yes
+corinto_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+coronare_noun	cooc		1784	no	no	no	no	yes	yes
+corpo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+corporativo_adj	cooc		1612	no	no	no	no	no	yes
+correre_noun	cooc		1599	no	no	yes	yes	yes	yes
+correzionale_adj	cooc		1629	no	no	no	no	yes	yes
+corrispondenza_noun	cooc		1564	no	no	no	no	yes	yes
+corrispondere_verb	cooc		1562	no	no	no	no	yes	yes
+corse_verb	cooc		1550	no	no	no	no	no	yes
+corto_noun	cooc		1563	no	no	yes	yes	yes	yes
+cosa_noun	cooc		1550	yes	no	yes	yes	yes	yes
+coscienza_noun	cooc		1565	no	no	no	yes	yes	yes
+cosmetici_adj	cooc		1797	no	no	no	no	no	yes
+cosmetico_noun	cooc		1794	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+costa_noun	cooc		1550	no	no	no	no	no	yes
+costare_adj	cooc		1713	no	no	no	yes	yes	yes
+costituente_verb	cooc		1612	no	no	no	no	yes	yes
+costituire_verb	cooc		1604	yes	no	yes	yes	yes	yes
+costituirne_verb	cooc		1682	no	no	no	no	yes	yes
+costituito_verb	cooc		1564	no	no	no	no	yes	no
+costitutivo_adj	cooc		1610	no	no	no	no	yes	yes
+costoro_adj	cooc		1604	no	no	no	no	yes	no
+costringere_verb	cooc		1610	no	no	no	yes	yes	yes
+costume_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal
+così_adv	cooc		1550	no	no	no	no	no	yes
+cotali_adj	cooc		1558	no	no	no	yes	yes	yes
+creare_verb	cooc		1550	no	no	no	no	no	yes
+creazione_noun	cooc		1550	no	no	no	no	yes	yes
+credere_verb	cooc		1550	no	no	no	yes	yes	yes
+credito_noun	cooc		1550	no	no	no	yes	yes	yes
+crescere_verb	cooc		1550	no	no	yes	yes	yes	no
+criminalità_noun	cooc		1624	no	no	no	yes	yes	yes
+crine_noun	cooc		1603	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+crisi_noun	cooc		1610	no	no	no	no	yes	no
+cristianesimo_noun	cooc		1681	no	no	no	yes	yes	yes
+cristiano_adj	cooc		1670	no	no	yes	yes	yes	yes
+cristo_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people
+criticare_noun	cooc		1768	no	no	no	no	no	yes
+crusca_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+cucinare_noun	cooc		1833	no	no	no	no	yes	no	CATEGORY|food|beverage
+cuore_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+cura_noun	cooc		1550	no	no	no	no	yes	yes
+curare_noun	cooc		1701	no	yes	yes	yes	yes	yes
+curia_noun	cooc		1559	no	no	no	no	yes	yes
+curiale_adj	cooc		1761	no	no	no	no	no	yes
+curioso_adj	cooc		1550	no	no	no	no	yes	yes
+damnum_verb	cooc		1760	no	no	no	yes	yes	yes
+dandoci_verb	cooc		1691	no	no	no	no	yes	yes
+dandogli_verb	cooc		1550	no	no	no	no	no	yes
+danno_verb	cooc		1550	no	no	no	no	yes	yes
+dannoso_adj	cooc		1550	no	no	no	no	yes	yes
+dappertutto_adv	cooc		1717	no	no	no	no	yes	yes
+darci_verb	cooc		1587	no	no	no	no	yes	yes
+dare_verb	cooc		1550	no	no	no	no	yes	yes
+dargli_verb	cooc		1550	no	no	no	no	no	yes
+das_noun	cooc		1648	no	no	no	no	yes	yes
+dassel_noun	cooc		1822	no	no	no	no	no	yes
+data_noun	cooc		1563	yes	yes	yes	yes	yes	yes
+datare_verb	cooc		1629	no	no	no	yes	yes	yes
+date_noun	cooc		1555	no	no	no	no	yes	yes
+dato_noun	cooc		1555	no	no	no	no	yes	yes
+dato_verb	cooc		1550	no	no	no	no	no	yes
+datore_noun	cooc		1563	no	no	no	no	yes	no
+davanti_adv	cooc		1565	no	no	no	no	no	yes
+davvero_adv	cooc		1565	no	no	no	no	no	yes
+de_noun	cooc		1550	no	no	no	no	yes	yes
+dea_noun	cooc		1555	no	no	no	no	yes	yes
+debbe_verb	cooc		1550	no	no	yes	yes	yes	yes
+debbono_verb	cooc		1550	no	no	no	yes	yes	yes
+debellare_verb	cooc		1599	no	no	no	yes	yes	yes
+debito_noun	cooc		1550	no	no	no	yes	yes	yes
+debitore_noun	cooc		1564	no	no	no	no	yes	yes
+debolezza_noun	cooc		1550	no	no	no	yes	yes	yes
+decadenza_noun	cooc		1610	no	no	yes	yes	yes	yes
+decadimento_noun	cooc		1674	no	no	no	yes	yes	yes
+decamerone_noun	cooc		1701	no	no	no	yes	yes	yes
+decima_noun	cooc		1555	no	no	no	yes	yes	yes
+decimo_noun	cooc		1555	no	no	yes	yes	yes	yes
+decisamente_adv	cooc		1564	no	no	no	no	no	yes
+decisione_noun	cooc		1564	no	no	no	no	yes	yes
+declinazione_noun	cooc		1671	no	no	yes	yes	yes	yes
+decorrere_verb	cooc		1564	yes	no	yes	no	yes	yes
+decorso_noun	cooc		1610	no	no	no	yes	yes	yes
+decreto_adj	cooc		1564	no	no	yes	yes	yes	yes
+decreto_noun	cooc		1562	no	no	yes	yes	yes	yes
+dedurre_verb	cooc		1565	no	no	yes	yes	yes	yes
+deduzione_noun	cooc		1610	no	no	yes	yes	yes	yes
+definire_verb	cooc		1557	no	no	no	yes	yes	yes
+definirne_verb	cooc		1610	no	no	no	no	yes	yes
+definitivo_adj	cooc		1564	yes	no	no	no	yes	yes
+definizione_noun	cooc		1564	no	no	no	no	no	yes
+degenerazione_noun	cooc		1769	no	no	no	no	yes	yes
+deggio_verb	cooc		1608	no	no	no	yes	yes	yes
+deggiono_verb	cooc		1564	no	no	no	no	no	yes
+degnare_verb	cooc		1555	no	no	no	yes	yes	yes
+degradazione_noun	cooc		1610	no	no	no	yes	yes	yes
+delega_verb	cooc		1612	no	no	yes	no	yes	yes
+delegare_noun	cooc		1798	no	no	yes	no	yes	yes
+delegare_verb	cooc		1564	yes	no	yes	no	yes	yes
+deliberare_noun	cooc		1676	no	no	no	no	no	yes
+deliberare_verb	cooc		1559	no	no	no	no	no	yes
+deliberazione_noun	cooc		1550	no	no	no	no	no	yes
+delicatezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+delicato_adj	cooc		1555	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+delitto_noun	cooc		1550	no	no	no	yes	yes	yes
+delizioso_adj	cooc		1709	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+dellacqua_noun	cooc		1804	no	no	no	yes	yes	yes	CATEGORY|industry
+dellamore_adj	cooc		1717	no	no	no	no	yes	yes
+dellanima_adj	cooc		1756	no	no	yes	yes	yes	yes
+dellart_adj	cooc		1612	no	no	no	no	yes	yes
+dellarte_adj	cooc		1555	no	no	no	yes	yes	yes
+dellarte_noun	cooc		1806	no	no	no	no	yes	yes
+dellatto_adj	cooc		1822	no	no	no	yes	yes	yes
+dellessere_adj	cooc		1836	no	no	no	yes	yes	no
+dellistituto_noun	cooc		1829	no	no	no	no	yes	yes
+dellopera_adj	cooc		1795	no	no	no	no	yes	yes
+dellordine_adj	cooc		1791	no	no	yes	no	yes	yes
+delluniversità_noun	cooc		1806	no	no	no	no	no	yes
+delluomo_adj	cooc		1816	no	no	no	yes	yes	yes
+delluomo_noun	cooc		1835	no	no	no	yes	yes	yes	CATEGORY|animal|people
+democrazia_noun	cooc		1700	no	no	no	yes	yes	yes
+denaro_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+denso_adj	cooc		1604	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+dente_noun	cooc		1558	no	no	no	yes	yes	yes	CATEGORY|animal|people
+dentro_adv	cooc		1550	no	no	no	yes	yes	yes
+depende_adj	cooc		1707	no	no	no	no	yes	yes
+depositare_noun	cooc		1830	no	no	no	no	yes	yes
+depravazione_noun	cooc		1706	no	no	no	yes	yes	yes
+deputazione_noun	cooc		1564	no	no	no	yes	yes	yes
+derivare_verb	cooc		1610	no	no	no	no	yes	yes
+descrivervi_verb	cooc		1736	no	no	no	no	no	yes
+descrizione_noun	cooc		1564	no	no	no	yes	yes	yes
+deserto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+desiderio_noun	cooc		1550	no	no	no	no	yes	yes
+desolare_adj	cooc		1691	no	no	no	no	no	yes
+destarla_verb	cooc		1710	no	no	no	yes	yes	yes
+destinare_noun	cooc		1667	no	no	no	no	yes	yes
+destinare_verb	cooc		1610	no	no	no	no	yes	no
+desto_verb	cooc		1691	no	no	no	yes	yes	no
+determinare_verb	cooc		1558	no	no	no	no	yes	yes
+determinata_adj	cooc		1562	no	no	no	no	yes	no
+determinato_adj	cooc		1555	no	no	no	yes	yes	yes
+determinazione_noun	cooc		1564	no	no	no	no	yes	yes
+dette_adj	cooc		1550	no	no	yes	yes	yes	yes
+devastare_verb	cooc		1694	no	no	no	yes	yes	yes
+deve_verb	cooc		1559	no	no	no	no	yes	yes
+diagnosi_noun	cooc		1610	no	no	no	no	yes	yes
+dialettico_noun	cooc		1713	no	no	no	yes	yes	yes
+diamante_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+diario_noun	cooc		1563	no	no	no	no	no	yes
+diarrea_noun	cooc		1706	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+dibattito_noun	cooc		1610	no	no	no	no	no	yes
+dicembre_noun	cooc		1564	no	no	yes	no	no	no
+dicesi_noun	cooc		1550	no	no	no	no	yes	yes
+dichiarare_verb	cooc		1555	no	no	no	no	yes	no
+dichiarativo_adj	cooc		1610	no	no	no	no	yes	yes
+difeso_noun	cooc		1670	no	no	no	yes	yes	yes
+differenza_noun	cooc		1550	no	no	no	no	yes	no
+diffondere_verb	cooc		1599	no	no	no	yes	yes	yes
+diffondersi_noun	cooc		1667	no	no	no	no	yes	yes
+diffusa_adj	cooc		1612	no	no	no	no	no	yes
+diffusione_noun	cooc		1610	no	no	no	yes	yes	yes
+diffuso_verb	cooc		1667	no	no	yes	no	no	yes
+digiuni_verb	cooc		1660	no	no	no	yes	yes	yes
+dignità_noun	cooc		1550	no	no	no	no	yes	yes
+dilagare_verb	cooc		1785	no	no	no	no	yes	yes
+diletti_noun	cooc		1550	no	no	no	no	yes	yes
+dimenticare_verb	cooc		1617	no	no	no	no	yes	yes
+dimostrare_verb	cooc		1564	no	no	no	no	no	yes
+dimostrativo_adj	cooc		1564	no	no	no	no	yes	yes
+dinamico_adj	cooc		1612	no	no	no	no	no	yes
+dinanzi_adj	cooc		1550	no	no	no	no	no	yes
+dinanzi_adv	cooc		1550	no	no	no	no	no	yes
+dinnanzi_adv	cooc		1610	no	no	no	no	no	yes
+dio_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+dio_verb	cooc		1550	no	no	no	no	yes	yes
+diocesi_noun	cooc		1559	no	no	no	yes	yes	yes
+dipendenza_noun	cooc		1564	no	no	no	no	no	yes
+dipendere_noun	cooc		1793	no	no	no	no	yes	no
+dipendere_verb	cooc		1564	no	no	yes	yes	yes	yes
+dir_noun	cooc		1555	no	no	yes	yes	yes	yes
+diretta_noun	cooc		1610	no	no	no	yes	yes	yes
+diretta_verb	cooc		1564	no	no	yes	no	no	yes
+direttivo_noun	cooc		1624	no	no	no	yes	no	no
+direttore_noun	cooc		1564	no	no	no	no	yes	yes
+dirigenti_adj	cooc		1610	no	no	no	no	yes	yes
+dirigere_adj	cooc		1824	no	no	no	no	no	yes
+dirigere_noun	cooc		1729	no	no	no	no	no	yes
+diritto_adv	cooc		1550	no	no	yes	yes	yes	yes
+diritto_noun	cooc		1555	yes	yes	yes	yes	yes	yes
+diro_verb	cooc		1555	no	no	yes	yes	yes	yes
+disciplina_noun	cooc		1550	no	no	yes	no	no	yes
+discorrere_noun	cooc		1667	no	no	no	yes	yes	yes
+discorso_noun	cooc		1550	no	no	no	no	no	yes
+discoverto_verb	cooc		1713	no	no	no	yes	yes	yes
+disegnare_noun	cooc		1815	no	no	no	no	yes	yes
+disgregazione_noun	cooc		1682	no	no	no	no	no	yes
+disgustoso_adj	cooc		1681	no	no	yes	yes	yes	yes		CATEGORY|decayed
+disoccupazione_noun	cooc		1610	no	no	no	no	no	yes
+disonestà_noun	cooc		1712	no	no	no	no	yes	no
+disordine_noun	cooc		1550	no	no	yes	yes	yes	yes
+dispiacere_verb	cooc		1558	no	no	no	yes	yes	yes
+dispogliate_adj	cooc		1819	no	no	no	no	yes	yes
+dispositivo_adj	cooc		1610	no	no	no	no	yes	yes
+disposizione_noun	cooc		1564	no	no	yes	yes	yes	yes
+disposta_verb	cooc		1564	no	no	no	no	yes	yes
+disposti_adj	cooc		1610	no	no	no	no	yes	yes
+dispotismo_noun	cooc		1769	no	no	no	no	yes	yes
+disserrando_adj	cooc		1726	no	no	yes	yes	yes	yes
+dissipare_verb	cooc		1624	no	no	no	no	yes	yes
+dissoluzione_noun	cooc		1700	no	no	no	no	yes	yes
+distanza_noun	cooc		1604	no	no	yes	no	yes	yes
+distinguere_verb	cooc		1599	no	no	no	no	yes	yes
+distinzione_noun	cooc		1564	no	no	no	yes	yes	yes
+dito_noun	cooc		1550	no	no	yes	yes	yes	no
+diventare_verb	cooc		1610	no	no	no	no	no	yes
+diverse_adj	cooc		1550	no	no	no	no	yes	yes
+diversità_noun	cooc		1550	no	no	no	no	no	yes
+diverso_adj	cooc		1550	no	no	no	yes	yes	yes
+divinità_noun	cooc		1550	no	no	no	yes	yes	yes
+divino_adj	cooc		1550	no	yes	yes	yes	yes	yes
+dlgs_noun	cooc		1899	no	no	no	no	yes	no
+documentare_noun	cooc		1919	no	no	no	no	no	yes
+documento_noun	cooc		1564	no	no	no	no	yes	yes
+dolce_adj	cooc		1550	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+dolcezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+dolciastro_adj	cooc		1789	no	no	no	no	no	yes		CATEGORY|sweet|spicy
+dolcissima_adj	cooc		1550	no	no	no	no	no	yes
+dolcissimo_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+dolor_noun	cooc		1563	no	no	no	no	yes	yes
+dolore_noun	cooc		1550	no	no	yes	yes	yes	yes
+doloroso_adj	cooc		1550	no	no	yes	yes	yes	yes
+domandare_noun	cooc		1793	no	no	no	no	yes	no
+domestico_adj	cooc		1550	no	no	no	no	yes	no
+dominare_adj	cooc		1752	no	no	no	no	no	yes
+dominatore_noun	cooc		1657	no	no	no	no	yes	yes
+dominio_noun	cooc		1550	no	no	yes	yes	yes	yes
+donna_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+dono_adj	cooc		1657	no	no	no	yes	yes	yes
+dopo_adv	cooc		1550	no	yes	yes	yes	yes	yes
+doppio_adj	cooc		1550	no	no	no	yes	yes	yes
+dotare_verb	cooc		1610	no	no	no	yes	yes	yes
+dott_noun	cooc		1563	no	no	no	no	yes	no
+dottrina_noun	cooc		1550	no	no	no	no	yes	yes
+dove_adv	cooc		1550	no	no	yes	no	yes	yes
+dovea_verb	cooc		1565	no	no	no	no	yes	yes
+dover_verb	cooc		1550	no	no	no	no	no	yes
+dovere_noun	cooc		1550	no	no	no	no	yes	yes
+dovere_verb	cooc		1550	no	no	no	no	yes	yes
+dovesse_verb	cooc		1550	no	no	no	no	no	yes
+doveva_verb	cooc		1550	no	no	no	no	yes	yes
+dovevano_verb	cooc		1550	no	no	no	no	yes	no
+dovrebbe_verb	cooc		1550	no	no	no	yes	yes	yes
+dovrebbero_verb	cooc		1608	no	no	no	no	no	yes
+dovrà_verb	cooc		1564	no	no	no	no	yes	no
+dramma_noun	cooc		1617	no	no	no	yes	yes	yes
+dresda_noun	cooc		1679	no	no	no	no	yes	yes
+duole_verb	cooc		1550	no	no	no	no	yes	yes
+duomo_noun	cooc		1550	no	no	no	yes	yes	yes
+duplicati_noun	cooc		1674	no	no	no	no	yes	yes
+dupuytren_noun	cooc		1807	no	no	no	no	no	yes
+durar_verb	cooc		1555	no	no	yes	yes	yes	yes
+durare_noun	cooc		1704	no	no	no	yes	yes	yes
+durevole_adj	cooc		1564	no	no	no	yes	yes	yes
+durezza_noun	cooc		1558	no	no	no	yes	yes	yes	CATEGORY|synthetic
+dusseldorf_noun	cooc		1784	no	no	no	yes	yes	yes
+dànno_verb	cooc		1550	no	no	no	no	yes	yes
+ecc_adj	cooc		1564	no	no	no	yes	yes	yes
+eccessivamente_adv	cooc		1550	no	no	no	no	yes	no
+eccessivo_adj	cooc		1612	no	no	no	no	no	yes
+eccitamento_noun	cooc		1599	no	no	no	no	yes	yes
+ecclesiastico_adj	cooc		1562	no	no	no	yes	yes	yes
+ecco_adv	cooc		1555	no	no	no	no	yes	no
+eccone_noun	cooc		1691	no	no	no	yes	yes	yes
+eco_noun	cooc		1563	no	no	no	no	yes	yes
+economico_adj	cooc		1564	no	no	yes	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+edificio_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|industry
+edizione_noun	cooc		1550	no	no	no	no	yes	yes
+effetti_adj	cooc		1599	no	no	no	no	yes	yes
+effetto_noun	cooc		1550	yes	no	yes	yes	yes	yes
+efficace_adj	cooc		1559	no	no	yes	yes	yes	yes
+efficacia_noun	cooc		1555	no	no	no	no	yes	yes
+egidi_noun	cooc		1724	no	no	no	no	no	yes
+egitto_noun	cooc		1550	no	no	no	no	yes	no
+elemento_noun	cooc		1557	no	no	no	no	yes	yes
+elettorale_adj	cooc		1564	no	no	no	yes	yes	yes
+elettore_noun	cooc		1559	yes	yes	yes	yes	yes	yes
+elettrone_noun	cooc		1559	no	no	no	no	no	yes
+elevato_noun	cooc		1564	no	no	no	no	yes	yes
+emanare_verb	cooc	['smell.v.02']	1564	no	no	no	yes	yes	yes
+embrionale_adj	cooc		1783	no	no	no	no	no	yes
+emettere_verb	cooc		1564	no	no	no	no	yes	yes
+emozione_noun	cooc		1727	no	no	no	no	yes	yes
+empie_adj	cooc		1555	no	no	no	no	yes	yes
+empiere_verb	cooc		1604	no	no	no	no	no	yes
+empietà_noun	cooc		1578	no	no	no	yes	yes	yes
+energia_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust
+enorme_adj	cooc		1559	no	no	no	no	yes	yes
+ente_noun	cooc		1555	no	no	no	yes	yes	yes
+entrare_verb	cooc		1555	no	no	no	no	no	yes
+entrata_verb	cooc		1550	no	no	no	yes	yes	no
+entro_adv	cooc		1555	no	no	yes	no	yes	yes
+epatico_adj	cooc		1657	no	no	no	no	yes	yes
+epidemico_adj	cooc		1694	no	no	no	yes	yes	yes
+episodio_noun	cooc		1612	no	no	no	no	no	yes
+eporedia_noun	cooc		1608	no	no	no	no	no	yes
+era_verb	cooc		1550	no	no	no	no	no	yes
+erano_verb	cooc		1550	no	no	yes	no	no	no
+erba_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+eresia_noun	cooc		1648	no	no	no	no	yes	yes
+eritrea_adj	cooc		1786	no	no	no	yes	yes	yes
+eritrea_noun	cooc		1682	no	no	no	yes	yes	yes
+esalare_verb	cooc		1698	no	no	yes	yes	yes	yes
+esaurire_verb	cooc		1610	no	yes	no	no	yes	yes
+esecutivo_adj	cooc		1564	no	no	no	yes	yes	yes
+esecuzione_noun	cooc		1550	no	no	no	no	yes	yes
+eseguire_verb	cooc		1564	no	no	no	no	yes	yes
+esempio_noun	cooc		1550	no	no	no	no	yes	yes
+esemplare_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|animal|people
+esercitare_noun	cooc		1790	no	no	no	no	no	yes
+esercizio_noun	cooc		1550	no	no	no	no	yes	yes
+esigenza_noun	cooc		1610	no	no	no	no	yes	yes
+esistenza_noun	cooc		1564	no	no	no	yes	yes	yes
+esistere_verb	cooc		1564	no	no	no	yes	yes	yes
+esperienza_noun	cooc		1557	no	no	no	no	yes	no
+esperto_noun	cooc		1604	no	no	no	no	yes	no
+esplicitamente_adv	cooc		1610	no	no	no	no	no	yes
+esplicito_adj	cooc		1610	no	no	no	no	yes	yes
+espressione_noun	cooc		1562	no	no	no	no	yes	yes
+esprimere_verb	cooc		1550	no	no	no	yes	yes	yes
+esprimersi_noun	cooc		1746	no	no	no	yes	yes	no
+esprimersi_verb	cooc		1612	no	no	no	yes	yes	yes
+espropriazione_noun	cooc		1610	yes	no	no	no	yes	yes
+esproprio_noun	cooc		1610	yes	yes	yes	yes	yes	no
+essa_adj	cooc		1562	no	no	no	yes	yes	yes
+essenza_noun	cooc	['essential_oil.n.01']	1610	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+esser_verb	cooc		1550	no	no	no	no	no	yes
+essere_verb	cooc		1550	no	no	no	no	yes	yes
+esso_adj	cooc		1550	no	no	no	yes	yes	yes
+esterno_adj	cooc		1610	no	no	yes	yes	yes	yes
+esteso_adj	cooc		1564	no	no	no	yes	yes	yes
+estetico_adj	cooc		1610	no	no	no	no	yes	yes
+estinguersi_verb	cooc		1562	no	no	no	yes	yes	yes
+estinti_adj	cooc		1564	no	no	no	yes	yes	yes
+estraneo_adj	cooc		1610	no	no	no	yes	yes	yes		CATEGORY|decayed
+estrano_adj	cooc		1745	no	no	no	no	yes	yes
+estremità_noun	cooc		1550	no	no	no	no	no	yes
+estremo_adj	cooc		1604	no	no	no	no	no	yes
+et_adj	cooc		1550	no	no	no	no	yes	no
+et_noun	cooc		1550	no	no	no	no	no	yes
+etc_adj	cooc		1578	no	no	no	no	no	yes
+etere_noun	cooc		1604	no	no	no	no	yes	yes
+eterei_adj	cooc		1670	no	no	no	no	yes	yes
+etereo_adj	cooc		1557	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+eternata_verb	cooc		1603	no	no	no	no	no	yes
+eterno_adj	cooc		1550	no	no	no	no	yes	yes
+euforia_noun	cooc		1808	no	no	no	no	no	yes
+europa_noun	cooc		1555	no	no	no	yes	yes	no
+europeo_adj	cooc		1610	no	no	no	no	yes	yes
+evento_noun	cooc		1599	no	no	no	no	yes	no
+evidentemente_adv	cooc		1565	no	no	no	no	no	yes
+evitare_verb	cooc		1564	no	no	no	no	yes	yes
+fa_adv	cooc		1550	no	no	no	no	yes	yes
+fabbrica_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|industry
+fabbricato_adj	cooc		1564	no	no	no	no	yes	yes
+fabbricazione_noun	cooc		1564	no	no	yes	no	yes	yes
+faccia_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+facea_verb	cooc		1562	no	no	no	no	no	yes
+facilità_noun	cooc		1550	no	no	no	no	no	yes
+facoltà_noun	cooc		1562	no	no	yes	yes	yes	yes
+falla_noun	cooc		1555	no	no	no	yes	yes	yes
+falsa_noun	cooc		1624	no	no	no	no	yes	no
+falsità_noun	cooc		1610	no	no	no	no	yes	yes
+falso_adj	cooc		1562	no	no	no	yes	yes	yes
+fama_noun	cooc		1550	no	no	yes	yes	yes	yes
+familiari_adj	cooc		1555	no	no	no	yes	yes	no
+fammi_verb	cooc		1710	no	no	no	no	yes	no
+fanciullezza_noun	cooc		1550	no	no	no	no	no	yes
+fango_adj	cooc		1563	no	no	no	no	no	yes		CATEGORY|decayed
+fango_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+farcire_verb	cooc		1691	no	no	yes	yes	yes	yes
+fare_verb	cooc		1550	yes	yes	yes	yes	yes	yes
+fargli_verb	cooc		1550	no	no	yes	yes	yes	yes
+farglielo_verb	cooc		1657	no	no	no	no	yes	yes
+farle_verb	cooc		1550	no	no	no	no	yes	no
+farmi_verb	cooc		1555	no	no	no	yes	yes	yes
+farmisi_noun	cooc		1745	no	no	yes	yes	yes	yes
+farne_verb	cooc		1550	no	no	no	no	no	yes
+faro_noun	cooc		1563	no	no	no	yes	yes	no
+farsi_verb	cooc		1550	no	yes	yes	yes	yes	yes
+farti_verb	cooc		1555	no	no	no	yes	yes	no
+fascismo_noun	cooc		1762	no	no	no	no	no	yes
+fastidio_noun	cooc		1550	no	no	no	no	no	yes
+fata_verb	cooc		1599	no	no	yes	yes	yes	yes
+fatale_adj	cooc		1563	no	no	no	no	yes	yes
+fatti_noun	cooc		1550	no	no	no	no	yes	yes
+fatto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+fattura_noun	cooc		1564	no	no	no	yes	no	no
+favorevole_adj	cooc		1550	no	no	no	yes	yes	yes
+favorire_verb	cooc		1599	no	no	no	no	no	yes
+febbre_noun	cooc		1550	no	no	yes	yes	yes	yes
+fece_noun	cooc		1550	no	no	no	yes	yes	yes
+feci_verb	cooc		1550	no	no	no	no	yes	yes
+fede_noun	cooc		1550	no	no	no	no	yes	yes
+fedelissima_adj	cooc		1657	no	no	no	no	no	yes
+fegato_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|food|beverage
+felce_noun	cooc		1690	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+felice_adj	cooc		1550	no	no	no	no	no	yes
+felicitate_verb	cooc		1657	no	no	yes	yes	yes	yes
+fenicio_adj	cooc		1734	no	no	no	no	no	yes
+fenico_adj	cooc		1738	no	no	no	no	yes	yes		CATEGORY|pungent
+fenomenale_adj	cooc		1808	no	no	no	no	no	yes
+fenomeno_noun	cooc		1610	no	no	no	yes	yes	yes
+fermentazione_noun	cooc		1629	no	no	yes	yes	yes	yes
+ferroviario_adj	cooc		1610	no	no	no	no	yes	yes
+fertilità_noun	cooc		1603	no	no	yes	yes	yes	yes
+festone_noun	cooc		1711	no	no	no	no	no	yes
+fetido_adj	cooc	['malodorous.a.01']	1599	no	no	yes	yes	yes	yes		CATEGORY|decayed
+fiatare_noun	cooc		1821	no	no	no	yes	yes	yes
+fien_noun	cooc		1555	no	no	no	no	yes	yes
+fieno_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+fiero_noun	cooc		1550	no	yes	yes	yes	yes	yes
+figura_noun	cooc		1550	no	no	no	yes	yes	yes
+figurare_verb	cooc		1550	no	no	no	yes	yes	yes
+filosofia_noun	cooc		1550	no	no	no	no	yes	yes
+filosofiche_adj	cooc		1648	no	no	no	no	no	yes
+finale_adj	cooc		1564	no	no	no	no	no	yes
+finalità_noun	cooc		1610	no	no	no	no	yes	yes
+finanza_noun	cooc		1564	no	no	no	no	yes	yes
+finanziare_verb	cooc		1612	no	no	no	no	no	yes
+fine_noun	cooc		1550	yes	no	no	no	no	yes
+fingere_verb	cooc		1555	no	no	no	yes	yes	yes
+finire_verb	cooc		1550	no	no	no	yes	yes	yes
+fino_noun	cooc		1550	no	no	no	no	yes	yes
+fino_verb	cooc		1550	no	no	no	yes	yes	yes
+finse_verb	cooc		1550	no	no	no	no	yes	yes
+finto_noun	cooc		1558	no	no	no	yes	yes	yes	CATEGORY|animal|people
+fior_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+fiore_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+fiorire_adj	cooc		1770	no	no	no	yes	yes	yes
+fiorita_adj	cooc		1550	no	no	no	no	yes	yes
+fissa_adj	cooc		1564	no	no	no	yes	yes	yes
+fissazione_noun	cooc		1610	no	no	no	no	no	yes
+flagellare_noun	cooc		1719	no	no	no	yes	yes	yes
+flaiani_noun	cooc		1786	no	no	no	no	yes	yes
+flajani_noun	cooc		1786	no	no	no	no	yes	yes
+flebile_adj	cooc		1709	no	no	no	no	yes	yes
+flutto_noun	cooc		1578	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+foglia_noun	cooc		1563	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+fogliare_noun	cooc		1599	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+follare_noun	cooc		1769	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+fomite_noun	cooc		1599	no	no	no	yes	yes	yes
+fomite_verb	cooc		1648	no	no	no	no	yes	yes
+fondamentale_adj	cooc		1610	no	no	no	no	no	yes
+fondamento_noun	cooc		1550	no	no	yes	yes	yes	yes
+fondare_verb	cooc		1550	no	no	yes	yes	yes	yes
+fondarvi_verb	cooc		1679	no	no	no	yes	yes	yes
+fondata_verb	cooc		1555	no	no	no	yes	yes	yes
+fondatore_noun	cooc		1578	no	no	no	no	yes	yes
+fondazione_noun	cooc		1608	no	no	yes	yes	yes	yes
+fondere_noun	cooc		1701	no	no	no	yes	yes	yes
+fondere_verb	cooc		1559	no	no	no	no	yes	yes
+fondiari_adj	cooc		1610	no	no	no	no	yes	yes
+fondiario_adj	cooc		1610	no	no	no	yes	yes	yes
+fonte_noun	cooc		1550	no	no	no	yes	yes	yes
+fora_verb	cooc		1599	no	no	no	yes	yes	yes
+foresta_noun	cooc		1564	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+formale_adj	cooc		1564	no	no	no	no	yes	yes
+formare_noun	cooc		1787	no	no	yes	yes	yes	yes
+formare_verb	cooc		1550	no	no	yes	yes	yes	yes
+formazione_noun	cooc		1564	no	no	no	no	yes	yes
+formicolio_noun	cooc		1807	no	no	no	no	yes	yes
+forte_adj	cooc		1550	yes	no	yes	yes	yes	yes
+fortemente_adv	cooc		1550	no	no	yes	no	yes	yes
+fortezza_noun	cooc		1550	no	yes	yes	yes	yes	yes
+fortissima_adj	cooc		1604	no	no	no	yes	yes	yes
+fortuna_noun	cooc		1550	no	no	no	no	no	yes
+fosse_verb	cooc		1550	no	no	no	no	no	yes
+fotone_noun	cooc		1599	no	no	no	no	no	yes
+fragola_noun	cooc		1682	no	no	no	no	no	yes	CATEGORY|food|beverage
+fragranza_noun	cooc	['aroma.n.02']	1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+francobollo_noun	cooc		1848	no	no	no	no	yes	yes
+francoforte_noun	cooc		1612	no	no	no	yes	yes	yes
+frangere_verb	cooc		1578	no	no	no	no	no	yes
+frantumare_verb	cooc		1785	no	no	no	no	no	yes
+frase_noun	cooc		1624	no	no	no	no	no	yes
+freddo_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+fremito_noun	cooc		1657	no	no	no	yes	yes	yes
+frenare_noun	cooc		1807	no	no	no	no	yes	yes
+frenare_verb	cooc		1555	no	no	no	yes	yes	yes
+frequentazione_noun	cooc		1550	no	no	no	no	no	yes
+freschezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+fresco_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|fresh
+friedreich_noun	cooc		1818	no	no	no	no	yes	yes
+friggere_noun	cooc		1824	no	no	no	no	yes	no	CATEGORY|food|beverage
+frode_noun	cooc		1563	no	no	no	yes	yes	yes
+frondi_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+fronte_noun	cooc		1555	no	no	no	no	no	yes
+fruttifero_noun	cooc		1675	no	no	no	no	yes	yes
+frutto_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+fu_verb	cooc		1550	no	no	no	no	yes	yes
+fugare_noun	cooc		1804	no	no	no	no	yes	yes
+fuggire_verb	cooc		1550	no	no	no	no	yes	yes
+fumare_noun	cooc		1754	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke
+fumo_adj	cooc		1555	no	no	no	no	no	yes		CATEGORY|smoky|toasted|burnt|fatty
+funereo_adj	cooc		1747	no	no	no	no	no	yes
+funesto_adj	cooc		1657	no	no	no	no	yes	yes
+funzionario_noun	cooc		1564	no	no	no	no	yes	yes
+funzione_noun	cooc		1564	no	no	no	no	yes	yes
+fuori_adv	cooc		1550	no	no	no	no	yes	no
+furto_noun	cooc		1555	no	no	no	yes	yes	yes
+fusibili_noun	cooc		1564	no	no	no	no	yes	yes
+fusse_verb	cooc		1550	no	no	yes	yes	yes	no
+futuro_adj	cooc		1558	no	no	no	no	yes	yes
+gagliardamente_adv	cooc		1550	no	no	no	no	no	yes
+gagliardo_adj	cooc		1555	no	yes	no	yes	yes	yes
+galata_noun	cooc		1703	no	no	no	yes	yes	yes
+gallica_noun	cooc		1653	no	no	no	no	yes	yes
+garantito_verb	cooc		1610	no	no	no	no	yes	yes
+garanzia_noun	cooc		1564	no	no	no	yes	no	yes
+garofano_noun	cooc		1612	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+gas_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|industry
+gaucher_noun	cooc		1814	no	no	no	no	no	yes
+gazzetta_noun	cooc		1564	no	no	no	yes	yes	yes
+gelati_verb	cooc		1717	no	no	no	no	no	yes
+gelsomino_noun	cooc		1736	no	no	no	no	yes	no	CATEGORY|nature_flowers|plant|tree|soil
+genera_noun	cooc		1599	no	no	yes	yes	yes	yes
+generale_adj	cooc		1555	no	no	yes	no	yes	yes
+generale_noun	cooc		1555	no	no	no	no	no	yes
+generazione_noun	cooc		1555	no	no	yes	yes	yes	yes
+generico_adj	cooc		1610	no	no	no	no	yes	yes
+generis_noun	cooc		1624	no	no	no	yes	yes	yes
+generoso_adj	cooc		1562	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+genesi_noun	cooc		1610	no	no	no	no	yes	yes
+genovese_adj	cooc		1610	no	no	no	no	yes	yes
+genovese_noun	cooc		1550	no	no	no	yes	yes	yes
+gentile_adj	cooc		1550	no	no	no	no	yes	yes
+gerarchico_adj	cooc		1610	no	no	no	no	yes	yes
+germania_noun	cooc		1555	no	no	no	no	no	yes
+germe_noun	cooc		1670	no	no	yes	yes	yes	yes
+germoglio_noun	cooc		1657	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+gesù_noun	cooc		1565	no	no	no	yes	yes	yes
+gettare_verb	cooc		1550	no	no	no	no	yes	yes
+gialli_adj	cooc		1668	no	no	no	no	no	yes
+giannelli_noun	cooc		1610	no	no	no	no	no	yes
+giardin_noun	cooc		1670	no	no	no	yes	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+ginestra_adj	cooc		1783	no	no	no	no	yes	yes
+ginestre_noun	cooc		1604	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+gioia_noun	cooc		1550	no	no	no	no	yes	yes
+gioiello_noun	cooc		1657	no	no	no	no	no	yes
+giornale_noun	cooc		1550	no	no	no	no	yes	yes
+giorno_noun	cooc		1550	no	no	yes	no	yes	yes
+giovenchi_noun	cooc		1729	no	no	no	no	yes	yes
+gioventù_noun	cooc		1550	no	no	no	yes	yes	yes
+giovinezza_noun	cooc		1680	no	no	no	no	yes	yes
+gittan_noun	cooc		1728	no	no	yes	yes	yes	yes
+giubilare_noun	cooc		1799	no	no	no	no	yes	yes
+giudicare_verb	cooc		1550	no	no	yes	yes	yes	yes
+giudice_noun	cooc		1555	no	yes	no	no	no	no
+giudico_noun	cooc		1668	no	no	no	yes	yes	yes
+giudiziario_adj	cooc		1564	no	no	no	no	yes	yes
+giudizio_noun	cooc		1550	no	no	no	no	yes	yes
+giulio_noun	cooc		1550	no	no	no	no	no	yes
+giungere_verb	cooc		1550	no	no	no	no	yes	yes
+giurare_verb	cooc		1555	no	no	no	no	yes	yes
+giuridico_adj	cooc		1562	yes	no	no	no	yes	yes
+giusquiamo_noun	cooc		1789	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+giusto_adj	cooc		1550	no	no	no	no	no	yes
+già_adv	cooc		1550	no	no	no	no	no	yes
+gloriare_noun	cooc		1781	no	no	no	yes	yes	yes
+gocciare_noun	cooc		1783	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+godere_verb	cooc		1550	no	no	no	yes	yes	yes
+godimento_noun	cooc		1608	no	no	no	no	no	yes
+godo_adj	cooc		1599	no	no	no	no	yes	yes
+governare_noun	cooc		1799	no	no	yes	yes	yes	yes
+governatore_noun	cooc		1578	no	no	no	yes	yes	yes
+gradatamente_adv	cooc		1610	no	no	no	no	no	yes
+gradevole_adj	cooc		1624	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+gradita_adj	cooc		1603	no	no	no	no	yes	yes
+grado_noun	cooc		1550	no	no	yes	no	yes	yes
+gran_adj	cooc		1550	no	no	no	no	yes	yes
+grande_adj	cooc		1550	no	no	yes	yes	yes	yes
+grandezza_adj	cooc		1550	no	no	no	no	yes	yes
+grandezza_noun	cooc		1550	no	no	no	no	yes	yes
+grandissima_adj	cooc		1550	no	no	no	yes	yes	yes
+granello_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+granire_noun	cooc		1782	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+grano_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|food|beverage
+grata_adj	cooc		1555	no	no	yes	yes	yes	yes
+grato_adj	cooc		1550	no	no	yes	yes	yes	yes
+gratuito_adj	cooc		1564	no	no	no	no	no	yes
+grave_adj	cooc		1550	no	no	no	no	no	yes
+graves_noun	cooc		1701	no	no	no	no	yes	yes
+gravezza_noun	cooc		1629	no	no	yes	yes	yes	yes
+gravità_noun	cooc		1550	no	no	no	no	yes	yes
+greco_adj	cooc		1555	no	no	no	yes	yes	yes
+greco_noun	cooc		1550	no	no	no	yes	yes	yes
+grosso_adj	cooc		1550	no	no	no	no	no	yes
+grye_noun	cooc		1866	no	no	no	no	yes	yes
+guardare_verb	cooc		1550	no	no	no	no	no	yes
+guerra_noun	cooc		1550	no	no	no	no	yes	yes
+gustare_noun	cooc		1710	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage
+gustare_verb	cooc		1667	no	no	no	yes	yes	yes
+gustative_adj	cooc		1824	no	no	no	yes	yes	yes
+gustativo_adj	cooc		1805	no	no	no	no	yes	yes		CATEGORY|sweet|spicy
+habitus_noun	cooc		1610	no	no	no	no	no	yes
+harnack_noun	cooc		1785	no	no	no	no	no	yes
+heine_noun	cooc		1757	no	no	no	no	no	yes
+hodgkin_noun	cooc		1825	no	no	no	no	yes	yes
+humani_noun	cooc		1558	no	no	no	no	yes	yes
+ideale_adj	cooc		1610	no	no	no	no	yes	yes
+ideare_noun	cooc		1832	no	no	no	yes	yes	yes
+identificare_verb	cooc		1610	no	no	no	no	yes	yes
+identità_noun	cooc		1564	no	no	no	no	no	yes
+ideologico_adj	cooc		1700	no	no	no	no	no	yes
+idrogenare_noun	cooc		1865	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+ignoranza_noun	cooc		1555	no	no	no	yes	yes	yes
+ilarità_noun	cooc		1694	no	no	no	no	no	yes
+immaginare_verb	cooc		1550	no	no	no	yes	yes	yes
+immaginazione_noun	cooc		1604	no	no	no	no	yes	yes
+immagine_noun	cooc		1610	no	no	no	no	yes	yes
+immediatamente_adv	cooc		1559	no	no	no	no	yes	yes
+immediato_adj	cooc		1562	no	no	yes	no	yes	yes
+immenso_adj	cooc		1667	no	no	no	no	no	yes
+imminente_adj	cooc		1555	no	no	no	no	yes	yes
+immissione_noun	cooc		1610	no	no	no	yes	yes	yes
+immobile_adj	cooc		1557	no	no	no	no	yes	yes
+immobilizzazione_noun	cooc		1809	no	no	no	no	yes	yes
+immondizia_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+immoralità_noun	cooc		1780	no	no	yes	yes	yes	yes
+immutabile_adj	cooc		1599	no	no	yes	yes	yes	yes
+imparare_verb	cooc		1550	no	no	no	no	no	yes
+impaziente_adv	cooc		1680	no	no	yes	yes	yes	yes
+impedire_verb	cooc		1550	no	no	yes	yes	yes	yes
+impedirne_verb	cooc		1624	no	no	no	yes	yes	yes
+imperare_noun	cooc		1704	no	no	no	no	yes	yes
+imperioso_adj	cooc		1657	no	no	no	yes	yes	yes
+implicare_verb	cooc		1610	no	no	no	yes	yes	yes
+imporre_verb	cooc		1565	no	no	no	no	no	yes
+importanza_noun	cooc		1550	no	no	no	yes	yes	yes
+imposte_noun	cooc		1550	no	no	no	yes	yes	yes
+impotenza_noun	cooc		1604	no	no	no	no	yes	yes
+impregnandosi_noun	cooc		1836	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+imprendere_noun	cooc		1718	no	no	no	yes	yes	no
+impressione_noun	cooc		1657	no	no	no	yes	yes	yes
+impugnare_verb	cooc		1565	no	no	yes	no	yes	yes
+incancellabile_adj	cooc		1789	no	no	no	no	yes	yes
+incapace_adj	cooc		1599	no	no	no	no	no	yes
+incapacità_noun	cooc		1610	no	no	no	no	yes	yes
+incaricare_verb	cooc		1629	no	no	no	no	yes	yes
+incenso_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke
+incertezza_noun	cooc		1608	no	no	no	no	no	yes
+inchiesta_noun	cooc		1612	no	no	no	no	yes	yes
+inchinare_verb	cooc		1653	no	no	no	yes	yes	yes
+incipiente_adj	cooc		1701	no	no	no	yes	yes	yes
+incognito_noun	cooc		1610	no	no	no	yes	yes	yes
+incolore_adj	cooc		1750	no	no	no	yes	yes	yes
+incolore_noun	cooc		1837	no	no	no	no	yes	yes
+incoloro_adj	cooc		1816	no	no	no	no	yes	yes
+incoloro_noun	cooc		1829	no	no	no	no	yes	yes
+incominciare_verb	cooc		1557	no	no	no	yes	yes	yes
+incompatibile_adj	cooc		1610	no	no	no	no	yes	yes
+incompetenza_noun	cooc		1610	no	no	no	no	no	yes
+inconoscibile_adj	cooc		1762	no	no	no	no	no	yes
+incorporare_verb	cooc		1555	no	no	no	no	no	yes
+incubo_noun	cooc		1555	no	no	no	no	yes	yes
+indebita_adj	cooc		1610	no	no	no	no	yes	yes
+indefinibile_adj	cooc		1752	no	no	no	no	yes	yes
+indefinita_adj	cooc		1624	no	no	no	no	yes	yes
+indelebile_adj	cooc		1599	no	no	no	yes	yes	yes
+indennità_noun	cooc		1564	no	no	yes	yes	yes	yes
+indi_verb	cooc		1559	no	no	no	yes	yes	yes
+indicare_verb	cooc		1564	no	no	no	no	yes	yes
+indicazione_noun	cooc		1564	yes	yes	no	yes	yes	yes
+indigene_adj	cooc		1766	no	no	no	no	yes	yes
+indimenticabile_adj	cooc		1785	no	no	no	no	yes	yes
+individuare_noun	cooc		1850	no	no	no	yes	yes	no
+individui_adj	cooc		1629	no	no	no	no	yes	yes
+individuo_noun	cooc		1564	no	no	no	no	no	yes	CATEGORY|animal|people
+indole_noun	cooc		1564	no	no	no	yes	yes	yes
+indolente_adj	cooc		1682	no	no	no	yes	yes	yes
+indurre_verb	cooc		1558	no	no	no	no	yes	yes
+inebriante_adj	cooc		1719	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+inebriate_verb	cooc		1791	no	no	no	yes	yes	yes
+ineguaglianza_noun	cooc		1701	no	no	no	no	yes	yes
+inevitabile_adj	cooc		1610	no	no	no	no	no	yes
+infedele_adj	cooc		1563	no	no	no	no	yes	no
+infelicità_noun	cooc		1599	no	no	no	no	yes	yes
+inferiore_adj	cooc		1550	no	no	no	no	no	yes
+inferiori_verb	cooc		1612	no	no	no	yes	yes	no
+infettivo_adj	cooc		1803	no	no	no	no	yes	yes
+infido_adj	cooc		1599	no	no	no	yes	yes	yes		CATEGORY|decayed
+infiltrazione_noun	cooc		1784	no	no	no	no	yes	yes
+infinito_adj	cooc		1550	no	no	no	yes	yes	yes
+influsso_noun	cooc		1550	no	no	no	yes	yes	yes
+informazione_noun	cooc		1604	no	no	no	no	yes	yes
+infuria_adv	cooc		1783	no	no	no	no	yes	yes
+ingannare_noun	cooc		1727	no	no	no	no	yes	yes
+ingenuo_adj	cooc		1624	no	no	no	no	yes	yes
+inghilterra_noun	cooc		1550	no	no	no	no	no	yes
+ingiuntivo_adj	cooc		1610	no	yes	no	yes	no	yes
+ingiunzione_noun	cooc		1610	no	yes	no	no	no	no
+ingiustizia_noun	cooc		1610	no	no	no	no	yes	no
+inglese_adj	cooc		1564	no	no	no	no	yes	yes
+ingrato_adj	cooc		1608	no	no	no	yes	yes	yes
+iniezione_noun	cooc		1711	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+innanzi_adv	cooc		1550	no	no	yes	no	no	no
+insalubri_adj	cooc		1756	no	no	no	no	yes	yes
+insanabile_adj	cooc		1610	no	no	no	no	yes	yes
+insaporo_adj	cooc		1875	no	no	no	no	yes	yes
+insegnare_verb	cooc		1550	no	no	no	yes	yes	yes
+inserire_verb	cooc		1564	no	no	no	no	yes	yes
+inserirsi_verb	cooc		1610	no	no	no	no	yes	yes
+inserito_verb	cooc		1610	no	no	no	yes	yes	yes
+insieme_adv	cooc		1550	no	no	no	no	yes	yes
+insieme_noun	cooc		1550	no	no	no	no	yes	yes
+insomma_adv	cooc		1624	no	no	yes	no	no	yes
+insopportabile_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|pungent
+intagliare_verb	cooc		1550	no	no	yes	yes	yes	yes
+integrativo_adj	cooc		1610	no	no	no	no	no	yes
+intelletto_noun	cooc		1550	no	no	no	no	yes	yes
+intellettuale_adj	cooc		1610	no	no	no	no	yes	no
+intelligere_verb	cooc		1719	no	no	no	no	no	yes
+intelligibile_adj	cooc		1564	no	no	no	no	no	yes
+intelligitur_verb	cooc		1731	no	no	no	yes	yes	yes
+intendere_noun	cooc		1617	no	no	no	yes	yes	yes
+intendere_verb	cooc		1550	no	no	no	yes	yes	yes
+intensità_noun	cooc		1610	no	no	no	yes	yes	yes
+intenso_adj	cooc		1612	no	no	no	no	no	yes		CATEGORY|Fragrant|fruity|floral
+interamente_adv	cooc		1550	no	no	no	no	no	yes
+intercorrere_verb	cooc		1612	no	no	no	no	no	yes
+interessati_noun	cooc		1564	no	no	no	no	no	yes
+interessato_adj	cooc		1610	no	no	no	no	yes	yes
+interno_adj	cooc		1563	no	no	no	no	no	yes
+intero_adj	cooc		1550	no	no	no	no	no	yes
+intero_noun	cooc		1604	no	no	no	yes	yes	yes
+interpretare_verb	cooc		1559	no	no	no	no	yes	no
+intesa_verb	cooc		1604	no	no	no	no	yes	yes
+intese_adj	cooc		1550	no	no	no	no	yes	yes
+intestinale_adj	cooc		1706	no	no	no	no	yes	yes
+intimidazione_noun	cooc		1624	no	no	no	no	yes	yes
+intimo_adj	cooc		1657	no	no	yes	yes	yes	yes
+intorno_adj	cooc		1550	no	no	no	yes	yes	yes
+intorno_adv	cooc		1550	no	no	no	no	no	yes
+intrigo_noun	cooc		1667	no	no	no	yes	yes	yes
+intrinseco_adj	cooc		1550	no	no	no	yes	yes	yes
+intuizione_noun	cooc		1731	no	no	no	no	yes	yes
+invasione_noun	cooc		1610	no	no	no	yes	yes	yes
+inventare_verb	cooc		1690	no	no	no	no	no	yes
+investire_verb	cooc		1610	no	no	no	no	yes	yes
+inveterata_adj	cooc		1690	no	no	no	yes	no	yes
+inviare_noun	cooc		1851	no	no	no	no	yes	yes
+inviare_verb	cooc		1564	no	no	no	no	no	yes
+invitare_verb	cooc		1564	no	no	no	yes	yes	yes
+involgere_verb	cooc		1610	no	no	no	no	yes	yes
+ipocrisia_noun	cooc		1674	no	no	no	yes	yes	yes
+ipofisari_adj	cooc		1882	no	no	no	no	no	yes
+ira_noun	cooc		1550	no	no	no	no	no	yes
+irresistibile_adj	cooc		1629	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+isolamento_noun	cooc		1612	no	no	no	no	no	yes
+ispezione_noun	cooc		1564	no	no	no	no	yes	yes
+istantaneo_adj	cooc		1610	no	no	no	no	yes	yes
+istante_noun	cooc		1610	no	no	no	no	yes	yes
+istato_noun	cooc		1550	no	no	yes	yes	yes	yes
+istintivamente_adv	cooc		1789	no	no	no	no	yes	yes
+istituto_noun	cooc		1564	no	no	no	yes	yes	yes
+istituzione_noun	cooc		1564	no	no	no	no	yes	yes
+italia_noun	cooc		1550	no	no	no	no	yes	yes
+italianamente_adv	cooc		1760	no	no	no	no	yes	yes
+italiani_adj	cooc		1558	no	no	no	no	no	yes
+italiano_adj	cooc		1558	no	no	no	no	yes	yes
+jaja_noun	cooc		1796	no	no	no	no	yes	no
+la_noun	cooc		1550	no	no	no	no	yes	yes
+labbro_noun	cooc		1681	no	no	no	no	no	yes
+laddove_adj	cooc		1610	no	no	no	no	yes	no
+lagrima_noun	cooc		1704	no	no	no	yes	no	no
+lamento_adj	cooc		1657	no	no	no	no	yes	yes
+languore_noun	cooc		1701	no	no	no	no	no	yes
+largo_adj	cooc		1550	no	no	no	no	yes	yes
+lasciandomi_verb	cooc		1719	no	no	no	yes	yes	yes
+lasciare_verb	cooc		1550	no	no	yes	yes	yes	yes
+lascivie_noun	cooc		1694	no	yes	yes	yes	yes	yes
+latino_adj	cooc		1555	no	no	yes	yes	yes	yes
+latino_noun	cooc		1555	no	no	no	yes	yes	yes
+latta_noun	cooc		1629	no	no	no	no	no	yes	CATEGORY|industry
+lavanda_noun	cooc		1711	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+lavare_verb	cooc		1679	no	no	no	yes	no	yes
+lavorare_noun	cooc		1791	no	no	no	yes	yes	yes
+lavoratore_noun	cooc		1610	yes	no	no	no	yes	yes
+legale_adj	cooc		1563	no	no	no	no	yes	no
+legame_noun	cooc		1610	no	no	no	yes	yes	yes
+leggere_noun	cooc		1657	no	yes	yes	yes	yes	yes
+leggere_verb	cooc		1550	no	no	no	no	yes	yes
+leggerezza_noun	cooc		1608	no	no	no	yes	no	yes
+leggero_verb	cooc		1777	no	no	no	yes	yes	yes
+legislativo_adj	cooc		1564	no	yes	yes	no	yes	yes
+legislatore_noun	cooc		1599	no	no	no	no	yes	yes
+legname_noun	cooc		1550	no	no	no	no	yes	no	CATEGORY|nature_flowers|plant|tree|soil
+lesione_noun	cooc		1562	no	no	no	no	yes	yes
+lettera_noun	cooc		1555	no	no	yes	yes	yes	yes
+letteratura_noun	cooc		1623	no	no	no	no	yes	yes
+lettore_noun	cooc		1555	no	no	no	no	yes	yes
+lettura_noun	cooc		1555	no	no	no	no	yes	yes
+leucio_noun	cooc		1747	no	no	no	yes	yes	yes
+lezione_noun	cooc		1564	no	no	no	no	yes	yes
+liberalismo_noun	cooc		1563	no	no	no	no	yes	yes
+liberare_verb	cooc		1550	no	no	no	no	yes	yes
+liberarla_verb	cooc		1599	no	no	no	yes	yes	yes
+libero_adj	cooc		1550	no	no	yes	yes	no	no
+libertà_noun	cooc		1550	no	no	no	no	yes	yes
+libico_adj	cooc		1555	no	no	no	no	no	yes
+libidine_noun	cooc		1555	no	no	no	no	yes	yes
+librare_noun	cooc		1785	no	no	yes	yes	yes	yes
+libretto_noun	cooc		1555	no	no	no	no	yes	yes
+licenza_noun	cooc		1550	no	no	yes	yes	yes	yes
+lieto_adj	cooc		1563	no	no	no	no	yes	yes
+lievito_noun	cooc		1629	no	no	no	no	yes	no	CATEGORY|food|beverage
+limitare_verb	cooc		1610	no	no	no	no	yes	yes
+limite_adj	cooc		1608	no	no	no	no	yes	no
+limite_noun	cooc		1564	no	no	no	no	no	yes
+limone_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+limpido_adj	cooc		1657	no	no	yes	yes	yes	yes		CATEGORY|fresh
+lineare_noun	cooc		1780	no	no	no	no	yes	yes
+lingua_noun	cooc		1550	no	no	yes	no	yes	yes
+linguaggio_noun	cooc		1565	no	no	no	no	yes	yes
+lipsia_noun	cooc		1674	no	no	no	no	yes	no
+liquidazione_noun	cooc		1564	no	no	yes	no	no	no
+liquido_adj	cooc		1564	no	no	no	no	no	yes		CATEGORY|chemical|hydro-carbons|synthetic
+liquido_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+liquore_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+lira_noun	cooc		1558	no	no	no	yes	yes	yes
+lisca_noun	cooc		1718	no	no	no	no	yes	yes
+litania_noun	cooc		1690	no	no	no	no	no	yes
+little_noun	cooc		1719	no	no	no	no	yes	yes
+livellare_noun	cooc		1767	no	no	no	no	no	yes
+lobo_noun	cooc		1671	no	no	no	no	no	yes
+località_noun	cooc		1564	no	no	no	no	no	yes
+locazione_noun	cooc		1610	no	no	no	no	no	yes
+logaritmo_noun	cooc		1747	no	no	no	no	yes	yes
+lontano_adv	cooc		1550	no	no	no	no	yes	no
+lor_noun	cooc		1550	no	no	no	no	no	yes
+lotta_noun	cooc		1555	no	no	no	no	yes	yes
+lottare_noun	cooc		1814	no	no	no	no	yes	yes
+lovanio_noun	cooc		1679	no	no	no	yes	yes	no
+lucera_noun	cooc		1610	no	no	no	no	yes	yes
+lucere_noun	cooc		1610	no	no	yes	yes	yes	yes
+lucerà_noun	cooc		1563	no	no	no	no	no	yes
+lucido_adj	cooc		1657	no	no	no	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+lungi_adv	cooc		1558	no	no	no	yes	yes	yes
+luogo_noun	cooc		1550	yes	yes	yes	yes	yes	yes
+là_noun	cooc		1550	no	no	no	no	yes	yes
+lì_adv	cooc		1555	no	no	no	no	yes	yes
+macchia_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+maceria_noun	cooc		1617	no	no	no	no	no	yes	CATEGORY|industry
+madre_noun	cooc		1550	no	no	no	no	yes	yes
+madrepatria_noun	cooc		1778	no	no	no	no	yes	yes
+maggio_noun	cooc		1550	no	no	yes	yes	yes	yes
+maggior_adj	cooc		1550	no	no	no	yes	no	yes
+maggiormente_adv	cooc		1550	no	no	no	no	yes	yes
+magistrato_noun	cooc		1550	no	no	no	no	yes	yes
+magnificandosi_adj	cooc		1824	no	no	no	no	yes	yes
+magonza_noun	cooc		1578	yes	no	yes	yes	yes	yes
+mai_adv	cooc		1550	no	no	no	no	no	yes
+malato_noun	cooc		1668	no	no	no	no	yes	yes	CATEGORY|animal|people
+malattia_noun	cooc		1550	no	no	yes	yes	yes	yes
+malcostume_noun	cooc		1624	no	no	no	no	yes	yes
+male_noun	cooc		1550	no	no	no	yes	yes	yes
+malefici_adj	cooc		1559	no	no	no	yes	yes	yes
+malessere_noun	cooc		1762	no	no	no	yes	yes	yes
+malgoverno_noun	cooc		1624	no	no	no	no	yes	yes
+malvagità_noun	cooc		1565	no	no	no	no	yes	yes
+malversazione_noun	cooc		1629	no	no	no	no	yes	no
+mancanza_noun	cooc		1564	no	no	no	no	yes	yes
+mancare_verb	cooc		1555	no	no	no	yes	yes	yes
+mancata_adj	cooc		1610	no	yes	yes	no	yes	yes
+manco_verb	cooc		1550	no	no	no	yes	yes	yes
+mandare_verb	cooc		1550	no	no	yes	yes	yes	yes
+mandato_noun	cooc		1550	yes	yes	yes	yes	yes	yes
+mandorle_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|food|beverage
+maniera_noun	cooc		1550	no	no	yes	yes	yes	yes
+manifestare_verb	cooc		1610	no	no	no	no	yes	no
+manifestazione_noun	cooc		1610	no	no	no	no	no	yes
+manifesto_verb	cooc		1561	no	no	no	no	yes	yes
+mantenere_verb	cooc		1550	no	no	yes	yes	yes	no
+maraviglia_noun	cooc		1550	no	no	no	no	yes	no
+marciare_noun	cooc		1699	no	no	no	no	yes	yes
+marcio_noun	cooc		1617	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+mare_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+maria_noun	cooc		1550	no	no	no	no	yes	yes
+marmo_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|industry
+marxismo_noun	cooc		1785	no	no	no	no	no	yes
+maschio_adj	cooc		1604	no	no	no	no	yes	yes
+massa_noun	cooc		1550	no	no	no	no	no	yes
+masseria_noun	cooc		1748	no	no	no	no	yes	yes
+materia_noun	cooc		1550	no	no	yes	yes	yes	yes
+materiale_noun	cooc		1557	no	no	no	no	yes	no	CATEGORY|industry
+matrimonio_noun	cooc		1555	no	no	no	yes	yes	yes
+medesima_noun	cooc		1550	no	no	no	no	yes	no
+medesimo_adj	cooc		1550	no	no	yes	yes	yes	yes
+mediante_adj	cooc		1564	no	yes	no	yes	yes	yes
+mediante_adv	cooc		1555	no	no	yes	yes	yes	yes
+mediante_noun	cooc		1563	no	no	no	no	yes	yes
+mediante_verb	cooc		1550	no	no	no	yes	yes	yes
+medicina_noun	cooc		1555	no	no	yes	yes	yes	yes
+medin_noun	cooc		1722	no	no	no	no	no	yes
+meditare_verb	cooc		1610	no	no	no	no	no	yes
+meditazione_noun	cooc		1624	no	no	no	no	yes	yes
+mediterraneo_adj	cooc		1557	no	no	no	no	no	yes		CATEGORY|fresh
+melma_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+melodia_noun	cooc		1599	no	no	no	no	yes	yes
+melodico_adj	cooc		1720	no	no	no	no	no	yes
+membrar_verb	cooc		1770	no	no	no	yes	yes	yes
+membro_noun	cooc		1550	no	no	yes	no	no	no
+memoria_noun	cooc		1550	no	no	yes	yes	yes	yes
+men_noun	cooc		1550	no	no	no	no	yes	yes
+menta_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+mentire_noun	cooc		1790	no	no	yes	yes	yes	yes
+mento_noun	cooc		1557	no	no	no	no	no	yes
+menzogna_noun	cooc		1578	no	no	no	no	yes	yes
+meridionale_adj	cooc		1603	no	no	no	no	no	yes
+mesci_noun	cooc		1701	no	no	no	no	no	yes	CATEGORY|food|beverage
+mese_noun	cooc		1550	yes	no	yes	no	yes	yes
+messa_noun	cooc		1550	no	yes	no	no	yes	yes
+messaggio_noun	cooc		1564	no	no	no	no	no	yes
+metafisico_adj	cooc		1750	no	no	no	yes	yes	no
+metallico_adj	cooc		1612	no	no	no	no	yes	yes		CATEGORY|woody/earthy/mouldy
+metodo_noun	cooc		1564	no	no	no	no	no	yes
+metropoli_noun	cooc		1565	no	no	no	yes	yes	yes
+mettere_verb	cooc		1550	no	no	no	no	yes	yes
+mezzadria_noun	cooc		1610	yes	yes	no	yes	yes	yes
+mezzo_adj	cooc		1555	no	no	no	no	no	yes
+mezzo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+miele_noun	cooc		1610	no	no	yes	yes	yes	yes	CATEGORY|food|beverage
+milano_noun	cooc		1550	no	no	no	no	yes	yes
+milione_noun	cooc		1612	no	no	no	no	yes	yes
+militare_adj	cooc		1555	no	no	no	no	yes	yes
+ministeriale_adj	cooc		1564	no	no	no	no	yes	yes
+ministrare_noun	cooc		1717	no	no	no	no	yes	yes
+minorenne_noun	cooc		1610	no	no	no	no	yes	yes
+minorenni_noun	cooc		1610	no	no	no	yes	yes	yes
+minori_noun	cooc		1550	no	no	no	no	yes	yes
+mirabile_adj	cooc		1550	no	no	no	no	no	yes
+miracolo_noun	cooc		1550	no	no	no	no	no	yes
+mirra_adj	cooc		1706	no	no	no	no	yes	yes
+mirra_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+miseria_noun	cooc		1550	no	no	yes	yes	yes	yes
+mistero_noun	cooc		1657	no	no	no	no	yes	yes
+misura_noun	cooc		1550	no	no	no	no	yes	yes
+misurare_noun	cooc		1791	no	no	no	yes	yes	yes
+mobile_adj	cooc		1564	no	no	no	no	yes	yes
+mobiliare_adj	cooc		1610	no	no	no	no	yes	yes
+modalità_noun	cooc		1610	no	no	no	no	yes	yes
+modernità_noun	cooc		1785	no	no	no	no	yes	no
+moderno_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|Fragrant|fruity|floral
+modesto_adj	cooc		1550	no	no	no	no	no	yes
+modificare_verb	cooc		1610	no	no	no	no	no	yes
+modificazione_noun	cooc		1564	no	no	no	yes	yes	yes
+modo_noun	cooc		1550	no	no	yes	yes	yes	yes
+mollezza_noun	cooc		1679	no	no	no	yes	yes	yes
+molto_adv	cooc		1550	no	no	yes	yes	yes	yes
+momento_noun	cooc		1557	yes	yes	yes	yes	yes	yes
+monacare_noun	cooc		1704	no	no	no	no	yes	yes
+monade_noun	cooc		1731	no	no	no	no	yes	yes
+monarchico_adj	cooc		1667	no	no	no	no	yes	yes
+moneta_noun	cooc		1578	no	no	no	no	yes	yes
+monetare_noun	cooc		1784	no	no	no	yes	yes	yes
+monetario_adj	cooc		1610	no	no	no	no	yes	yes
+monetata_adj	cooc		1769	no	no	no	yes	yes	yes
+monte_noun	cooc		1550	no	no	no	yes	yes	yes
+morale_adj	cooc		1550	no	no	yes	yes	yes	yes
+morale_noun	cooc		1564	no	no	no	no	yes	yes
+moralità_noun	cooc		1608	no	no	no	yes	yes	yes
+morbo_noun	cooc		1578	no	no	no	yes	yes	yes
+mores_noun	cooc		1555	no	no	no	no	yes	yes
+morfologia_noun	cooc		1762	no	no	yes	no	no	no
+morire_verb	cooc		1550	no	no	yes	yes	yes	yes
+moro_noun	cooc		1550	no	no	yes	yes	yes	yes
+morso_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+morti_verb	cooc		1550	no	no	no	yes	yes	yes
+mortifero_adj	cooc		1578	no	no	no	yes	yes	yes		CATEGORY|decayed
+morto_verb	cooc		1550	no	no	no	no	yes	yes
+mosaico_noun	cooc		1710	no	no	no	no	no	yes
+mota_noun	cooc		1555	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+moto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+mova_verb	cooc		1671	no	no	no	yes	yes	yes
+mover_noun	cooc		1691	no	no	no	no	yes	yes
+movesi_adj	cooc		1791	no	no	yes	yes	yes	yes
+muffo_noun	cooc		1557	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+municipio_noun	cooc		1629	no	no	no	no	yes	no
+muniri_adj	cooc		1719	no	no	no	yes	yes	yes
+muovere_verb	cooc		1550	no	no	no	yes	yes	yes
+muoversi_verb	cooc		1624	no	no	yes	yes	yes	yes
+muraglia_noun	cooc		1550	no	no	no	yes	yes	no	CATEGORY|industry
+muro_noun	cooc		1550	no	no	no	yes	yes	no	CATEGORY|industry
+muschio_noun	cooc		1612	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+musico_noun	cooc		1550	no	no	yes	yes	yes	yes
+muso_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|animal|people
+muta_verb	cooc		1550	no	no	no	yes	yes	yes
+mutamento_noun	cooc		1564	no	no	no	no	no	yes
+mutare_verb	cooc		1555	no	no	no	yes	yes	yes
+mutarne_verb	cooc		1674	no	no	no	no	yes	yes
+n_noun	cooc		1550	yes	no	yes	yes	yes	yes
+naftalina_noun	cooc		1825	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+napoli_noun	cooc		1550	no	no	no	no	yes	yes
+narrare_verb	cooc		1555	no	no	no	yes	yes	yes
+nascere_verb	cooc		1550	no	no	yes	yes	yes	yes
+nascita_noun	cooc		1610	no	no	no	no	yes	yes
+naso_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people
+natura_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+naturalità_noun	cooc		1691	no	no	no	no	no	yes
+nauseabondo_adj	cooc		1799	no	no	no	yes	yes	yes		CATEGORY|decayed
+nautico_adj	cooc		1610	no	no	no	no	yes	yes
+nazionale_adj	cooc		1564	no	no	no	no	yes	yes
+nazione_noun	cooc		1550	no	no	no	no	no	yes
+ne_adv	cooc		1550	no	no	no	no	yes	yes
+neanche_adv	cooc		1610	no	no	no	yes	no	yes
+necessario_adj	cooc		1550	no	no	yes	yes	yes	yes
+necessità_noun	cooc		1562	no	no	yes	yes	yes	yes
+negare_verb	cooc		1555	no	no	no	no	no	yes
+negativo_adj	cooc		1564	no	no	no	yes	yes	no
+negoziare_noun	cooc		1701	no	no	no	no	yes	yes
+nemmeno_adj	cooc		1682	no	no	no	no	no	yes
+neppure_adv	cooc		1610	no	no	no	no	yes	yes
+nero_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|smoky|toasted|burnt|fatty
+nervo_noun	cooc		1668	no	no	no	yes	yes	yes
+netta_verb	cooc		1707	no	no	no	no	yes	yes
+netto_adj	cooc		1555	no	no	yes	no	yes	yes
+neutralità_noun	cooc		1599	no	no	no	yes	yes	no
+new_noun	cooc		1563	no	no	no	no	yes	yes
+nientaltro_adv	cooc		1831	no	no	no	no	no	yes
+nihil_noun	cooc		1562	no	no	no	yes	yes	yes
+nil_noun	cooc		1550	no	no	no	no	yes	no
+ninfa_noun	cooc		1639	no	no	no	no	yes	yes
+nobile_adj	cooc		1550	no	no	no	no	yes	yes
+nobili_noun	cooc		1550	no	no	no	no	yes	yes
+nobilissima_adj	cooc		1555	no	no	no	no	yes	yes
+nobiltà_noun	cooc		1550	no	no	no	no	yes	yes
+nocciolo_noun	cooc		1668	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+noce_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+nocivo_adj	cooc		1599	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+noia_noun	cooc		1550	no	no	no	no	no	yes
+nome_noun	cooc		1550	no	no	no	no	no	yes
+nomina_noun	cooc		1562	no	no	no	no	yes	yes
+non_adv	cooc		1550	no	no	no	no	yes	yes
+nonostante_adv	cooc		1564	no	no	no	yes	no	no
+norimberga_noun	cooc		1674	no	no	no	no	no	yes
+norma_noun	cooc		1564	yes	yes	yes	yes	yes	yes
+normativo_adj	cooc		1610	no	no	yes	no	no	no
+nostrique_noun	cooc		1782	no	no	no	yes	yes	yes
+nostro_noun	cooc		1550	no	no	no	yes	yes	yes
+notabili_noun	cooc		1555	no	no	no	no	yes	yes
+notificare_verb	cooc		1610	no	no	no	no	yes	yes
+notizia_noun	cooc		1550	no	no	no	no	yes	yes
+noto_noun	cooc		1564	no	no	yes	yes	yes	yes
+notte_noun	cooc		1550	no	no	no	no	no	yes
+novella_noun	cooc		1550	no	no	no	yes	no	no
+novello_noun	cooc		1608	no	no	no	no	yes	yes
+nozione_noun	cooc		1610	no	no	no	yes	no	no
+nube_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+nucleo_noun	cooc		1610	no	no	no	no	yes	yes
+nudo_adj	cooc		1608	no	no	no	no	no	yes
+nullità_noun	cooc		1562	no	no	no	no	yes	yes
+numerare_noun	cooc		1731	no	no	no	yes	yes	yes
+numeroso_adj	cooc		1604	no	no	no	yes	yes	yes
+nuovi_noun	cooc		1550	no	no	no	no	no	yes
+nuovo_adj	cooc		1550	no	yes	yes	yes	yes	yes
+nutrire_verb	cooc		1550	no	no	no	no	yes	yes
+nuvolo_noun	cooc		1719	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+né_adj	cooc		1550	no	no	no	no	yes	yes
+né_verb	cooc		1550	no	no	no	no	no	yes
+obbligare_noun	cooc		1787	no	no	no	yes	yes	yes
+obbligare_verb	cooc		1610	no	no	no	no	yes	yes
+obbligatorio_adj	cooc		1564	no	no	no	no	no	yes
+obbligazionario_adj	cooc		1612	no	yes	no	no	no	no
+obbligazione_noun	cooc		1564	no	yes	no	yes	yes	yes
+occasione_noun	cooc		1550	no	no	yes	yes	yes	yes
+occorrenti_adj	cooc		1558	no	no	no	yes	yes	yes
+occupare_verb	cooc		1550	no	no	no	yes	yes	yes
+occupato_adj	cooc		1599	no	no	no	yes	yes	yes
+occupazione_noun	cooc		1564	no	no	yes	no	yes	yes
+oculati_adj	cooc		1670	no	no	no	yes	yes	yes
+od_adj	cooc		1550	no	no	no	no	yes	yes
+odor_noun	cooc		1657	no	no	no	no	yes	yes
+odorar_noun	cooc		1749	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+odore_noun	cooc	['aroma.n.02', 'olfactory_property.n.01', 'smell.n.01', 'scent.n.02']	1550	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke
+oggetto_noun	cooc		1564	no	no	yes	yes	yes	yes
+oliare_noun	cooc		1701	no	no	no	no	yes	yes
+omaggio_noun	cooc		1608	no	no	no	no	no	yes
+ombrare_noun	cooc		1791	no	no	no	no	no	yes
+onda_noun	cooc		1555	no	no	yes	yes	yes	yes
+ondeggiare_verb	cooc		1667	no	no	no	no	yes	yes
+onesto_adj	cooc		1550	no	no	no	yes	yes	yes
+opera_noun	cooc		1550	no	no	no	no	yes	no
+operare_noun	cooc		1550	no	no	yes	yes	yes	yes
+operare_verb	cooc		1550	no	no	no	yes	yes	yes
+operazione_noun	cooc		1555	no	no	no	no	yes	yes
+opinione_noun	cooc		1550	no	no	no	no	yes	yes
+opportunità_noun	cooc		1599	yes	yes	yes	yes	yes	yes
+opportuno_adj	cooc		1558	no	no	yes	no	yes	yes
+opposto_adj	cooc		1604	no	no	yes	no	no	no
+oppressione_noun	cooc		1657	no	no	no	no	yes	yes
+or_adv	cooc		1550	no	no	yes	yes	yes	no
+ora_noun	cooc		1550	no	no	no	no	yes	yes
+orare_noun	cooc		1578	no	no	no	yes	yes	yes
+orazione_noun	cooc		1550	no	no	no	yes	yes	yes
+ordinamento_noun	cooc		1564	no	no	no	no	yes	yes
+ordinanza_noun	cooc		1555	no	no	no	no	yes	yes
+ordinare_verb	cooc		1555	no	no	yes	no	no	yes
+ordinari_noun	cooc		1599	no	no	no	no	yes	yes
+ordinario_adj	cooc		1550	no	no	no	no	no	yes
+ordine_noun	cooc		1550	no	no	no	yes	yes	yes
+orecchio_noun	cooc		1610	no	no	yes	yes	yes	yes
+organa_verb	cooc		1800	no	no	no	no	no	yes
+organico_adj	cooc		1564	no	no	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+organismo_noun	cooc		1610	no	no	no	no	no	yes
+organo_noun	cooc		1550	no	no	no	no	no	yes
+orgoglio_noun	cooc		1563	no	no	no	no	yes	yes
+originale_adj	cooc		1550	no	no	no	yes	yes	no		CATEGORY|Fragrant|fruity|floral
+originario_adj	cooc		1610	no	no	no	yes	yes	yes
+origine_noun	cooc		1550	no	no	yes	yes	yes	yes
+orine_noun	cooc		1706	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+orrore_noun	cooc		1555	no	no	no	no	yes	yes
+orto_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+osceno_adj	cooc		1700	no	no	no	no	no	yes		CATEGORY|decayed
+oscurità_noun	cooc		1648	no	no	no	no	yes	yes
+oscuro_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|decayed
+osservare_verb	cooc		1550	no	no	no	no	no	yes
+osservazione_noun	cooc		1550	no	no	no	no	yes	yes
+ostante_adv	cooc		1562	no	no	no	yes	yes	yes
+ostia_noun	cooc		1550	no	no	no	yes	no	yes
+ottenere_verb	cooc		1550	no	no	no	yes	yes	yes
+ottimo_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+ozono_noun	cooc		1818	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+p_noun	cooc		1550	no	no	no	no	yes	no
+pace_noun	cooc		1550	no	no	no	no	no	yes
+padrona_noun	cooc		1563	no	no	no	no	yes	no	CATEGORY|animal|people
+paesaggio_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+paese_noun	cooc		1550	no	no	no	no	yes	yes
+pag_adj	cooc		1565	no	no	no	no	yes	yes
+pag_noun	cooc		1550	no	no	no	no	yes	yes
+pagamento_noun	cooc		1550	yes	yes	yes	yes	yes	yes
+paganesmo_noun	cooc		1745	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+pagano_adj	cooc		1830	no	no	no	no	no	yes
+paget_noun	cooc		1695	no	no	no	no	yes	yes
+palepoli_noun	cooc		1755	no	no	no	no	yes	yes
+palma_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+palpare_verb	cooc		1550	no	no	no	no	no	yes
+palpiti_noun	cooc		1771	no	no	no	no	yes	yes
+palustre_adj	cooc		1709	no	no	no	yes	yes	yes
+pan_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|food|beverage
+pane_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|food|beverage
+panellenica_adj	cooc		1863	no	no	no	no	no	yes
+papale_adj	cooc		1559	no	no	no	no	yes	yes
+papato_noun	cooc		1550	no	no	no	no	yes	yes
+par_verb	cooc		1550	no	no	no	yes	yes	yes
+parea_verb	cooc		1562	no	no	yes	no	yes	yes
+parere_noun	cooc		1550	no	no	yes	yes	yes	yes
+parere_verb	cooc		1550	no	no	yes	yes	yes	yes
+pareva_noun	cooc		1679	no	no	no	no	yes	yes
+pari_noun	cooc		1550	no	no	no	no	no	yes
+parigi_noun	cooc		1550	no	no	no	no	yes	yes
+pario_adj	cooc		1736	no	no	no	no	yes	no
+parkinson_noun	cooc		1624	no	no	no	no	yes	yes
+parlamentare_adj	cooc		1612	no	no	no	no	yes	yes
+parlamentare_noun	cooc		1629	no	no	no	no	no	yes
+parlare_verb	cooc		1550	no	no	no	no	yes	yes
+parola_noun	cooc		1550	no	no	yes	no	yes	yes
+partecipare_verb	cooc		1599	no	no	no	no	no	yes
+particella_noun	cooc		1604	no	no	no	no	no	yes
+particolar_adj	cooc		1558	no	no	no	no	yes	yes
+particolar_noun	cooc		1558	no	no	no	no	yes	yes
+particolare_adj	cooc		1558	no	no	yes	yes	yes	yes
+partire_verb	cooc		1550	no	no	no	no	no	yes
+partito_noun	cooc		1550	no	no	no	no	yes	yes
+parto_noun	cooc		1555	yes	no	yes	yes	yes	yes
+partorire_verb	cooc		1555	no	no	yes	yes	yes	no
+parve_noun	cooc		1679	no	no	no	yes	yes	yes
+parziale_adj	cooc		1564	no	no	no	no	yes	yes
+parziaria_adj	cooc		1610	no	no	no	yes	yes	yes
+paschetto_noun	cooc		1846	no	no	no	no	no	yes	CATEGORY|food|beverage
+passato_noun	cooc		1550	no	no	no	no	no	yes
+passato_verb	cooc		1550	no	no	yes	yes	yes	yes
+patogenesi_noun	cooc		1724	no	no	no	no	yes	yes
+patrimonio_noun	cooc		1550	no	no	no	no	yes	yes
+patrio_noun	cooc		1578	no	no	no	yes	yes	yes
+patrono_noun	cooc		1610	no	no	no	yes	yes	yes
+paura_noun	cooc		1550	no	no	no	yes	yes	yes
+paziente_noun	cooc		1550	no	no	no	no	yes	yes
+peccare_noun	cooc		1738	no	no	yes	yes	yes	yes
+peccare_verb	cooc		1587	no	no	yes	yes	no	yes
+peculato_noun	cooc		1667	no	no	no	yes	yes	yes
+pecuniarie_adj	cooc		1564	no	no	no	no	yes	yes
+pedantesca_adj	cooc		1708	no	no	no	no	yes	yes
+pedata_noun	cooc		1703	no	no	no	yes	yes	yes
+pelle_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|synthetic
+penale_adj	cooc		1559	no	no	no	no	yes	yes
+penare_noun	cooc		1795	no	no	yes	yes	yes	yes
+penetrare_noun	cooc		1736	no	no	no	yes	yes	yes
+penetrare_verb	cooc		1558	no	no	no	no	yes	yes
+penetrarne_verb	cooc		1711	no	no	no	no	yes	yes
+penitenziario_adj	cooc		1624	no	no	no	no	yes	yes
+penosissima_adj	cooc		1719	no	no	no	no	yes	yes
+penoso_adj	cooc		1657	no	no	no	yes	yes	yes
+pensare_verb	cooc		1550	no	no	yes	yes	yes	yes
+pensiero_noun	cooc		1550	no	no	yes	yes	yes	yes
+pensione_noun	cooc		1550	no	no	yes	yes	yes	yes
+penuria_noun	cooc		1555	no	no	no	no	yes	yes
+pera_noun	cooc		1578	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+percepire_verb	cooc		1610	no	no	no	yes	yes	yes
+percezione_noun	cooc		1564	no	no	no	yes	yes	yes
+perchè_verb	cooc		1564	no	no	no	no	yes	yes
+percipit_adj	cooc		1788	no	no	no	no	no	yes
+perdere_verb	cooc		1550	no	no	no	no	yes	yes
+perdita_noun	cooc		1550	no	no	no	no	yes	yes
+perdonare_verb	cooc		1550	no	no	no	no	yes	yes
+perfetto_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+pericolare_noun	cooc		1608	no	no	no	yes	yes	yes
+periodare_noun	cooc		1754	no	no	no	no	yes	yes
+permanenza_noun	cooc		1564	no	no	no	no	no	yes
+permanere_verb	cooc		1612	no	no	no	yes	no	no
+permettere_verb	cooc		1563	no	no	no	no	yes	yes
+perpetuo_adj	cooc		1550	no	no	no	no	yes	yes
+persona_noun	cooc		1550	no	no	no	no	yes	yes
+personaggio_noun	cooc		1608	no	no	no	no	no	yes	CATEGORY|animal|people
+personalità_noun	cooc		1610	no	no	no	yes	yes	yes
+pervenire_verb	cooc		1550	no	no	no	yes	yes	yes
+perverso_adj	cooc		1691	no	no	no	yes	yes	yes
+pervertimento_noun	cooc		1782	no	no	no	no	yes	yes
+pesantezza_noun	cooc		1745	no	no	no	yes	yes	yes
+pesare_adj	cooc		1811	no	no	no	yes	yes	yes
+pesare_noun	cooc		1629	no	no	yes	yes	yes	yes
+pesce_noun	cooc		1604	no	no	yes	no	yes	yes	CATEGORY|food|beverage
+peso_noun	cooc		1550	no	no	no	no	no	yes
+pessimo_adj	cooc		1657	no	no	yes	no	yes	yes
+pestifero_adj	cooc		1668	no	no	no	yes	yes	yes
+petecchiale_adj	cooc		1786	no	no	no	yes	yes	yes
+petrolio_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+petto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+piacere_noun	cooc		1550	no	no	no	yes	yes	yes
+piacere_verb	cooc		1550	no	no	no	no	yes	yes
+piacevole_adj	cooc		1550	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+piacevolissima_adj	cooc		1694	no	no	no	yes	yes	yes
+piaggia_noun	cooc		1563	no	no	no	no	yes	yes
+piana_adj	cooc		1561	no	no	yes	yes	yes	yes
+pianto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+piccolezza_noun	cooc		1604	no	no	no	no	no	yes
+piccolo_adj	cooc		1550	no	no	yes	no	yes	yes
+piede_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|animal|people
+pien_noun	cooc		1555	no	no	no	yes	yes	yes
+pienamente_adv	cooc		1558	no	no	no	no	yes	yes
+pienezza_noun	cooc		1559	no	no	no	yes	yes	yes
+pieno_adj	cooc		1550	no	no	no	yes	yes	yes
+pietoso_adj	cooc		1587	no	no	no	yes	yes	yes
+pigiare_verb	cooc		1695	no	no	no	yes	yes	yes
+piramide_noun	cooc		1603	no	no	no	no	yes	yes
+pirri_noun	cooc		1710	no	no	no	no	yes	yes
+piuma_noun	cooc		1657	no	no	no	no	yes	no	CATEGORY|synthetic
+piuttosto_adv	cooc		1610	no	no	yes	no	yes	yes
+placide_adj	cooc		1691	no	no	no	no	no	yes
+plebeo_adj	cooc		1559	no	no	no	no	yes	yes
+pluralità_noun	cooc		1578	no	no	no	no	yes	yes
+po_adv	cooc		1550	no	no	yes	yes	yes	yes
+po_noun	cooc		1550	no	no	no	yes	yes	yes
+poca_adj	cooc		1550	no	no	yes	yes	yes	yes
+poemetto_noun	cooc		1668	no	no	no	no	no	yes
+poesia_noun	cooc		1550	no	no	yes	yes	yes	yes
+poetare_noun	cooc		1624	no	no	no	yes	yes	yes
+poetico_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+polemico_noun	cooc		1773	no	no	no	no	yes	yes
+poliennali_noun	cooc		1865	no	no	no	no	no	yes
+politica_adj	cooc		1555	no	no	no	yes	yes	yes
+politico_adj	cooc		1599	no	no	yes	no	no	no
+polizza_noun	cooc		1564	yes	no	no	yes	yes	yes
+pollare_noun	cooc		1744	no	no	no	no	no	yes	CATEGORY|animal|people
+polmone_noun	cooc		1682	no	no	no	no	yes	yes	CATEGORY|industry
+polso_noun	cooc		1657	no	no	no	no	yes	yes
+polve_adj	cooc		1680	no	no	no	no	yes	yes
+polvere_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+pomo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+popolamento_noun	cooc		1785	no	no	no	yes	yes	yes
+popolare_adj	cooc		1562	no	no	no	no	yes	yes
+popolazione_noun	cooc		1564	no	no	no	no	yes	yes
+porre_verb	cooc		1550	no	no	no	no	no	yes
+portata_verb	cooc		1550	no	no	no	no	yes	no
+portatore_noun	cooc		1564	no	no	no	yes	yes	yes
+porto_verb	cooc		1550	no	no	yes	yes	yes	yes
+portogallo_noun	cooc		1550	no	no	no	no	no	yes
+posa_verb	cooc		1604	no	no	no	no	yes	yes
+posen_noun	cooc		1780	no	no	no	yes	yes	yes
+possa_verb	cooc		1550	no	no	no	no	no	yes
+possano_verb	cooc		1562	no	no	no	no	no	yes
+possedere_verb	cooc		1564	no	no	no	no	no	yes
+possiamo_verb	cooc		1550	no	no	no	no	yes	yes
+possibilità_noun	cooc		1610	no	no	no	yes	yes	yes
+posso_verb	cooc		1550	no	no	no	no	yes	yes
+possono_verb	cooc		1550	no	no	no	no	yes	yes
+posta_verb	cooc		1550	no	no	no	no	yes	no
+posteriore_adj	cooc		1610	no	no	no	no	no	yes
+potenza_noun	cooc		1555	no	no	no	no	yes	yes
+poter_verb	cooc		1550	no	no	no	no	no	yes
+potere_noun	cooc		1550	no	yes	yes	yes	yes	yes
+potessero_verb	cooc		1550	no	no	no	no	no	yes
+potestà_noun	cooc		1562	no	no	no	no	yes	yes
+poteva_verb	cooc		1550	no	no	no	no	yes	yes
+potevano_verb	cooc		1550	no	no	no	no	yes	yes
+potrai_verb	cooc		1555	no	no	no	yes	yes	yes
+potrà_verb	cooc		1550	no	no	no	no	yes	yes
+pott_noun	cooc		1734	no	no	no	no	yes	yes
+potuto_verb	cooc		1550	no	no	no	yes	yes	yes
+potè_verb	cooc		1555	no	no	yes	no	yes	yes
+povertà_noun	cooc		1550	no	no	yes	no	yes	yes
+pp_noun	cooc		1550	no	no	no	no	yes	yes
+pratico_noun	cooc		1604	no	no	no	yes	yes	yes
+precedere_verb	cooc		1562	no	no	no	no	yes	yes
+precisa_adj	cooc		1564	no	no	no	no	yes	yes
+precisamente_adj	cooc		1610	no	no	yes	yes	yes	yes
+preciso_verb	cooc		1796	no	no	no	no	no	yes
+predica_noun	cooc		1603	no	no	no	yes	yes	no
+prefettizio_adj	cooc		1610	no	no	no	no	yes	yes
+prelatizia_adj	cooc		1783	no	no	no	no	yes	yes
+premere_verb	cooc		1604	no	no	no	no	yes	yes
+preparazione_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+prepotenza_noun	cooc		1565	no	no	no	no	yes	yes
+prescelto_adj	cooc		1564	no	no	no	no	yes	no
+presentazione_noun	cooc		1564	no	no	no	no	yes	no
+presenza_noun	cooc		1550	no	yes	no	no	yes	yes
+preservare_verb	cooc		1612	no	no	no	yes	yes	yes
+presidenziale_adj	cooc		1610	no	no	no	no	yes	no
+pressare_noun	cooc		1889	no	no	no	no	no	yes
+pressione_noun	cooc		1564	no	no	no	no	yes	yes
+presso_adj	cooc		1564	no	no	no	no	no	yes
+presso_noun	cooc		1564	no	no	no	no	no	yes
+presso_verb	cooc		1550	no	no	no	yes	yes	yes
+prestito_noun	cooc		1612	no	yes	no	yes	yes	yes
+presupporre_noun	cooc		1738	no	no	no	no	no	yes
+prevedere_verb	cooc		1610	no	yes	yes	no	yes	yes
+previdenza_noun	cooc		1610	no	no	no	no	yes	yes
+previsto_verb	cooc		1564	no	no	yes	no	no	yes
+prezzo_noun	cooc		1550	no	yes	no	yes	yes	yes
+prima_noun	cooc		1555	no	no	no	no	no	yes
+primaria_noun	cooc		1617	no	no	no	no	yes	yes
+primavera_noun	cooc		1635	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+primitivo_adj	cooc		1564	no	no	no	no	yes	no
+primo_adj	cooc		1559	no	no	no	no	no	yes
+principale_adj	cooc		1550	no	no	no	no	yes	yes
+principiare_noun	cooc		1703	no	no	yes	yes	yes	yes
+private_verb	cooc		1610	no	no	no	no	yes	yes
+privati_noun	cooc		1550	no	no	yes	yes	yes	yes
+privato_adj	cooc		1565	no	no	no	yes	yes	yes
+privilegiate_verb	cooc		1610	no	no	no	no	yes	yes
+privilegiati_verb	cooc		1624	no	no	no	no	yes	yes
+privilegiato_adj	cooc		1612	no	no	no	no	yes	yes
+problema_noun	cooc		1610	no	no	yes	no	yes	yes
+procedimento_noun	cooc		1564	no	no	yes	no	no	yes
+procedura_noun	cooc		1564	no	no	no	yes	no	yes
+processo_noun	cooc		1562	no	no	no	no	yes	yes
+prodotto_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+produrre_noun	cooc		1757	no	no	no	yes	yes	yes
+produrre_verb	cooc		1555	no	no	yes	yes	yes	yes
+produzione_noun	cooc		1564	no	no	no	no	yes	yes	CATEGORY|industry
+professore_noun	cooc		1564	no	no	no	no	no	yes
+profondissima_adj	cooc		1667	no	no	no	yes	yes	yes
+profondo_adj	cooc		1587	no	no	yes	yes	yes	yes
+progettare_noun	cooc		1878	no	no	no	no	yes	yes
+prole_noun	cooc		1599	no	no	no	no	yes	yes
+promesse_verb	cooc		1604	no	no	no	no	no	yes
+promuovere_verb	cooc		1564	no	no	no	no	yes	no
+propagazione_noun	cooc		1612	no	no	no	yes	yes	yes
+propinquità_noun	cooc		1657	no	no	no	yes	yes	yes
+propo_noun	cooc		1550	no	no	no	yes	yes	yes
+proponimento_noun	cooc		1550	no	no	no	no	yes	yes
+proporre_noun	cooc		1674	no	no	no	no	yes	yes
+proporre_verb	cooc		1558	no	no	no	no	yes	yes
+proporzionale_adj	cooc		1610	no	no	no	no	yes	yes
+proporzionatamente_adv	cooc		1629	no	no	no	yes	yes	yes
+proporzionato_verb	cooc		1681	no	no	yes	yes	yes	no
+proposito_noun	cooc		1550	no	no	no	no	yes	yes
+propri_noun	cooc		1555	no	no	no	yes	yes	no
+propria_adj	cooc		1550	no	no	no	no	yes	yes
+propriamente_adv	cooc		1550	no	no	yes	yes	yes	yes
+proprietà_noun	cooc		1555	no	no	no	no	yes	yes
+proprio_adv	cooc		1550	no	no	no	yes	yes	yes
+proprio_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|animal|people
+propuosi_noun	cooc		1818	no	no	no	no	no	yes
+proroga_noun	cooc		1564	no	no	no	no	yes	yes
+prosperità_noun	cooc		1629	no	no	no	no	yes	yes
+prossimità_noun	cooc		1610	no	no	no	no	yes	yes
+prostituzione_noun	cooc		1629	no	no	no	yes	yes	yes
+protestare_noun	cooc		1704	no	no	no	no	yes	yes
+prova_verb	cooc		1550	no	no	no	yes	yes	yes
+provare_verb	cooc		1550	no	no	no	yes	yes	yes
+provato_verb	cooc		1564	no	no	no	no	no	yes
+provenire_verb	cooc		1610	no	no	yes	yes	yes	yes
+provocare_verb	cooc		1610	no	no	no	no	yes	yes
+provvedere_verb	cooc		1564	no	no	no	no	yes	yes
+provvedimento_noun	cooc		1564	yes	yes	yes	yes	yes	yes
+provvedimento_verb	cooc		1610	no	no	no	no	yes	yes
+provvisoriamente_adv	cooc		1564	no	no	no	no	yes	yes
+prurito_noun	cooc		1578	no	no	no	yes	yes	yes
+pubblica_noun	cooc		1564	no	no	no	no	no	yes
+pubblicare_verb	cooc		1564	no	no	no	no	yes	yes
+pubblicazione_noun	cooc		1564	no	no	no	no	yes	yes
+pubblici_noun	cooc		1564	no	no	no	no	yes	yes
+pubblico_adj	cooc		1564	no	no	yes	no	yes	yes
+pubblico_noun	cooc		1564	no	no	no	no	yes	yes
+puntura_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal
+puoi_verb	cooc		1555	no	no	no	yes	yes	yes
+pupilla_noun	cooc		1657	no	no	no	no	yes	yes
+puro_adj	cooc		1555	no	no	no	yes	yes	yes
+puro_adv	cooc		1808	no	no	no	no	yes	yes
+pus_noun	cooc		1578	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+putrefazione_noun	cooc	['putrefaction.n.01']	1697	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+puzzo_noun	cooc	['malodor.n.01']	1657	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+può_verb	cooc		1550	no	no	no	yes	yes	yes
+qua_adv	cooc		1550	no	no	no	no	no	yes
+quadrare_noun	cooc		1802	no	no	no	no	yes	yes
+quae_noun	cooc		1604	no	no	no	no	yes	yes
+qualità_noun	cooc		1550	yes	yes	yes	yes	yes	yes
+quantità_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+quanto_adv	cooc		1550	no	no	no	no	yes	yes
+quasi_adv	cooc		1550	no	no	no	no	no	yes
+que_noun	cooc		1550	no	no	no	no	no	yes
+questione_noun	cooc		1610	no	no	no	no	yes	yes
+quieto_adj	cooc		1550	no	no	no	no	no	yes
+quindi_adv	cooc		1563	no	no	no	no	yes	yes
+quivi_adj	cooc		1550	no	no	no	yes	yes	yes
+raccolto_noun	cooc		1629	no	no	no	no	no	yes
+raccolto_verb	cooc		1550	no	no	no	no	no	yes
+racconto_noun	cooc		1578	no	no	no	no	no	yes
+raddolcisce_noun	cooc		1775	no	no	no	no	no	yes
+radere_noun	cooc		1701	no	no	yes	yes	yes	yes
+radiare_noun	cooc		1820	no	no	no	no	no	yes
+radiazione_noun	cooc		1610	no	no	no	no	no	yes
+radice_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+raffinamento_noun	cooc		1681	no	no	no	no	no	yes
+ragazza_noun	cooc		1701	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal
+ragguagliare_verb	cooc		1667	no	no	no	yes	yes	yes
+ragionare_verb	cooc		1550	no	no	no	yes	yes	yes
+ragione_noun	cooc		1550	no	no	no	no	yes	yes
+rallegrare_verb	cooc		1555	no	no	no	yes	yes	yes
+ramo_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+rancido_noun	cooc		1777	no	no	no	no	yes	yes	CATEGORY|food|beverage
+rango_noun	cooc		1610	no	no	no	no	yes	no
+rapido_adj	cooc		1565	no	no	no	no	yes	no
+rappresentare_verb	cooc		1550	no	no	no	no	yes	yes
+rappresentazione_noun	cooc		1604	no	no	no	no	yes	yes
+raro_adj	cooc		1550	no	no	no	no	yes	yes
+raro_verb	cooc		1710	no	no	no	yes	yes	yes
+raynaud_noun	cooc		1779	no	no	no	no	yes	yes
+re_noun	cooc		1550	no	no	no	no	yes	yes
+reagire_verb	cooc		1682	no	no	no	yes	yes	yes
+reale_adj	cooc		1555	no	no	no	no	yes	yes
+reale_noun	cooc		1550	no	no	no	no	yes	yes
+realtà_noun	cooc		1604	no	no	no	no	yes	yes
+reato_noun	cooc		1550	no	no	yes	yes	yes	yes
+reazione_noun	cooc		1564	no	no	no	no	no	yes
+recere_adj	cooc		1791	no	no	no	no	yes	yes
+recklinghausen_noun	cooc		1857	no	no	no	no	no	yes
+reddito_noun	cooc		1610	no	no	no	no	yes	yes
+reggimento_noun	cooc		1550	no	no	no	yes	yes	yes
+regime_noun	cooc		1610	no	no	no	no	no	yes
+regio_noun	cooc		1550	no	no	no	yes	yes	yes
+regionale_adj	cooc		1610	no	no	yes	no	yes	no
+regione_noun	cooc		1555	no	no	yes	no	no	yes
+registrare_noun	cooc		1782	no	no	no	yes	yes	yes
+registrazione_noun	cooc		1564	no	no	no	no	no	yes
+regnare_noun	cooc		1670	no	no	no	no	yes	yes
+regolamentare_adj	cooc		1564	no	no	no	no	yes	yes
+regolamentare_noun	cooc		1610	no	no	yes	yes	yes	yes
+regolamento_noun	cooc		1564	no	no	yes	no	yes	yes
+regolare_verb	cooc		1564	no	no	no	no	yes	yes
+relativo_adj	cooc		1564	yes	no	no	yes	yes	yes
+religione_noun	cooc		1550	no	no	no	yes	yes	yes
+religioso_adj	cooc		1550	no	no	no	no	no	yes
+remozione_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+rendere_verb	cooc		1550	no	no	yes	yes	yes	yes
+renderli_verb	cooc		1599	no	no	no	no	yes	yes
+rendita_noun	cooc		1563	no	no	no	yes	yes	yes
+reno_noun	cooc		1557	no	no	no	yes	yes	yes
+residenti_adj	cooc		1564	no	no	no	no	no	yes
+respirare_noun	cooc		1810	no	no	no	no	no	yes
+respirare_verb	cooc		1562	no	no	no	no	yes	yes
+responsabilità_noun	cooc		1564	no	no	no	no	no	yes
+restare_verb	cooc		1550	no	no	no	no	no	yes
+retribuzione_noun	cooc		1564	yes	yes	no	yes	yes	no
+retto_noun	cooc		1555	no	no	no	yes	yes	yes
+rettorica_noun	cooc		1667	no	no	no	yes	yes	yes
+ricavare_verb	cooc		1612	no	no	no	no	yes	yes
+ricerca_noun	cooc		1555	no	no	no	no	yes	no
+ricercare_noun	cooc		1818	no	no	no	no	yes	yes
+ricercato_verb	cooc		1555	no	no	no	yes	yes	yes
+ricevere_verb	cooc		1564	no	no	yes	yes	yes	yes
+riceverne_verb	cooc		1608	no	no	no	yes	yes	yes
+ricevette_verb	cooc		1550	no	no	no	no	yes	yes
+ricevetti_verb	cooc		1736	no	no	no	yes	yes	yes
+ricevuta_adj	cooc		1624	no	no	no	yes	yes	yes
+ricezione_noun	cooc		1610	no	no	no	no	no	yes
+richartz_noun	cooc		1845	no	no	no	no	no	yes
+richiedere_noun	cooc		1771	no	no	no	no	yes	yes
+richiedere_verb	cooc		1564	no	no	no	no	yes	yes
+ricomposizione_noun	cooc		1610	no	no	yes	yes	yes	yes
+riconoscere_verb	cooc		1550	yes	yes	yes	yes	yes	yes
+riconoscimento_noun	cooc		1610	no	no	yes	no	no	yes
+ricordare_verb	cooc		1555	no	no	no	no	yes	yes
+ricordo_verb	cooc		1550	no	no	no	no	yes	yes
+ricorrere_verb	cooc		1555	no	no	no	no	yes	yes
+ridestare_verb	cooc		1667	no	no	no	no	yes	yes
+ridurre_verb	cooc		1555	no	no	no	no	no	yes
+riferimento_noun	cooc		1564	no	no	yes	no	yes	yes
+riflessione_noun	cooc		1610	no	no	no	yes	yes	yes
+riga_noun	cooc		1564	no	no	no	no	no	yes
+riguardanti_adj	cooc		1564	no	no	no	no	yes	yes
+riguardare_verb	cooc		1550	no	no	no	yes	yes	yes
+rilievo_noun	cooc		1550	no	no	no	no	yes	no
+rimanere_verb	cooc		1550	no	no	yes	no	yes	yes
+rimare_verb	cooc		1599	no	no	no	no	no	yes
+rimodellamento_noun	cooc		1785	no	no	no	no	no	yes
+rinchiuso_noun	cooc		1624	no	no	no	no	no	yes
+rinnovare_verb	cooc		1610	no	no	no	no	yes	yes
+rinvenimento_noun	cooc		1612	no	no	no	no	yes	yes
+rinviare_verb	cooc		1564	no	no	no	no	no	yes
+riordinamento_noun	cooc		1564	no	no	no	yes	yes	yes
+riportare_verb	cooc		1550	no	no	no	no	yes	yes
+riposta_adj	cooc		1550	no	no	no	no	yes	yes
+riposto_verb	cooc		1610	no	no	no	yes	yes	yes
+riprendere_noun	cooc		1773	no	no	no	no	no	yes
+riprofondavan_verb	cooc		1856	no	no	no	no	no	yes
+riscontrare_verb	cooc		1610	no	no	no	no	yes	yes
+risentirne_verb	cooc		1674	no	no	no	no	no	yes
+riserva_noun	cooc		1564	no	no	no	no	yes	yes
+risiedere_verb	cooc		1610	no	no	no	yes	yes	yes
+rispecchiamento_noun	cooc		1827	no	no	no	no	no	yes
+rispondere_noun	cooc		1756	no	no	no	yes	yes	yes
+rispondere_verb	cooc		1558	no	no	no	no	no	yes
+ristrettezza_noun	cooc		1610	no	no	yes	yes	yes	yes
+risultare_verb	cooc		1564	no	no	yes	yes	yes	yes
+risuscitassero_verb	cooc		1814	no	no	no	yes	yes	yes
+ritenere_verb	cooc		1555	no	no	no	no	no	yes
+ritirato_noun	cooc		1657	no	no	no	yes	yes	yes
+ritornare_noun	cooc		1724	no	no	no	no	no	yes
+ritrarre_verb	cooc		1550	no	no	no	no	yes	yes
+riunito_verb	cooc		1608	no	no	no	no	no	yes
+riuscire_verb	cooc		1550	no	no	no	no	yes	yes
+rivelare_verb	cooc		1610	no	no	no	no	no	yes
+roccia_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+rocco_noun	cooc		1550	no	no	no	no	yes	yes
+roma_noun	cooc		1550	no	no	no	no	no	yes
+romani_noun	cooc		1550	no	yes	yes	yes	yes	no
+romano_adj	cooc		1555	no	no	no	yes	yes	yes
+romanticismo_noun	cooc		1785	no	no	no	yes	yes	yes
+rombare_noun	cooc		1810	no	no	no	no	yes	yes
+rosa_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+roseo_adj	cooc		1667	no	no	no	no	yes	yes
+roso_noun	cooc		1762	no	no	yes	yes	yes	yes
+rossi_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+rosso_adj	cooc		1550	no	no	no	yes	yes	yes
+rosso_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+rovesciare_noun	cooc		1791	no	no	no	yes	no	no
+rovinare_noun	cooc		1809	no	no	no	yes	yes	yes
+rugiadosa_adj	cooc		1726	no	no	no	yes	yes	yes
+ruini_noun	cooc		1742	no	no	no	yes	yes	yes
+rumore_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+ruolo_noun	cooc		1564	no	no	no	yes	yes	yes
+rustico_adj	cooc		1550	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+s_noun	cooc		1550	no	no	no	no	yes	yes
+sagrestia_noun	cooc		1550	no	no	no	no	yes	yes
+salce_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+sale_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+salnitro_noun	cooc		1612	no	no	no	no	no	yes	CATEGORY|industry
+saltare_noun	cooc		1798	no	no	no	no	no	yes
+salubrità_noun	cooc		1681	no	no	no	yes	yes	yes
+salvie_adj	cooc		1780	no	no	no	no	no	yes
+sangue_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+santità_noun	cooc		1550	no	yes	yes	yes	yes	yes
+sapere_verb	cooc		1550	no	no	no	no	yes	yes
+saraceno_adj	cooc		1707	no	no	no	no	yes	yes
+sardegna_noun	cooc		1599	no	no	no	no	no	yes
+sarei_verb	cooc		1550	no	no	yes	no	yes	yes
+sarà_verb	cooc		1550	no	no	no	no	yes	yes
+sasso_noun	cooc		1550	no	no	no	yes	yes	no	CATEGORY|nature_flowers|plant|tree|soil
+sazietà_noun	cooc		1681	no	no	no	no	no	yes
+scagliare_verb	cooc		1694	no	no	no	no	yes	yes
+scandalo_noun	cooc		1587	no	no	no	yes	yes	yes
+scegliere_verb	cooc		1610	no	no	no	yes	yes	yes
+scelto_noun	cooc		1756	no	no	yes	yes	yes	yes
+sceneggiato_verb	cooc		1787	no	no	no	no	no	yes
+schiavitù_noun	cooc		1672	no	no	no	no	yes	yes
+schifo_verb	cooc		1550	no	no	no	no	yes	yes
+schifoso_adj	cooc		1703	no	no	no	no	no	yes		CATEGORY|decayed
+sciagura_noun	cooc		1604	no	no	no	no	yes	yes
+sciare_noun	cooc		1811	no	no	no	no	no	yes
+scioglimento_noun	cooc		1610	no	no	no	no	yes	yes
+sconfitto_noun	cooc		1783	no	no	no	no	yes	yes
+scontare_verb	cooc		1610	no	no	no	no	yes	yes
+scoprire_verb	cooc		1550	no	no	no	no	no	yes
+scritta_verb	cooc		1564	no	no	no	no	no	yes
+scrittore_noun	cooc		1550	no	no	no	no	no	yes
+scrittura_noun	cooc		1550	no	no	yes	no	no	no
+scrivere_verb	cooc		1550	no	no	no	no	yes	yes
+scuola_noun	cooc		1550	no	no	no	no	yes	yes
+seccare_verb	cooc		1604	no	no	no	no	yes	yes
+secco_adj	cooc		1564	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+seco_verb	cooc		1550	no	no	no	no	yes	yes
+secolo_noun	cooc		1550	no	no	no	yes	yes	yes
+seconda_noun	cooc		1550	no	no	no	no	no	yes
+secreta_verb	cooc		1623	no	no	no	no	no	yes
+sede_noun	cooc		1550	no	no	yes	yes	yes	yes
+seduta_noun	cooc		1564	no	no	no	yes	yes	yes
+segnale_noun	cooc		1610	no	no	no	no	no	yes
+segnare_noun	cooc		1756	no	no	yes	yes	yes	yes
+segnare_verb	cooc		1610	no	no	no	no	yes	no
+segno_noun	cooc		1550	no	no	no	yes	yes	yes
+seguito_verb	cooc		1550	no	no	no	no	yes	yes
+selva_noun	cooc		1608	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+selvatico_adj	cooc		1612	no	no	no	no	no	yes		CATEGORY|woody/earthy/mouldy
+sembiava_verb	cooc		1796	no	no	no	no	no	yes
+sembrare_verb	cooc		1624	no	no	no	yes	yes	yes
+semplice_adj	cooc		1550	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+sempre_adv	cooc		1550	no	no	no	no	yes	yes
+sena_noun	cooc		1555	no	no	no	no	yes	yes
+sensata_verb	cooc		1754	no	no	no	no	yes	yes
+sensato_adj	cooc		1667	no	no	no	yes	yes	yes
+sensazione_noun	cooc		1629	no	no	yes	yes	yes	yes
+sensibile_adj	cooc		1604	no	no	no	yes	yes	no
+sensitivo_adj	cooc		1710	no	no	no	yes	yes	yes
+senso_noun	cooc		1550	no	no	yes	yes	yes	yes
+sentenza_noun	cooc		1562	yes	no	yes	yes	yes	yes
+sentia_noun	cooc		1718	no	no	no	yes	yes	yes
+sentimento_noun	cooc		1562	no	no	no	yes	yes	yes
+sentina_noun	cooc		1610	no	no	yes	yes	yes	yes	CATEGORY|industry
+sentire_verb	cooc	['smell.v.01']	1550	no	no	yes	yes	yes	yes
+sentirne_verb	cooc		1564	no	no	no	yes	yes	yes
+sentirsi_verb	cooc		1648	no	no	no	no	no	yes
+sentit_noun	cooc		1610	no	no	no	no	yes	yes
+sentito_verb	cooc		1550	no	no	no	no	yes	no
+sepolcro_noun	cooc		1550	no	no	no	no	yes	yes
+serio_noun	cooc		1610	no	no	no	yes	yes	yes
+servaggio_noun	cooc		1679	no	no	no	no	yes	yes
+servilità_noun	cooc		1783	no	no	no	no	yes	yes
+servitù_noun	cooc		1550	no	no	no	yes	yes	yes
+servizo_noun	cooc		1724	no	no	no	yes	yes	yes
+seta_noun	cooc		1550	no	no	no	no	yes	no	CATEGORY|nature_flowers|plant|tree|soil
+severo_adj	cooc		1671	no	no	no	no	no	yes		CATEGORY|pungent
+sfacelo_noun	cooc		1777	no	no	no	yes	yes	yes
+sfavorevole_adj	cooc		1564	no	no	no	no	yes	yes
+sfornare_verb	cooc		1725	no	no	no	no	yes	yes
+sfruttamento_noun	cooc		1610	no	no	no	yes	yes	yes
+sgradevole_adj	cooc		1679	no	no	yes	yes	yes	yes		CATEGORY|pungent
+sguardo_noun	cooc		1550	no	no	no	no	yes	yes
+sia_verb	cooc		1550	no	no	no	no	no	yes
+siamo_verb	cooc		1555	no	no	no	no	no	yes
+siano_verb	cooc		1550	no	no	no	no	no	yes
+sibari_noun	cooc		1612	no	no	no	yes	yes	yes
+sicurezza_noun	cooc		1564	no	no	no	no	yes	yes
+sieno_verb	cooc		1550	no	no	no	no	no	yes
+sig_noun	cooc		1564	no	no	no	yes	yes	yes
+sigilli_adj	cooc		1667	no	no	no	yes	yes	yes
+significare_noun	cooc		1701	no	no	no	yes	yes	yes
+significativo_adj	cooc		1610	no	no	no	no	no	yes
+sillana_adj	cooc		1785	no	no	no	yes	yes	no
+silvestre_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+simile_adj	cooc		1550	no	no	yes	yes	yes	yes
+sinceramente_adv	cooc		1648	no	no	no	yes	yes	yes
+sincerità_noun	cooc		1562	no	no	no	no	yes	yes
+sindacalismo_noun	cooc		1785	no	no	no	no	no	yes
+sine_noun	cooc		1555	no	no	no	no	no	yes
+singolare_adj	cooc		1550	no	no	no	no	yes	yes
+sinistro_noun	cooc		1550	no	no	no	yes	yes	yes
+sinonimo_adj	cooc		1624	no	no	no	no	yes	no
+sintomatologia_noun	cooc		1610	no	no	no	no	yes	yes
+sintomo_noun	cooc		1612	no	yes	yes	yes	yes	yes
+sito_verb	cooc		1604	no	no	no	no	yes	yes
+situazione_noun	cooc		1564	no	no	no	no	yes	yes
+slegato_verb	cooc		1699	no	no	no	no	no	yes
+smarrimento_noun	cooc		1564	no	no	no	no	no	yes
+snaturarne_verb	cooc		1788	no	no	no	yes	yes	yes
+soave_adj	cooc		1679	no	yes	no	yes	yes	yes		CATEGORY|sweet|spicy
+soavità_noun	cooc		1679	no	no	yes	yes	yes	yes
+soccida_noun	cooc		1610	no	no	no	no	yes	no
+sociale_adj	cooc		1610	no	no	no	yes	yes	yes
+socialismo_noun	cooc		1785	no	no	no	no	yes	yes
+società_noun	cooc		1564	no	no	no	yes	yes	yes
+socio_noun	cooc		1610	no	no	no	no	no	yes
+soddisfazione_noun	cooc		1610	no	no	yes	no	yes	yes
+soffocamento_noun	cooc		1719	no	no	no	yes	yes	yes
+soffocare_verb	cooc		1667	no	no	no	no	no	yes
+soffrire_verb	cooc		1629	no	no	no	no	yes	yes
+soggetti_noun	cooc		1562	no	no	no	no	no	yes
+soggetto_adj	cooc		1604	no	no	no	no	no	yes
+soggetto_noun	cooc		1550	no	no	no	no	yes	yes
+soggetto_verb	cooc		1562	no	no	no	yes	no	yes
+sognare_noun	cooc		1802	no	no	no	no	yes	yes
+solamente_adv	cooc		1550	no	no	no	yes	no	no
+soldato_adj	cooc		1604	no	no	no	no	yes	yes
+soldato_noun	cooc		1564	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+sole_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+solere_adj	cooc		1750	no	no	no	no	yes	yes
+solevi_verb	cooc		1745	no	no	no	no	yes	yes
+solfato_noun	cooc		1788	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal
+solfidrico_adj	cooc		1828	no	no	no	yes	yes	yes		CATEGORY|pungent
+solfo_noun	cooc		1674	no	no	no	yes	yes	yes	CATEGORY|industry
+solforato_adj	cooc		1779	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+solforoso_adj	cooc		1788	no	no	no	no	yes	yes		CATEGORY|pungent
+solidità_noun	cooc		1564	no	no	no	yes	yes	yes
+solitario_adj	cooc		1679	no	no	no	no	yes	yes
+solito_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+solitudine_noun	cooc		1550	no	no	no	no	yes	yes
+sollievo_noun	cooc		1610	no	no	no	no	yes	yes
+solo_adj	cooc		1550	no	no	no	yes	yes	yes
+soltanto_adv	cooc		1564	no	no	no	no	yes	no
+soluzione_noun	cooc		1564	no	no	no	yes	yes	yes
+somalia_noun	cooc		1563	no	no	no	yes	yes	yes
+sommario_adj	cooc		1564	no	no	no	no	yes	yes
+somministrazione_noun	cooc		1564	no	no	no	no	yes	yes
+sonno_noun	cooc		1550	no	no	no	yes	yes	yes
+sono_verb	cooc		1550	no	no	no	no	yes	yes
+sopra_adv	cooc		1550	no	no	no	no	no	yes
+sopraggiungere_verb	cooc		1754	no	no	no	yes	yes	yes
+sopragiunse_verb	cooc		1657	no	no	no	no	no	yes
+soprattutto_adv	cooc		1564	no	no	no	no	yes	no
+sorgere_noun	cooc		1610	no	no	yes	yes	yes	yes
+sorgere_verb	cooc		1564	no	no	no	no	yes	yes
+sorpreso_noun	cooc		1695	no	no	no	yes	yes	yes
+sorta_noun	cooc		1564	no	no	no	no	yes	yes
+sospetto_noun	cooc		1604	no	no	no	no	yes	yes
+sospirare_verb	cooc		1657	no	no	no	no	no	yes
+sostanza_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal
+sostenere_verb	cooc		1604	no	no	yes	yes	yes	yes
+sottentra_verb	cooc		1674	no	no	no	yes	yes	yes
+sottigliezza_noun	cooc		1550	no	no	no	no	yes	yes
+sottile_adj	cooc		1604	no	no	no	no	yes	yes
+sotto_adv	cooc		1550	no	no	no	yes	yes	yes
+sottovoce_adv	cooc		1719	no	no	no	no	yes	no
+sottrarre_verb	cooc		1610	no	no	no	no	no	yes
+sottrarsi_verb	cooc		1610	no	no	no	no	no	yes
+sovranità_noun	cooc		1624	no	no	no	yes	yes	yes
+spandere_verb	cooc		1657	no	no	no	no	yes	yes
+spargi_noun	cooc		1671	no	no	no	no	yes	yes
+sparpagliamento_noun	cooc		1792	no	no	no	no	no	yes
+sparso_adj	cooc		1657	no	no	no	no	no	yes
+speciale_adj	cooc		1564	no	no	no	no	yes	yes
+specialmente_adv	cooc		1550	no	no	no	no	no	yes
+specie_adv	cooc		1610	no	no	no	no	yes	no
+specie_noun	cooc		1564	no	no	yes	no	yes	no	CATEGORY|animal|people
+specifico_adj	cooc		1564	no	no	yes	no	yes	yes
+speculare_verb	cooc		1624	no	no	no	yes	yes	no
+speculazione_noun	cooc		1550	no	no	no	no	no	yes
+spenta_adj	cooc		1719	no	no	yes	yes	yes	no
+spenta_noun	cooc		1694	no	no	no	no	yes	yes
+speranza_noun	cooc		1550	no	no	no	no	yes	yes
+spesa_noun	cooc		1550	no	no	no	yes	yes	yes
+spesso_adv	cooc		1550	no	no	no	no	no	yes
+spettacolo_noun	cooc		1610	no	no	no	no	yes	yes
+spettatore_noun	cooc		1648	no	no	no	no	no	yes
+spettro_noun	cooc		1657	no	no	no	no	yes	yes
+spezia_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+spiacer_adj	cooc		1787	no	no	yes	yes	yes	yes
+spiacevole_adj	cooc		1679	no	no	no	yes	yes	yes
+spiaggia_noun	cooc		1578	no	no	no	no	yes	yes
+spiegare_verb	cooc		1610	no	no	no	no	no	yes
+spiegarvi_verb	cooc		1752	no	no	no	no	no	yes
+spirare_verb	cooc		1610	no	no	no	yes	yes	yes
+spireranno_adj	cooc		1749	no	no	no	no	no	yes
+spirito_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people
+spirito_verb	cooc		1559	no	no	no	no	yes	yes
+spirituale_adj	cooc		1587	no	no	no	no	yes	yes
+spirto_noun	cooc		1550	no	no	no	yes	yes	yes
+squisitezza_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+squisito_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+sta_verb	cooc		1550	no	no	no	no	yes	yes
+stabile_adj	cooc		1550	no	no	no	no	no	yes
+stabilimento_noun	cooc		1564	no	no	no	yes	yes	yes
+stagione_noun	cooc		1610	no	yes	yes	yes	yes	yes
+stalla_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|animal|people
+stammi_adj	cooc		1773	no	no	no	no	yes	yes
+stammi_adv	cooc		1785	no	no	no	no	yes	yes
+stammi_noun	cooc		1787	no	no	no	no	yes	yes
+stammi_verb	cooc		1796	no	no	no	no	no	yes
+stampare_verb	cooc		1564	no	no	no	no	yes	yes
+stanchezza_noun	cooc		1604	no	no	no	yes	yes	yes
+stanimi_adj	cooc		1787	no	no	no	no	yes	yes
+stanno_verb	cooc		1550	no	no	no	no	no	yes
+stanziamento_noun	cooc		1610	no	no	no	yes	yes	no
+stare_verb	cooc		1550	no	no	no	no	yes	yes
+starla_noun	cooc		1674	no	no	no	no	yes	yes
+starli_verb	cooc		1736	no	no	no	no	yes	no
+starlo_verb	cooc		1777	no	no	no	no	yes	yes
+starmi_verb	cooc		1698	no	no	no	yes	yes	yes
+starti_verb	cooc		1667	no	no	no	no	no	yes
+stata_verb	cooc		1550	no	no	no	no	yes	yes
+state_verb	cooc		1550	no	no	no	no	yes	yes
+statemi_verb	cooc		1752	no	no	yes	yes	yes	yes
+stati_verb	cooc		1550	no	no	yes	no	no	no
+stato_noun	cooc		1550	yes	no	yes	yes	yes	yes
+stato_verb	cooc		1550	no	no	no	no	no	yes
+statutario_adj	cooc		1610	no	no	no	yes	yes	yes
+statuto_noun	cooc		1610	no	no	no	yes	yes	yes
+stava_verb	cooc		1550	no	no	no	no	yes	yes
+stavano_verb	cooc		1610	no	no	no	no	no	yes
+sterco_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+stesse_verb	cooc		1550	no	no	no	no	no	yes
+stesso_adj	cooc		1550	no	yes	yes	yes	yes	yes
+stilo_noun	cooc		1610	no	no	no	no	no	yes
+stimolo_noun	cooc		1610	no	no	yes	no	yes	yes
+stipendiare_noun	cooc		1845	no	no	no	yes	yes	yes
+stirpe_noun	cooc		1562	no	no	no	no	yes	yes
+stomacare_noun	cooc		1845	no	no	no	no	yes	no	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+stordimento_noun	cooc		1667	no	no	no	no	no	yes
+storia_noun	cooc		1550	no	no	no	no	no	yes
+strada_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+strambo_adj	cooc		1785	no	no	no	no	no	yes
+straniero_adj	cooc		1610	no	no	yes	no	yes	yes
+straniero_noun	cooc		1565	no	no	no	no	yes	yes
+strano_adj	cooc		1550	no	no	no	no	yes	yes
+straordinario_adj	cooc		1564	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+strasburgo_noun	cooc		1612	no	no	no	yes	yes	yes
+strategico_adj	cooc		1785	no	no	no	no	yes	no
+stravaganza_noun	cooc		1671	no	no	no	no	yes	yes
+stregua_noun	cooc		1610	no	no	no	no	no	yes
+strettezza_noun	cooc		1604	no	no	yes	yes	yes	yes
+stringere_adj	cooc		1809	no	no	no	yes	yes	yes
+strumento_noun	cooc		1565	no	no	no	no	yes	yes
+studiare_noun	cooc		1845	no	no	no	no	yes	yes
+studiare_verb	cooc		1550	no	no	no	no	yes	yes
+stupore_noun	cooc		1550	no	no	no	no	yes	yes
+stupore_verb	cooc		1550	no	no	no	no	yes	yes
+su_adv	cooc		1550	no	no	no	no	yes	yes
+subitamente_adv	cooc		1550	no	no	no	no	yes	yes
+subito_verb	cooc		1564	no	no	no	no	yes	yes
+sublimarsi_verb	cooc		1706	no	no	no	no	yes	yes
+sublime_adj	cooc		1562	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+successivo_adj	cooc		1564	yes	no	yes	no	yes	yes
+sudore_noun	cooc		1578	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+suggerire_verb	cooc		1610	no	no	no	no	no	yes
+sunt_noun	cooc		1562	no	no	no	no	yes	yes
+sunto_noun	cooc		1629	no	no	no	no	no	yes
+suol_noun	cooc		1578	no	no	no	no	no	yes
+suola_noun	cooc		1629	no	no	no	no	yes	yes	CATEGORY|synthetic
+suonare_noun	cooc		1809	no	no	no	yes	yes	yes
+suono_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+superato_verb	cooc		1550	no	no	no	no	yes	yes
+superiora_adj	cooc		1657	no	no	no	yes	yes	yes
+superiorità_noun	cooc		1562	no	no	no	yes	yes	yes
+supplicanti_noun	cooc		1657	no	no	no	yes	yes	yes
+suscitare_verb	cooc		1610	no	no	no	yes	yes	yes
+sussistere_adj	cooc		1612	no	no	no	yes	yes	no
+sustanza_noun	cooc		1562	no	no	no	no	yes	yes
+svegliare_verb	cooc		1679	no	no	yes	yes	yes	yes
+sviluppare_noun	cooc		1833	no	no	no	yes	yes	no
+sé_noun	cooc		1550	no	no	no	no	yes	yes
+sé_verb	cooc		1550	no	no	no	no	no	yes
+sì_adv	cooc		1550	no	no	no	no	no	yes
+tabaccare_noun	cooc		1833	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+tacere_verb	cooc		1555	no	no	no	no	no	yes
+tacito_noun	cooc		1555	no	no	no	no	yes	yes
+tal_noun	cooc		1550	no	no	no	yes	yes	yes
+tale_adj	cooc		1550	no	yes	no	no	yes	yes
+talora_verb	cooc		1550	no	no	no	no	yes	yes
+talvolta_adv	cooc		1617	no	no	no	no	no	yes
+talvolta_verb	cooc		1610	no	no	no	no	no	yes
+tannici_adj	cooc		1790	no	no	no	no	yes	yes
+taratatatata_verb	cooc		1909	no	no	no	no	no	yes
+tardare_verb	cooc		1563	no	no	yes	yes	yes	yes
+tardo_adj	cooc		1599	no	no	no	no	yes	yes
+tardo_adv	cooc		1802	no	no	no	no	yes	yes
+tassa_noun	cooc		1564	no	no	no	yes	yes	yes
+tassare_noun	cooc		1751	no	no	no	yes	yes	yes
+tattile_adj	cooc		1733	no	no	no	no	yes	yes
+tatto_noun	cooc		1557	no	yes	no	yes	yes	yes
+tedesco_adj	cooc		1550	no	no	no	no	yes	yes
+temere_noun	cooc		1599	no	no	no	no	yes	yes
+temperare_noun	cooc		1780	no	no	no	no	no	yes
+tempio_noun	cooc		1550	no	no	no	no	yes	yes
+tempo_noun	cooc		1550	no	no	no	no	yes	yes
+temporaneo_noun	cooc		1610	no	no	no	no	yes	no
+temporum_noun	cooc		1578	no	no	yes	yes	yes	yes
+tempra_noun	cooc		1565	no	no	no	no	no	yes
+tendere_verb	cooc		1555	no	no	no	no	yes	yes
+tenero_verb	cooc		1701	no	no	no	no	yes	no
+tentar_noun	cooc		1563	no	no	no	yes	yes	yes
+tentativo_noun	cooc		1565	no	no	no	no	yes	yes
+teorico_adj	cooc		1564	no	no	no	yes	yes	yes
+tepida_adj	cooc		1674	no	no	no	yes	yes	yes
+terapia_noun	cooc		1610	no	no	no	no	yes	yes
+terebentina_noun	cooc		1706	no	no	no	yes	yes	yes
+termine_noun	cooc		1550	no	no	yes	yes	yes	yes
+terra_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|industry
+terreno_noun	cooc		1555	no	yes	no	yes	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+terribile_adj	cooc		1550	no	no	no	yes	yes	yes
+territorio_noun	cooc		1559	no	no	no	no	yes	yes
+terrore_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+teso_noun	cooc		1667	no	no	no	no	no	yes
+tesoro_adj	cooc		1564	no	no	no	no	no	yes
+tesoro_noun	cooc		1564	no	no	yes	yes	yes	yes
+tessere_noun	cooc		1550	no	no	no	no	yes	yes
+testamento_noun	cooc		1550	no	no	no	no	yes	yes
+testare_noun	cooc		1790	no	no	yes	yes	yes	yes
+tetro_adj	cooc		1563	no	no	no	no	no	yes		CATEGORY|decayed
+thurii_noun	cooc		1734	no	no	no	no	no	yes
+tiepido_adj	cooc		1657	no	no	no	no	yes	yes		CATEGORY|fresh
+tiglio_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+timido_adj	cooc		1563	no	no	no	no	yes	yes
+tinto_noun	cooc		1612	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+tirannide_noun	cooc		1562	no	no	no	yes	yes	yes
+tiro_noun	cooc		1564	no	no	no	no	yes	yes
+tiroidei_adj	cooc		1787	no	no	no	no	no	yes
+tiroideo_adj	cooc		1788	no	no	no	no	yes	yes
+tisichezze_noun	cooc		1790	no	no	no	no	yes	no
+titolare_noun	cooc		1564	no	no	no	yes	yes	yes
+titolo_noun	cooc		1550	no	no	yes	yes	yes	yes
+toccare_verb	cooc		1550	no	no	no	yes	yes	yes
+tocco_verb	cooc		1563	no	no	no	yes	yes	yes
+togliere_verb	cooc		1599	no	no	no	yes	yes	yes
+topografia_noun	cooc		1629	no	no	no	yes	yes	no
+torbido_adj	cooc		1624	no	no	no	no	no	yes		CATEGORY|decayed
+tornare_verb	cooc		1550	no	no	no	no	yes	yes
+tornire_verb	cooc		1667	no	no	no	yes	yes	yes
+tossico_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|chemical|hydro-carbons|synthetic
+tradimento_noun	cooc		1563	no	no	no	yes	yes	yes
+tradurre_verb	cooc		1555	no	no	no	no	yes	yes
+tragedia_noun	cooc		1648	no	no	no	no	yes	yes
+tranquillità_noun	cooc		1578	no	no	yes	no	yes	yes
+trapano_noun	cooc		1638	no	no	no	no	yes	no	CATEGORY|industry
+trarre_verb	cooc		1550	no	no	no	no	yes	yes
+trascendente_noun	cooc		1667	no	no	no	no	no	yes
+trasferimento_noun	cooc		1610	no	yes	no	no	no	no
+trasformare_verb	cooc		1610	no	no	no	yes	yes	yes
+trasformata_adj	cooc		1708	no	no	no	yes	yes	yes
+trasmettere_verb	cooc		1564	no	no	no	no	yes	no
+trasmissione_noun	cooc		1564	no	no	no	yes	no	yes
+trasportare_noun	cooc		1861	no	no	no	no	yes	yes
+trattamento_noun	cooc		1564	no	no	yes	no	yes	yes
+trattare_verb	cooc		1555	no	no	no	no	yes	yes
+tratti_verb	cooc		1550	no	no	no	no	yes	yes
+tratto_noun	cooc		1550	no	no	no	no	yes	yes
+trementina_noun	cooc		1667	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal
+tremore_noun	cooc		1624	no	no	no	no	no	yes
+treveri_noun	cooc		1679	yes	no	yes	yes	yes	yes
+treviri_noun	cooc		1701	no	no	yes	yes	yes	yes
+trista_adj	cooc		1657	no	no	no	no	yes	yes
+tristezza_noun	cooc		1604	no	no	yes	no	yes	yes
+tristo_adj	cooc		1562	no	no	no	yes	yes	yes		CATEGORY|decayed
+trovarci_verb	cooc		1747	no	no	no	no	yes	yes
+trovare_verb	cooc		1550	no	no	no	yes	yes	yes
+trovarmi_verb	cooc		1668	no	no	no	no	no	yes
+trovarsi_verb	cooc		1564	no	no	no	no	yes	yes
+trovasi_verb	cooc		1550	no	no	no	no	yes	no
+tugurio_noun	cooc		1691	no	no	no	no	no	yes
+tumultuoso_adj	cooc		1701	no	no	yes	yes	yes	yes
+tunisi_noun	cooc		1657	no	no	no	no	yes	yes
+tunisia_noun	cooc		1610	no	no	no	no	yes	yes
+turare_noun	cooc		1787	no	no	no	no	no	yes
+turare_verb	cooc		1599	no	no	no	no	no	yes
+tuttaltro_adv	cooc		1764	no	no	no	no	yes	no
+tuttavia_verb	cooc		1610	no	no	no	no	no	yes
+tutto_noun	cooc		1550	no	no	no	no	yes	yes
+ubertà_noun	cooc		1701	no	no	yes	yes	yes	yes
+ubi_verb	cooc		1701	no	no	yes	yes	yes	yes
+uccello_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+udire_verb	cooc		1550	no	no	yes	yes	yes	yes
+uditivi_adj	cooc		1802	no	no	no	no	yes	no
+uditivo_adj	cooc		1610	no	no	no	no	yes	yes
+udito_adj	cooc		1559	no	no	yes	yes	yes	yes
+ufficiale_adj	cooc		1564	no	no	no	no	yes	yes
+ufficiale_noun	cooc		1564	no	no	yes	no	no	no
+ufficiali_adj	cooc		1559	no	no	no	no	yes	yes
+ultimo_adj	cooc		1550	no	no	no	no	no	yes
+umano_adj	cooc		1550	no	no	yes	yes	yes	yes
+umido_adj	cooc		1667	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+unguento_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+unicamente_adv	cooc		1564	no	no	no	no	yes	yes
+unico_adj	cooc		1550	no	no	no	no	yes	yes
+uniforme_adj	cooc		1557	no	no	no	yes	yes	yes
+unitario_adj	cooc		1610	no	no	no	no	no	yes
+uniti_noun	cooc		1563	no	no	no	no	no	yes
+unito_verb	cooc		1550	no	no	no	no	no	yes
+unità_noun	cooc		1557	no	no	no	no	no	yes
+universale_adj	cooc		1550	no	no	no	yes	yes	yes
+universalità_noun	cooc		1550	no	no	no	no	no	yes
+universo_noun	cooc		1550	no	no	no	no	yes	yes
+untuosità_noun	cooc		1754	no	no	no	no	yes	yes
+uomini_noun	cooc		1555	no	no	no	no	yes	yes
+uomo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people
+uovo_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+urgenza_noun	cooc		1564	no	no	yes	no	no	yes
+urina_noun	cooc		1706	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+urna_noun	cooc		1599	no	no	no	no	no	yes
+usare_noun	cooc		1718	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal
+uscire_verb	cooc		1550	no	no	no	no	yes	no
+ut_noun	cooc		1550	no	no	no	yes	yes	yes
+vaghezza_noun	cooc		1550	no	no	no	yes	yes	yes
+vaghi_adj	cooc		1550	no	no	yes	yes	yes	yes
+vaglia_noun	cooc		1562	no	no	no	yes	yes	yes
+vago_adj	cooc		1550	no	no	no	no	yes	yes
+valere_verb	cooc		1550	no	no	yes	yes	yes	yes
+valle_noun	cooc		1550	no	no	no	no	yes	yes
+valore_noun	cooc		1550	no	no	no	no	yes	yes
+valutare_verb	cooc		1610	no	no	no	no	yes	yes
+vaniglia_noun	cooc		1780	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+vanità_noun	cooc		1555	no	no	no	no	yes	yes
+vantaggio_noun	cooc		1562	no	yes	yes	yes	yes	yes
+vapora_verb	cooc		1785	no	no	no	no	no	yes
+vapore_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|industry
+vaquez_noun	cooc		1858	no	no	no	no	no	yes	CATEGORY|animal|people
+vastità_noun	cooc		1610	no	no	no	no	yes	yes
+vecchiezza_noun	cooc		1550	no	no	no	no	yes	yes
+vecchio_adj	cooc		1550	no	no	no	no	yes	yes
+vedere_verb	cooc		1550	yes	no	yes	yes	yes	yes
+vederle_verb	cooc		1550	no	no	no	no	no	yes
+veementissima_adj	cooc		1710	no	no	no	no	yes	yes
+vegetale_adj	cooc		1624	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+vegetare_verb	cooc		1711	no	no	no	yes	yes	yes
+velis_noun	cooc		1682	no	no	yes	yes	yes	yes
+velocità_noun	cooc		1555	no	no	no	no	yes	yes
+vena_noun	cooc		1603	no	no	no	no	no	yes
+venalità_noun	cooc		1624	no	no	yes	yes	yes	yes
+vendita_noun	cooc		1564	no	no	no	no	yes	yes
+vengono_verb	cooc		1550	no	no	no	no	yes	yes
+venire_verb	cooc		1550	no	no	yes	yes	yes	yes
+venne_verb	cooc		1550	no	no	no	no	no	yes
+vento_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust
+venuto_verb	cooc		1550	no	no	yes	yes	yes	yes
+veramente_adv	cooc		1550	no	no	no	no	no	yes
+verbale_adj	cooc		1564	no	no	yes	yes	yes	yes
+verbale_noun	cooc		1564	no	no	no	yes	yes	yes
+verifica_noun	cooc		1599	no	no	no	no	yes	yes
+verifica_verb	cooc		1610	no	no	no	no	yes	yes
+verità_noun	cooc		1550	no	no	no	yes	yes	yes
+verno_noun	cooc		1550	no	no	no	no	yes	yes
+vero_adj	cooc		1550	no	yes	yes	yes	yes	yes
+vero_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people
+verso_noun	cooc		1550	no	no	no	no	yes	no
+vertigine_noun	cooc		1657	no	no	no	no	yes	yes
+veruna_adj	cooc		1604	no	no	no	no	yes	yes
+verzure_noun	cooc		1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+veterano_noun	cooc		1599	no	no	yes	yes	yes	yes
+via_noun	cooc		1550	no	no	yes	no	yes	yes
+viaggiare_noun	cooc		1795	no	no	no	no	yes	yes
+viandante_noun	cooc		1657	no	no	no	no	yes	no
+vicinanza_noun	cooc		1564	no	no	no	no	no	yes
+vicino_adv	cooc		1550	no	no	no	no	yes	yes
+viene_verb	cooc		1550	no	no	no	no	no	yes
+vietare_verb	cooc		1555	no	no	no	no	yes	yes
+vigente_adv	cooc		1610	no	no	yes	no	no	yes
+vigilanza_noun	cooc		1564	no	no	no	yes	yes	yes
+vigilia_noun	cooc		1584	no	no	no	no	no	yes
+vigliacca_adj	cooc		1699	no	no	no	no	no	yes
+vigore_noun	cooc		1555	yes	no	no	no	yes	yes
+vile_adj	cooc		1555	no	no	no	no	no	yes
+vilissima_adj	cooc		1691	no	no	no	yes	yes	yes
+villa_noun	cooc		1550	no	no	no	yes	yes	yes
+villan_noun	cooc		1729	no	no	yes	yes	yes	yes
+villano_noun	cooc		1670	no	no	no	no	yes	yes	CATEGORY|animal|people
+viltà_noun	cooc		1550	no	no	no	yes	yes	yes
+vincere_verb	cooc		1550	no	no	no	no	no	yes
+vino_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage
+vinta_adj	cooc		1599	no	no	no	no	yes	yes
+viole_noun	cooc		1679	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil
+violenza_noun	cooc		1555	no	no	yes	yes	yes	yes
+violetto_noun	cooc		1731	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil
+virtù_noun	cooc		1550	no	no	no	yes	yes	yes
+viscere_noun	cooc		1657	no	no	yes	yes	yes	no	CATEGORY|waste_garbage|pee|vomit|excrement|rotten
+visione_noun	cooc		1610	no	no	no	no	yes	yes
+visitare_noun	cooc		1784	no	no	no	no	yes	no
+visitare_verb	cooc		1587	no	no	no	no	yes	no
+visitatore_noun	cooc		1624	no	no	no	no	yes	no
+visivo_adj	cooc		1610	no	no	no	yes	yes	yes
+viso_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|animal|people
+vista_noun	cooc		1550	no	yes	no	yes	yes	yes
+vistare_verb	cooc		1610	no	no	no	yes	yes	yes
+viste_noun	cooc		1564	no	no	no	no	yes	yes
+vita_noun	cooc		1550	no	no	no	yes	yes	yes
+vitale_adj	cooc		1578	no	no	no	no	yes	yes
+vittima_noun	cooc		1550	no	no	no	yes	yes	yes
+vivamente_adv	cooc		1608	no	no	yes	yes	yes	yes
+vivere_noun	cooc		1550	no	no	no	yes	yes	yes
+vivere_verb	cooc		1550	no	no	no	yes	yes	yes
+vivissima_adj	cooc		1550	no	no	no	yes	yes	yes
+vivo_adj	cooc		1550	no	no	yes	yes	yes	yes
+vivo_verb	cooc		1724	no	no	no	no	yes	no
+vizio_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke
+vocabolario_noun	cooc		1668	no	no	no	yes	yes	yes
+voce_noun	cooc		1550	no	yes	yes	yes	yes	yes
+vociare_noun	cooc		1820	no	no	no	yes	yes	yes
+voglia_verb	cooc		1550	no	no	no	no	no	yes
+vogliamo_verb	cooc		1550	no	no	no	no	no	yes
+voglio_verb	cooc		1550	no	no	no	no	yes	yes
+vogliono_verb	cooc		1550	no	no	no	no	yes	yes
+voler_verb	cooc		1550	no	no	no	no	no	yes
+volere_noun	cooc		1599	no	no	no	yes	yes	yes
+volere_verb	cooc		1550	no	no	yes	yes	yes	yes
+volesse_verb	cooc		1550	no	no	no	no	no	yes
+volevo_verb	cooc		1690	no	no	no	no	yes	yes
+volontà_noun	cooc		1550	yes	no	yes	no	yes	yes
+volto_noun	cooc		1550	no	no	yes	yes	yes	yes
+voluto_verb	cooc		1550	no	no	no	no	no	yes
+voluttuoso_adj	cooc		1670	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+vomica_adj	cooc		1733	no	no	no	yes	yes	yes
+votare_noun	cooc		1772	no	no	no	no	no	yes
+vuoi_verb	cooc		1565	no	no	yes	no	no	yes
+vuol_verb	cooc		1550	no	no	no	no	yes	yes
+vuoto_noun	cooc		1564	no	no	yes	no	yes	yes
+wallraf_noun	cooc		1860	no	no	no	no	no	yes
+web_adj	cooc		1756	no	no	yes	no	no	no
+weil_noun	cooc		1762	no	no	no	no	yes	yes
+werlhof_noun	cooc		1777	no	no	no	no	yes	yes
+wesen_noun	cooc		1803	no	no	no	no	yes	yes
+wilson_noun	cooc		1779	no	no	no	no	no	yes
+york_noun	cooc		1610	no	no	no	no	yes	yes
+zolfo_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|industry
+è_verb	cooc		1550	no	no	no	yes	yes	yes
+corruzione	WordNetExpansion	putrescence.n.01
+decomposizione	WordNetExpansion	putrescence.n.01
+putrido	WordNetExpansion	putrescence.n.01
+putridume	WordNetExpansion	putrescence.n.01
+incenso	WordNetExpansion	incense.n.02
+inodore	WordNetExpansion	odorless.a.01
+inodoro	WordNetExpansion	odorless.a.01
+impressione	WordNetExpansion	sensation.n.01
+sensazione	WordNetExpansion	sensation.n.01
+asprezza	WordNetExpansion	acridity.n.01
+muschio	WordNetExpansion	musk.n.02
+aroma	WordNetExpansion	flavorer.n.01
+pepe_della_Giamaica	WordNetExpansion	allspice.n.03
+pimento	WordNetExpansion	allspice.n.03
+chiodo_di_garofano	WordNetExpansion	clove.n.04
+macis	WordNetExpansion	mace.n.03
+noce_moscata	WordNetExpansion	nutmeg.n.02
+acqua_di_colonia	WordNetExpansion	cologne.n.02
+colonia	WordNetExpansion	cologne.n.02
+pasciulì	WordNetExpansion	patchouli.n.02
+patchouli	WordNetExpansion	patchouli.n.02
+eau_de_toilette	WordNetExpansion	toilet_water.n.01
+percepire	WordNetExpansion	perceive.v.01
+annusare	WordNetExpansion	sniff.v.01
+fiutare	WordNetExpansion	sniff.v.01
