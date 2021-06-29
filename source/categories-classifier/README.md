@@ -26,7 +26,9 @@ While adjectives can be:
 The input is a file with a word per line followerd by its POS (underscore separated), e.g.
 
 bergamot_noun
+
 disgusting_adj
+
 cigar_noun
 
 An example of the input file is available in `sample_input.txt `
