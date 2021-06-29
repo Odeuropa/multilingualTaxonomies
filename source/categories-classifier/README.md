@@ -1,6 +1,6 @@
 # categories-classifier
 
-This script classifies a list of words in English, Italian, French, German, Dutch or Slovenian into one of the following categories.
+This script classifies a list of words in English, Italian, French, German, Dutch or Slovenian into one of the following categories pertaining to the olfactory domain.
 
 Nouns can be calssified as:
 * CATEGORY|emissions_traffic|fuel|dust
