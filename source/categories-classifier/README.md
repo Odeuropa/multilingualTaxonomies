@@ -23,7 +23,7 @@ While adjectives can be:
 * CATEGORY|decayed
 * CATEGORY|pungent
 
-The input is a file with a word per line followerd by its POS (underscore separated), e.g.
+The input is a file with a word per line followerd by its WordNet part of speech (underscore separated), e.g.
 
 bergamot_noun
 
@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 ```
 python3 categories-classifier.py -l en -f sample_input.txt
 ```
-The classifier relies on fastText embeddings, if the script doesn't find the models in the script folder it automatically download them. If you already have them in a different folder or if you want to move them it is possible to specify the path with '-e'.
+The classifier relies on fastText embeddings. If the script doesn't find the models in the script folder it automatically downloads them from https://github.com/facebookresearch/fastText#models. If you already have them in a different folder or if you want to move them, it is possible to specify the path with '-e'.
 
 
 Parameters:
