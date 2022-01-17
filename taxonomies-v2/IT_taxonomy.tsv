@@ -1,0 +1,705 @@
+word	source	synset	first appearance	1650-1700	1701-1750	1751-1800	1801-1850	1851-1900	1901-1925	smell-source	quality
+aroma_noun	seed	['aroma.n.02', 'spice.n.02']	1612	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+aromatico_adj	seed	['fragrant.a.01']	1701	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+bouquet_noun	seed	['bouquet.n.02']	1787	no	no	no	no	yes	yes		
+decomposizione_noun	seed	['putrefaction.n.01']	1564	no	no	yes	yes	yes	yes		
+droga_noun	seed	['spice.n.02']	1667	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+effluvio_noun	seed	['malodor.n.01', 'aroma.n.02', 'bouquet.n.02']	1706	no	no	no	no	yes	yes		
+emanazione_noun	seed	['emission.n.01']	1610	yes	yes	yes	yes	yes	yes		
+emissione_noun	seed	['emission.n.01']	1564	yes	yes	yes	yes	yes	yes		
+esalazione_noun	seed	['emission.n.01']	1604	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+essenza_noun	seed	['essential_oil.n.01']	1610	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+estratto_noun	seed		1564	no	no	yes	yes	yes	yes		
+fetido_adj	seed	['malodorous.a.01']	1599	no	no	yes	yes	yes	yes		CATEGORY|decayed
+fetore_noun	seed	['malodor.n.01']	1623	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fragrante_adj	seed	['fragrant.a.01']	1734	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+fragranza_noun	seed	['aroma.n.02']	1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+leppo_noun	seed	['malodor.n.01']	1610	no	no	yes	yes	yes	yes		
+lezzo_noun	seed	['malodor.n.01']	1674	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+miasma_noun	seed	['malodor.n.01', 'miasma.n.02']	1718	no	no	no	yes	yes	yes		
+morbo_noun	seed		1578	no	yes	yes	yes	yes	yes		
+odorato_adj	seed		1555	no	no	yes	yes	yes	yes		
+odore_noun	seed	['aroma.n.02', 'olfactory_property.n.01', 'smell.n.01', 'scent.n.02']	1550	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+odoroso_adj	seed	['fragrant.a.01']	1668	no	no	no	yes	yes	yes		CATEGORY|pungent
+olezzo_noun	seed	['malodor.n.01', 'aroma.n.02']	1729	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+olfattivo_adj	seed		1802	no	no	no	yes	yes	yes		
+olfattorio_adj	seed		1754	no	no	no	yes	yes	yes		
+pestilenza_noun	seed	['malodor.n.01']	1638	no	yes	yes	yes	yes	yes		
+profumato_adj	seed	['fragrant.a.01', 'scented.a.01']	1670	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+profumo_noun	seed	['aroma.n.02', 'olfactory_property.n.01', 'smell.n.01', 'perfume.n.02']	1638	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+putrefatto_adj	seed	['putrid.a.01']	1668	no	no	no	yes	yes	yes		CATEGORY|decayed
+putrefazione_noun	seed	['putrefaction.n.01']	1697	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+puzza_noun	seed	['malodor.n.01']	1604	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+puzzo_noun	seed	['malodor.n.01']	1657	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+puzzolente_adj	seed	['malodorous.a.01']	1563	no	no	no	no	yes	yes		CATEGORY|decayed
+sito_noun	seed	['malodor.n.01']	1550	yes	yes	yes	yes	yes	yes		
+soave_adj	seed		1679	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+suave_adj	seed		1731	no	no	no	no	yes	yes		
+tanfo_noun	seed	['malodor.n.01']	1599	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+annusare_verb	seed	['smell.v.01']	1769	no	no	no	no	no	yes		
+emanare_verb	seed	['smell.v.02']	1564	yes	yes	yes	yes	yes	yes		
+fiutare_verb	seed	['smell.v.01']	1707	no	no	no	no	yes	yes		
+odorare_verb	seed	['smell.v.01', 'smell.v.02', 'smell.v.03', 'perfume.v.01']	1555	no	no	yes	yes	yes	yes		
+olezzare_verb	seed		1715	no	no	yes	yes	yes	yes		
+olire_verb	seed		1564	no	no	no	yes	yes	no		
+profumare_verb	seed	['perfume.v.01', 'perfume.v.02']	1679	no	no	no	yes	yes	yes		
+putire_verb	seed		1555	no	no	no	yes	yes	yes		
+puzzare_verb	seed	['smell.v.03']	1603	no	no	no	yes	yes	yes		
+sentire_verb	seed	['smell.v.01']	1550	yes	yes	yes	yes	yes	yes		
+acetico_adj	cooc		1788	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+aceto_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+acetone_noun	cooc		1789	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+acido_noun	cooc		1671	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+acqua_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|industry	
+acquoso_adj	cooc		1706	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+acre_adj	cooc		1565	no	no	no	yes	yes	yes		CATEGORY|pungent
+acuto_adj	cooc		1557	no	no	yes	yes	yes	yes		CATEGORY|pungent
+aglio_noun	cooc		1599	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+aiuola_noun	cooc		1701	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+alcool_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+alcoolico_adj	cooc		1629	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+alitare_noun	cooc		1760	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+alloro_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ambra_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+amico_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+ammoniaca_noun	cooc		1750	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+ammoniacale_adj	cooc		1612	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+anidride_noun	cooc		1682	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+animale_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+arancio_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+argentare_noun	cooc		1749	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+aria_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|industry	
+aroma_noun	cooc	['aroma.n.02', 'spice.n.02']	1612	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+aromatico_adj	cooc	['fragrant.a.01']	1701	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+autentico_adj	cooc		1564	no	no	yes	no	no	no		CATEGORY|Fragrant|fruity|floral
+bambino_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|animal|people	
+bava_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+belladonna_noun	cooc		1754	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bellezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bello_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+benzina_noun	cooc		1803	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+bergamotto_noun	cooc		1781	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+biancheria_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+bitume_noun	cooc		1604	no	no	no	yes	yes	yes	CATEGORY|industry	
+bocca_noun	cooc		1550	no	no	yes	no	yes	yes	CATEGORY|animal|people	
+boccetta_noun	cooc		1775	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+boschetto_noun	cooc		1612	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bottiglia_noun	cooc		1731	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+bruciaticcio_noun	cooc		1827	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+brutto_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|decayed
+bulbo_noun	cooc		1690	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+buono_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+cadavere_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+caffè_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+calamo_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+caldo_adj	cooc		1555	no	no	no	yes	yes	yes		CATEGORY|fresh
+calore_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|industry	
+candore_noun	cooc		1557	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cane_noun	cooc		1555	no	no	no	no	no	yes	CATEGORY|animal|people	
+canfora_noun	cooc		1612	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+cannella_noun	cooc		1555	no	no	no	no	no	yes	CATEGORY|food|beverage	
+cannone_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+capello_noun	cooc		1563	no	no	no	no	yes	yes	CATEGORY|animal|people	
+capre_noun	cooc		1623	no	no	no	no	no	yes	CATEGORY|animal|people	
+carbonato_noun	cooc		1791	no	no	no	no	no	yes	CATEGORY|industry	
+carbonico_adj	cooc		1788	no	no	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+carbonio_noun	cooc		1780	no	no	no	no	no	yes	CATEGORY|industry	
+carne_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+catrame_noun	cooc		1699	no	no	no	no	yes	yes	CATEGORY|industry	
+cattivo_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|decayed
+cenere_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+cerare_noun	cooc		1776	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+circolazione_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+cloro_noun	cooc		1691	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+cloroformio_noun	cooc		1812	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+compagno_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+consumere_noun	cooc		1701	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+corpo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+cosmetico_noun	cooc		1794	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+crine_noun	cooc		1603	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cristo_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+crusca_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cucinare_noun	cooc		1833	no	no	no	no	yes	no	CATEGORY|food|beverage	
+cuore_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+delicato_adj	cooc		1555	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+delizioso_adj	cooc		1709	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+dellacqua_noun	cooc		1804	no	no	no	yes	yes	yes	CATEGORY|industry	
+dente_noun	cooc		1558	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+diamante_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+diarrea_noun	cooc		1706	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dio_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+disgustoso_adj	cooc		1681	no	no	yes	yes	yes	yes		CATEGORY|decayed
+dolce_adj	cooc		1550	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+dolcezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+dolciastro_adj	cooc		1789	no	no	no	no	no	yes		CATEGORY|sweet|spicy
+dolcissimo_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+donna_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+edificio_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|industry	
+energia_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|industry	
+erba_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+esemplare_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|animal|people	
+essenza_noun	cooc	['essential_oil.n.01']	1610	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+estraneo_adj	cooc		1610	no	no	no	yes	yes	yes		CATEGORY|decayed
+etereo_adj	cooc		1557	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+fabbrica_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|industry	
+faccia_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+fango_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fegato_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|animal|people	
+felce_noun	cooc		1690	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fenico_adj	cooc		1738	no	no	no	no	yes	yes		CATEGORY|pungent
+fetido_adj	cooc	['malodorous.a.01']	1599	no	no	yes	yes	yes	yes		CATEGORY|decayed
+fieno_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fior_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fiore_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+flutto_noun	cooc		1578	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+foglia_noun	cooc		1563	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fogliare_noun	cooc		1599	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+foresta_noun	cooc		1564	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fragola_noun	cooc		1682	no	no	no	no	no	yes	CATEGORY|food|beverage	
+fragranza_noun	cooc	['aroma.n.02']	1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+freschezza_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+fresco_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|fresh
+friggere_noun	cooc		1824	no	no	no	no	yes	no	CATEGORY|food|beverage	
+frondi_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+frutto_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fumare_noun	cooc		1754	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+fumo_adj	cooc		1555	no	no	no	no	no	yes		CATEGORY|smoky|toasted|burnt|fatty
+garofano_noun	cooc		1612	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gas_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|industry	
+gelsomino_noun	cooc		1736	no	no	no	no	yes	no	CATEGORY|nature_flowers|plant|tree|soil	
+germoglio_noun	cooc		1657	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+giardin_noun	cooc		1670	no	no	no	yes	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ginestre_noun	cooc		1604	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+giusquiamo_noun	cooc		1789	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gocciare_noun	cooc		1783	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+gradevole_adj	cooc		1624	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+granello_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+granire_noun	cooc		1782	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+grano_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+gustare_noun	cooc		1710	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+gustativo_adj	cooc		1805	no	no	no	no	yes	yes		CATEGORY|sweet|spicy
+idrogenare_noun	cooc		1865	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+immondizia_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+impregnandosi_noun	cooc		1836	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+incenso_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+individuo_noun	cooc		1564	no	no	no	no	no	yes	CATEGORY|animal|people	
+inebriante_adj	cooc		1719	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+infido_adj	cooc		1599	no	no	no	yes	yes	yes		CATEGORY|decayed
+iniezione_noun	cooc		1711	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+insopportabile_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|decayed
+intenso_adj	cooc		1612	no	no	no	no	no	yes		CATEGORY|Fragrant|fruity|floral
+latta_noun	cooc		1629	no	no	no	no	no	yes	CATEGORY|industry	
+lavanda_noun	cooc		1711	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+legname_noun	cooc		1550	no	no	no	no	yes	no	CATEGORY|industry	
+lievito_noun	cooc		1629	no	no	no	no	yes	no	CATEGORY|food|beverage	
+limone_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+limpido_adj	cooc		1657	no	no	yes	yes	yes	yes		CATEGORY|fresh
+liquido_adj	cooc		1564	no	no	no	no	no	yes		CATEGORY|chemical|hydro-carbons|synthetic
+liquido_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|industry	
+liquore_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+macchia_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+maceria_noun	cooc		1617	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+malato_noun	cooc		1668	no	no	no	no	yes	yes	CATEGORY|animal|people	
+mandorle_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+marcio_noun	cooc		1617	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+mare_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+marmo_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|industry	
+materiale_noun	cooc		1557	no	no	no	no	yes	no	CATEGORY|industry	
+mediterraneo_adj	cooc		1557	no	no	no	no	no	yes		CATEGORY|fresh
+melma_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+menta_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+metallico_adj	cooc		1612	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+mezzo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+miele_noun	cooc		1610	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+mirra_noun	cooc		1555	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+morso_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+mortifero_adj	cooc		1578	no	no	no	yes	yes	yes		CATEGORY|decayed
+mota_noun	cooc		1555	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+moto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+muffo_noun	cooc		1557	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+muschio_noun	cooc		1612	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+muso_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+naftalina_noun	cooc		1825	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+naso_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+natura_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+nauseabondo_adj	cooc		1799	no	no	no	yes	yes	yes		CATEGORY|decayed
+nero_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|smoky|toasted|burnt|fatty
+nocciolo_noun	cooc		1668	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+noce_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+nocivo_adj	cooc		1599	no	no	no	yes	yes	yes		CATEGORY|decayed
+nube_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+nuvolo_noun	cooc		1719	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+odore_noun	cooc	['aroma.n.02', 'olfactory_property.n.01', 'smell.n.01', 'scent.n.02']	1550	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+orine_noun	cooc		1706	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+orto_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+osceno_adj	cooc		1700	no	no	no	no	no	yes		CATEGORY|decayed
+oscuro_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|decayed
+ottimo_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+ozono_noun	cooc		1818	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+padrona_noun	cooc		1563	no	no	no	no	yes	no	CATEGORY|animal|people	
+paesaggio_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+palma_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pan_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+pane_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+pelle_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|synthetic	
+pera_noun	cooc		1578	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+perfetto_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+personaggio_noun	cooc		1608	no	no	no	no	no	yes	CATEGORY|animal|people	
+pesce_noun	cooc		1604	no	no	yes	no	yes	yes	CATEGORY|food|beverage	
+petrolio_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+petto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+piacevole_adj	cooc		1550	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+pianto_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+piede_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|animal|people	
+piuma_noun	cooc		1657	no	no	no	no	yes	no	CATEGORY|animal|people	
+poetico_adj	cooc		1550	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+pollare_noun	cooc		1744	no	no	no	no	no	yes	CATEGORY|animal|people	
+polmone_noun	cooc		1682	no	no	no	no	yes	yes	CATEGORY|animal|people	
+polvere_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+pomo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+preparazione_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+primavera_noun	cooc		1635	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+prodotto_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+produzione_noun	cooc		1564	no	no	no	no	yes	yes	CATEGORY|industry	
+proprio_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+puntura_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+pus_noun	cooc		1578	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrefazione_noun	cooc	['putrefaction.n.01']	1697	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+puzzo_noun	cooc	['malodor.n.01']	1657	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+raccolto_noun	cooc		1629	no	no	no	no	no	yes	CATEGORY|food|beverage	
+radice_noun	cooc		1555	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ragazza_noun	cooc		1701	no	no	no	no	no	yes	CATEGORY|animal|people	
+ramo_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rancido_adj	cooc		1777	no	no	no	no	yes	yes		CATEGORY|decayed
+remozione_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+roccia_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rosa_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rosso_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rumore_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+salce_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sale_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+salnitro_noun	cooc		1612	no	no	no	no	no	yes	CATEGORY|industry	
+sangue_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+sasso_noun	cooc		1550	no	no	no	yes	yes	no	CATEGORY|nature_flowers|plant|tree|soil	
+schifoso_adj	cooc		1703	no	no	no	no	no	yes		CATEGORY|decayed
+secco_adj	cooc		1564	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+selva_noun	cooc		1608	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+selvatico_adj	cooc		1612	no	no	no	no	no	yes		CATEGORY|woody/earthy/mouldy
+sentina_noun	cooc		1610	no	no	yes	yes	yes	yes	CATEGORY|industry	
+seta_noun	cooc		1550	no	no	no	no	yes	no	CATEGORY|nature_flowers|plant|tree|soil	
+sgradevole_adj	cooc		1679	no	no	yes	yes	yes	yes		CATEGORY|decayed
+silvestre_noun	cooc		1610	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+soave_adj	cooc		1679	no	yes	no	yes	yes	yes		CATEGORY|sweet|spicy
+soldato_noun	cooc		1564	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+solfato_noun	cooc		1788	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+solfidrico_adj	cooc		1828	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+solfo_noun	cooc		1674	no	no	no	yes	yes	yes	CATEGORY|industry	
+solforato_adj	cooc		1779	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+solforoso_adj	cooc		1788	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+sostanza_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+specie_noun	cooc		1564	no	no	yes	no	yes	no	CATEGORY|animal|people	
+spezia_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+spirito_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+squisitezza_noun	cooc		1667	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+squisito_adj	cooc		1667	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+stalla_noun	cooc		1610	no	no	no	no	yes	yes	CATEGORY|animal|people	
+sterco_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stomacare_noun	cooc		1845	no	no	no	no	yes	no	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+strada_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+sublime_adj	cooc		1562	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+sudore_noun	cooc		1578	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+suola_noun	cooc		1629	no	no	no	no	yes	yes	CATEGORY|synthetic	
+tabaccare_noun	cooc		1833	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+terra_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+terreno_noun	cooc		1555	no	yes	no	yes	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+terrore_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+tetro_adj	cooc		1563	no	no	no	no	no	yes		CATEGORY|decayed
+tiepido_adj	cooc		1657	no	no	no	no	yes	yes		CATEGORY|fresh
+tiglio_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+torbido_adj	cooc		1624	no	no	no	no	no	yes		CATEGORY|decayed
+tossico_adj	cooc		1550	no	no	no	no	no	yes		CATEGORY|chemical|hydro-carbons|synthetic
+trapano_noun	cooc		1638	no	no	no	no	yes	no	CATEGORY|industry	
+trementina_noun	cooc		1667	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+tristo_adj	cooc		1562	no	no	no	yes	yes	yes		CATEGORY|decayed
+uccello_noun	cooc		1550	no	no	no	no	yes	yes	CATEGORY|animal|people	
+umido_adj	cooc		1667	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+unguento_noun	cooc		1555	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+uomo_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+uovo_noun	cooc		1668	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+urina_noun	cooc		1706	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+vaniglia_noun	cooc		1780	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+vapore_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+vegetale_adj	cooc		1624	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+verzure_noun	cooc		1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+villano_noun	cooc		1670	no	no	no	no	yes	yes	CATEGORY|animal|people	
+vino_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+viole_noun	cooc		1679	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+violetto_noun	cooc		1731	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+viscere_noun	cooc		1657	no	no	yes	yes	yes	no	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+viso_noun	cooc		1550	no	no	no	no	no	yes	CATEGORY|animal|people	
+vizio_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+volto_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+voluttuoso_adj	cooc		1670	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+zolfo_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+corruzione_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+decomposizione_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrido_adj	WordNetExpansion	putrescence.n.01									CATEGORY|decayed
+putridume_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+incenso_noun	WordNetExpansion	incense.n.02								CATEGORY|nature_flowers|plant|tree|soil	
+inodore_adj	WordNetExpansion	odorless.a.01									
+impressione_noun	WordNetExpansion	sensation.n.01									
+sensazione_noun	WordNetExpansion	sensation.n.01									
+asprezza_noun	WordNetExpansion	acridity.n.01									
+muschio_noun	WordNetExpansion	musk.n.02								CATEGORY|animal|people	
+aroma_noun	WordNetExpansion	flavorer.n.01									
+pepe_della_Giamaica_noun	WordNetExpansion	allspice.n.03								CATEGORY|food|beverage	
+pimento_noun	WordNetExpansion	allspice.n.03								CATEGORY|food|beverage	
+chiodo_di_garofano_noun	WordNetExpansion	clove.n.04								CATEGORY|food|beverage	
+macis_noun	WordNetExpansion	mace.n.03								CATEGORY|nature_flowers|plant|tree|soil	
+noce_moscata_noun	WordNetExpansion	nutmeg.n.02								CATEGORY|food|beverage	
+acqua_di_colonia_noun	WordNetExpansion	cologne.n.02								CATEGORY|synthetic	
+colonia_noun	WordNetExpansion	cologne.n.02								CATEGORY|synthetic	
+pasciulì_noun	WordNetExpansion	patchouli.n.02								CATEGORY|nature_flowers|plant|tree|soil	
+patchouli_noun	WordNetExpansion	patchouli.n.02								CATEGORY|nature_flowers|plant|tree|soil	
+eau_de_toilette_noun	WordNetExpansion	toilet_water.n.01								CATEGORY|synthetic	
+percepire_verb	WordNetExpansion	perceive.v.01									
+annusare_verb	WordNetExpansion	sniff.v.01									
+fiutare_verb	WordNetExpansion	sniff.v.01									
+asfalto_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+automobile_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+autobus_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+bus_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+macchina_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+prodotti_chimici_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+tubo_di_scappamento_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+carburante_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+esalazioni_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+grasso_noun	StartingCategories									CATEGORY|food|beverage	
+lubrificante_noun	StartingCategories									CATEGORY|food|beverage	
+foschia_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+nebbia_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+lino_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+camion__noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+smog_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+fumo_noun	StartingCategories									CATEGORY|tobacco|smoke	
+traffico_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+tram_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+bulldozer_noun	StartingCategories									CATEGORY|industry	
+canna_fumaria_noun	StartingCategories									CATEGORY|industry	
+camino_noun	StartingCategories									CATEGORY|industry	
+carbone_noun	StartingCategories									CATEGORY|industry	
+diesel_noun	StartingCategories									CATEGORY|industry	
+tubi_di_scarico_noun	StartingCategories									CATEGORY|industry	
+malta_noun	StartingCategories									CATEGORY|industry	
+intonaco_noun	StartingCategories									CATEGORY|industry	
+ferro_noun	StartingCategories									CATEGORY|industry	
+metallo_noun	StartingCategories									CATEGORY|industry	
+ruggine_noun	StartingCategories									CATEGORY|industry	
+liquami_noun	StartingCategories									CATEGORY|industry	
+fognatura_noun	StartingCategories									CATEGORY|industry	
+fogna_noun	StartingCategories									CATEGORY|industry	
+ciminiera_noun	StartingCategories									CATEGORY|industry	
+macello_noun	StartingCategories									CATEGORY|food|beverage	
+mandorla_noun	StartingCategories									CATEGORY|food|beverage	
+anice_noun	StartingCategories									CATEGORY|food|beverage	
+mela_noun	StartingCategories									CATEGORY|food|beverage	
+torta_alle_mele_noun	StartingCategories									CATEGORY|food|beverage	
+rucola_noun	StartingCategories									CATEGORY|food|beverage	
+cibo_cinese_noun	StartingCategories									CATEGORY|food|beverage	
+avocado_noun	StartingCategories									CATEGORY|food|beverage	
+bacon_noun	StartingCategories									CATEGORY|food|beverage	
+pancetta_noun	StartingCategories									CATEGORY|food|beverage	
+prodotti_da_forno_noun	StartingCategories									CATEGORY|food|beverage	
+panetteria_noun	StartingCategories									CATEGORY|food|beverage	
+baklava_noun	StartingCategories									CATEGORY|food|beverage	
+banana_noun	StartingCategories									CATEGORY|food|beverage	
+barbecue_noun	StartingCategories									CATEGORY|food|beverage	
+basilico_noun	StartingCategories									CATEGORY|food|beverage	
+bbq_noun	StartingCategories									CATEGORY|food|beverage	
+birra_noun	StartingCategories									CATEGORY|food|beverage	
+biscotto_noun	StartingCategories									CATEGORY|food|beverage	
+amaro_noun	StartingCategories									CATEGORY|food|beverage	
+miscela_noun	StartingCategories									CATEGORY|food|beverage	
+alcolici_noun	StartingCategories									CATEGORY|food|beverage	
+brandy_noun	StartingCategories									CATEGORY|food|beverage	
+pane__noun	StartingCategories									CATEGORY|food|beverage	
+brownie_noun	StartingCategories									CATEGORY|food|beverage	
+macellaio__noun	StartingCategories									CATEGORY|food|beverage	
+toffee_noun	StartingCategories									CATEGORY|food|beverage	
+cavolo_noun	StartingCategories									CATEGORY|food|beverage	
+caffetteria_noun	StartingCategories									CATEGORY|food|beverage	
+torta__noun	StartingCategories									CATEGORY|food|beverage	
+caramello_noun	StartingCategories									CATEGORY|food|beverage	
+cardamomo_noun	StartingCategories									CATEGORY|food|beverage	
+cedro_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+chabli_noun	StartingCategories									CATEGORY|food|beverage	
+formaggio_noun	StartingCategories									CATEGORY|food|beverage	
+ciliegia_noun	StartingCategories									CATEGORY|food|beverage	
+pollo_noun	StartingCategories									CATEGORY|food|beverage	
+chipotle_noun	StartingCategories									CATEGORY|food|beverage	
+cioccolato_noun	StartingCategories									CATEGORY|food|beverage	
+agrume_noun	StartingCategories									CATEGORY|food|beverage	
+coca_cola_noun	StartingCategories									CATEGORY|food|beverage	
+condimento_noun	StartingCategories									CATEGORY|food|beverage	
+mais_noun	StartingCategories									CATEGORY|food|beverage	
+cous_cous_noun	StartingCategories									CATEGORY|food|beverage	
+crema_noun	StartingCategories									CATEGORY|food|beverage	
+crepe_noun	StartingCategories									CATEGORY|food|beverage	
+cetriolo_noun	StartingCategories									CATEGORY|food|beverage	
+cucina_noun	StartingCategories									CATEGORY|food|beverage	
+caseificio_noun	StartingCategories									CATEGORY|food|beverage	
+prodotto_caseario_noun	StartingCategories									CATEGORY|food|beverage	
+impasto_noun	StartingCategories									CATEGORY|food|beverage	
+earl_grey_noun	StartingCategories									CATEGORY|food|beverage	
+uova_noun	StartingCategories									CATEGORY|food|beverage	
+falafel_noun	StartingCategories									CATEGORY|food|beverage	
+cibo__noun	StartingCategories									CATEGORY|food|beverage	
+mercato_alimentare_noun	StartingCategories									CATEGORY|food|beverage	
+patatine_fritte_noun	StartingCategories									CATEGORY|food|beverage	
+pane_fresco_noun	StartingCategories									CATEGORY|food|beverage	
+caffè_fresco_noun	StartingCategories									CATEGORY|food|beverage	
+pesce_fresco_noun	StartingCategories									CATEGORY|food|beverage	
+frutta_noun	StartingCategories									CATEGORY|food|beverage	
+torta_alla_frutta_noun	StartingCategories									CATEGORY|food|beverage	
+crema_ganache_noun	StartingCategories									CATEGORY|food|beverage	
+uva_noun	StartingCategories									CATEGORY|food|beverage	
+semola_noun	StartingCategories									CATEGORY|food|beverage	
+pasticcio_di_carne_noun	StartingCategories									CATEGORY|food|beverage	
+aringa_noun	StartingCategories									CATEGORY|food|beverage	
+hot_dog_noun	StartingCategories									CATEGORY|food|beverage	
+gelato_noun	StartingCategories									CATEGORY|food|beverage	
+cibo_indiano_noun	StartingCategories									CATEGORY|food|beverage	
+jalapeno_noun	StartingCategories									CATEGORY|food|beverage	
+porro_noun	StartingCategories									CATEGORY|food|beverage	
+avanzi_noun	StartingCategories									CATEGORY|food|beverage	
+liquirizia_noun	StartingCategories									CATEGORY|food|beverage	
+lime_noun	StartingCategories									CATEGORY|food|beverage	
+macadamia_noun	StartingCategories									CATEGORY|food|beverage	
+marshmallow_noun	StartingCategories									CATEGORY|food|beverage	
+maionese_noun	StartingCategories									CATEGORY|food|beverage	
+melone_noun	StartingCategories									CATEGORY|food|beverage	
+tortina_natalizia_noun	StartingCategories									CATEGORY|food|beverage	
+moussaka_noun	StartingCategories									CATEGORY|food|beverage	
+fungo_noun	StartingCategories									CATEGORY|food|beverage	
+mostarda_noun	StartingCategories									CATEGORY|food|beverage	
+farina_d'avena_noun	StartingCategories									CATEGORY|food|beverage	
+olio_noun	StartingCategories									CATEGORY|food|beverage	
+omelette_noun	StartingCategories									CATEGORY|food|beverage	
+cipolla_noun	StartingCategories									CATEGORY|food|beverage	
+succo_d'arancia_noun	StartingCategories									CATEGORY|food|beverage	
+cibo_orientale_noun	StartingCategories									CATEGORY|food|beverage	
+forno_noun	StartingCategories									CATEGORY|food|beverage	
+pancake_noun	StartingCategories									CATEGORY|food|beverage	
+pasticceria_noun	StartingCategories									CATEGORY|food|beverage	
+pepe_noun	StartingCategories									CATEGORY|food|beverage	
+menta_piperita_noun	StartingCategories									CATEGORY|food|beverage	
+pizza_noun	StartingCategories									CATEGORY|food|beverage	
+patata_noun	StartingCategories									CATEGORY|food|beverage	
+uvetta_noun	StartingCategories									CATEGORY|food|beverage	
+lampone_noun	StartingCategories									CATEGORY|food|beverage	
+salsa_ai_sottaceti_noun	StartingCategories									CATEGORY|food|beverage	
+zafferano_noun	StartingCategories									CATEGORY|food|beverage	
+sandwich_noun	StartingCategories									CATEGORY|food|beverage	
+salsiccia_noun	StartingCategories									CATEGORY|food|beverage	
+sauvignon__noun	StartingCategories									CATEGORY|food|beverage	
+capasanta_noun	StartingCategories									CATEGORY|food|beverage	
+frutti_di_mare_noun	StartingCategories									CATEGORY|food|beverage	
+sorbetto_noun	StartingCategories									CATEGORY|food|beverage	
+sherry_noun	StartingCategories									CATEGORY|food|beverage	
+spiedo_noun	StartingCategories									CATEGORY|food|beverage	
+snack_noun	StartingCategories									CATEGORY|food|beverage	
+snapper_(tipo_di_pesce)_noun	StartingCategories									CATEGORY|food|beverage	
+soda_noun	StartingCategories									CATEGORY|food|beverage	
+zuppa_noun	StartingCategories									CATEGORY|food|beverage	
+latte_scaduto_noun	StartingCategories									CATEGORY|food|beverage	
+inacidito_noun	StartingCategories									CATEGORY|food|beverage	
+spam_noun	StartingCategories									CATEGORY|food|beverage	
+spezie_noun	StartingCategories									CATEGORY|food|beverage	
+cibo_speziato_noun	StartingCategories									CATEGORY|food|beverage	
+bistecca_noun	StartingCategories									CATEGORY|food|beverage	
+sushi_noun	StartingCategories									CATEGORY|food|beverage	
+caramella_noun	StartingCategories									CATEGORY|food|beverage	
+taco_noun	StartingCategories									CATEGORY|food|beverage	
+crostata_noun	StartingCategories									CATEGORY|food|beverage	
+tè_noun	StartingCategories									CATEGORY|food|beverage	
+tiramisu_noun	StartingCategories									CATEGORY|food|beverage	
+topping_noun	StartingCategories									CATEGORY|food|beverage	
+ortaggi_noun	StartingCategories									CATEGORY|food|beverage	
+wafer_noun	StartingCategories									CATEGORY|food|beverage	
+waffle_noun	StartingCategories									CATEGORY|food|beverage	
+crescione_noun	StartingCategories									CATEGORY|food|beverage	
+patata_dolce_noun	StartingCategories									CATEGORY|food|beverage	
+sigaro_noun	StartingCategories									CATEGORY|tobacco|smoke	
+sigaretta_noun	StartingCategories									CATEGORY|tobacco|smoke	
+marijuana_noun	StartingCategories									CATEGORY|tobacco|smoke	
+fumatore_noun	StartingCategories									CATEGORY|tobacco|smoke	
+tabacco_noun	StartingCategories									CATEGORY|tobacco|smoke	
+benda_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+candeggina_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+addetto_alle_pulizie_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+pulizie_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+vestiti_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+dentista_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+colla_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+eroina_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+stirare_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+mutandine_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+bucato_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+vernice_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+resina_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+solvente_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+vernice_spray_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+solfuro_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+mutande_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+lattice_noun	StartingCategories									CATEGORY|synthetic	
+gomma_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+camoscio_noun	StartingCategories									CATEGORY|synthetic	
+pneumatico_noun	StartingCategories									CATEGORY|synthetic	
+bile_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fiel_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+cestino_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+cacca_di_cane_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+escremento_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+feci_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+peto_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+spazzatura_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+camion_dell'immondizia_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+lettiera_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+letame_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+pipì_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+piscio_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+bagno_pubblico_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+frutta_marcia_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+calzini_usati_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+merda_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+toilette_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+orrinatoio_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+vomito_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rifiuti_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fienile_noun	StartingCategories									CATEGORY|animal|people	
+granaio_noun	StartingCategories									CATEGORY|animal|people	
+beagle_noun	StartingCategories									CATEGORY|animal|people	
+toro_noun	StartingCategories									CATEGORY|animal|people	
+cervo_noun	StartingCategories									CATEGORY|animal|people	
+sporco_noun	StartingCategories									CATEGORY|animal|people	
+vestiti_sporchi_noun	StartingCategories									CATEGORY|animal|people	
+cagnolino_noun	StartingCategories									CATEGORY|animal|people	
+felino_noun	StartingCategories									CATEGORY|animal|people	
+aria_fresca_noun	StartingCategories									CATEGORY|animal|people	
+rana_noun	StartingCategories									CATEGORY|animal|people	
+mandria_noun	StartingCategories									CATEGORY|animal|people	
+cavallo_noun	StartingCategories									CATEGORY|animal|people	
+paraffina_noun	StartingCategories									CATEGORY|animal|people	
+roditore_noun	StartingCategories									CATEGORY|animal|people	
+puzzola_noun	StartingCategories									CATEGORY|animal|people	
+lupo_noun	StartingCategories									CATEGORY|animal|people	
+zoo_noun	StartingCategories									CATEGORY|animal|people	
+fioritura_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+bocciolo_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+mazzo_di_fiori_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+legno_di_cedro_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+crisantemo_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+argilla_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+conifera_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+giunchiglia_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+umidità_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+fiori_secchi_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+erba_secca_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+eucalipto_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+negozio_di_fiori_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+fioraio_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+capra_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+erba__noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+pavimento_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+erbe_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+edera_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+prato_rasato_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+foglie_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+giglio_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+magnolia_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+medicinali_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+umido_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+legno_vecchio_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+pino_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+pianta_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+erba_(da_fumare)_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+potpourri_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+rosmarino_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+salvia_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+legno_di_sandalo_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+alga_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+suolo_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+pietra_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+sicomoro_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+albero_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+tulipano_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+violetta_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+foglia_bagnata_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+legno_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+bosco_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+seducente_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+appetitoso_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+incantevole_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+aromatizzato_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+saporito_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+floreale_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+fruttato_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+muschiato_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+ammuffito_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+canforato_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+secolare_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+polveroso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+terroso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+piovoso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+resinoso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+muschioso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+erboso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+erbaceo_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+stantio_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+sottostagionato_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+legnoso_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+alcolico_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+alcalino_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+antisettico_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+chimico_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+medicinale_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+sintetico_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+idrocarburi_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+salmastro_adj	StartingCategories										CATEGORY|fresh
+rinfrescante_adj	StartingCategories										CATEGORY|fresh
+menta_adj	StartingCategories										CATEGORY|fresh
+caramellato_adj	StartingCategories										CATEGORY|sweet|spicy
+stucchevole_adj	StartingCategories										CATEGORY|sweet|spicy
+piccante_adj	StartingCategories										CATEGORY|sweet|spicy
+zuccherino_adj	StartingCategories										CATEGORY|sweet|spicy
+salino_adj	StartingCategories										CATEGORY|sweet|spicy
+salato_adj	StartingCategories										CATEGORY|sweet|spicy
+sapido_adj	StartingCategories										CATEGORY|sweet|spicy
+amabile_adj	StartingCategories										CATEGORY|sweet|spicy
+pepato_adj	StartingCategories										CATEGORY|sweet|spicy
+speziato_adj	StartingCategories										CATEGORY|sweet|spicy
+sciropposo_adj	StartingCategories										CATEGORY|sweet|spicy
+melassa_adj	StartingCategories										CATEGORY|sweet|spicy
+tostato_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+bruciante_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+bruciato_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+formaggio_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+grasso_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+affumicato_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+fumoso_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+nocciola_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+decadente_adj	StartingCategories										CATEGORY|decayed
+piegato_adj	StartingCategories										CATEGORY|decayed
+pescoso_adj	StartingCategories										CATEGORY|decayed
+immondo_adj	StartingCategories										CATEGORY|decayed
+rancido_adj	StartingCategories										CATEGORY|decayed
+marcio_adj	StartingCategories										CATEGORY|decayed
+agliaceo_adj	StartingCategories										CATEGORY|decayed
+stagnante_adj	StartingCategories										CATEGORY|decayed
+aspro_adj	StartingCategories										CATEGORY|pungent
+acido_adj	StartingCategories										CATEGORY|pungent
+amaro_adj	StartingCategories										CATEGORY|pungent
+agrodolce_adj	StartingCategories										CATEGORY|pungent
+fecale_adj	StartingCategories										CATEGORY|pungent
+pungente_adj	StartingCategories										CATEGORY|pungent
+sudato_adj	StartingCategories										CATEGORY|pungent

@@ -1,0 +1,1422 @@
+word	source	synset	first appearance	1650-1700	1701-1750	1751-1800	1801-1850	1851-1900	1901-1925	smell-source	quality
+acrid_adj	seed	['pungent.s.01']	1610	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+aroma_noun	seed	['aroma.n.02', 'olfactory_property.n.01']	1586	no	yes	yes	yes	yes	yes		
+aromatic_adj	seed	['aromatic.s.02']	1596	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+aromatic_noun	seed		1640	no	yes	yes	yes	yes	yes		
+atmosphere_noun	seed		1524	yes	yes	yes	yes	yes	yes		
+bite_noun	seed	['pungency.n.02']	1562	yes	yes	yes	yes	yes	yes		
+bouquet_noun	seed	['bouquet.n.02']	1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+deodorant_noun	seed	['deodorant.n.01']	1848	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+essence_noun	seed	['perfume.n.02']	1533	yes	yes	yes	yes	yes	yes		
+fetid_adj	seed	['fetid.s.01']	1629	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+fetor_noun	seed	['malodor.n.01']	1643	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+foul_adj	seed	['fetid.s.01']	1550	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+foulness_noun	seed	['malodorousness.n.01']	1581	yes	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fragrance_noun	seed	['aroma.n.02', 'bouquet.n.02']	1586	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fragrancy_noun	seed	['bouquet.n.02']	1593	yes	yes	yes	yes	yes	yes		
+fragrant_adj	seed	['fragrant.a.01']	1550	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+frowzy_adj	seed		1658	no	yes	yes	yes	yes	yes		
+funky_adj	seed	['fetid.s.01']	1754	no	no	no	no	yes	yes		
+fusty_adj	seed	['fusty.s.01']	1593	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+inodorous_adj	seed	['odorless.a.01']	1683	no	yes	yes	yes	yes	yes		
+loathsome_adj	seed	['nauseating.s.01']	1579	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+malodorous_adj	seed	['malodorous.a.01']	1829	no	no	no	no	yes	yes		CATEGORY|pungent
+mephitic_adj	seed	['miasmic.s.01']	1682	no	no	yes	yes	yes	yes		CATEGORY|pungent
+mouldy_adj	seed	['moldy.s.01']	1567	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+muddle_adj	seed		1730	no	no	yes	yes	yes	yes		
+musk_noun	seed	['musk.n.01', 'musk.n.02']	1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+musty_adj	seed	['moldy.s.01', 'fusty.s.01']	1600	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+nauseating_adj	seed	['nauseating.s.01']	1650	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+nauseous_adj	seed	['nauseating.s.01']	1582	yes	yes	yes	yes	yes	yes		
+noisome_adj	seed	['fetid.s.01', 'nauseating.s.01']	1533	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+odoriferous_adj	seed	['odoriferous.s.03', 'odoriferous.s.02']	1568	no	yes	yes	yes	yes	yes		
+odorless_adj	seed	['odorless.a.01']	1843	no	no	no	no	yes	yes		
+odorous_adj	seed	['odoriferous.s.03', 'odoriferous.s.02', 'odorous.a.01']	1595	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+odour_noun	seed	['olfactory_property.n.01', 'smell.n.01']	1568	yes	yes	yes	yes	yes	yes		
+odourless_adj	seed	['odorless.a.01']	1785	no	no	yes	yes	yes	yes		
+olfaction_noun	seed	['smell.n.04']	1805	no	no	no	yes	no	yes		
+olfactory_adj	seed	['olfactory.a.01']	1661	yes	yes	yes	yes	yes	yes		
+perfume_noun	seed	['aroma.n.02', 'perfume.n.02']	1551	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+perfumed_adj	seed	['perfumed.s.01', 'odoriferous.s.03']	1562	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+pong_noun	seed	['niff.n.01']	1659	no	no	yes	yes	yes	yes		
+pungency_noun	seed	['pungency.n.02']	1596	no	no	yes	yes	yes	yes		
+pungent_adj	seed	['pungent.s.01']	1597	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+pungently_adv	seed		1659	no	no	no	yes	yes	yes		
+putrid_adj	seed	['putrid.s.02']	1597	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+queasy_adj	seed	['nauseating.s.01']	1588	no	yes	yes	yes	yes	yes		
+raciness_noun	seed	['pungency.n.02']	1700	no	no	yes	yes	yes	yes		
+rankness_noun	seed	['malodorousness.n.01']	1586	yes	yes	yes	yes	yes	yes		
+redolent_adj	seed	['aromatic.s.02', 'redolent.s.02']	1598	no	yes	yes	yes	yes	yes		
+reek_noun	seed	['malodor.n.01']	1593	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+reeking_adj	seed	['reeking.s.02']	1594	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+scent_noun	seed	['aroma.n.02', 'scent.n.02', 'olfactory_property.n.01']	1578	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+scented_adj	seed	['scented.a.01', 'perfumed.s.01', 'odoriferous.s.03', 'scented.s.04']	1594	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+scentless_adj	seed	['scentless.a.01', 'scentless.s.02']	1716	no	no	yes	yes	yes	yes		
+sharpness_noun	seed	['pungency.n.02']	1524	yes	yes	yes	yes	yes	yes		
+sickening_adj	seed	['nauseating.s.01']	1719	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+smell_noun	seed	['olfactory_property.n.01', 'smell.n.01', 'smell.n.04', 'smell.n.05']	1562	yes	yes	yes	yes	yes	yes		
+smelling_noun	seed	['smell.n.05']	1576	yes	yes	yes	yes	yes	yes		
+smelly_adj	seed	['fetid.s.01']	1717	no	no	no	no	yes	yes		CATEGORY|pungent
+stank_adj	seed		1657	no	no	no	no	yes	yes		CATEGORY|decayed
+stench_noun	seed	['malodor.n.01']	1568	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stink_noun	seed	['malodor.n.01']	1550	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stinking_adj	seed	['fetid.s.01']	1551	yes	no	yes	yes	yes	yes		CATEGORY|decayed
+stunk_adj	seed		1673	no	yes	yes	yes	yes	yes		
+unscented_adj	seed		1753	no	no	yes	yes	yes	yes		
+vile_adj	seed	['nauseating.s.01']	1533	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+whiff_noun	seed	['puff.n.01']	1618	yes	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+reek_verb	seed	['reek.v.02']	1593	yes	yes	yes	yes	yes	yes		
+smell_verb	seed	['smell.v.01', 'smell.v.02', 'smell.v.03']	15881550	yes	yes	yes	yes	yes	yes		
+sniff_verb	seed	['sniff.v.01', 'sniff.v.02']	1612	no	no	yes	yes	yes	yes		
+sniffle_verb	seed	['sniff.v.02']	1683	no	no	no	no	yes	yes		
+snuff_verb	seed	['snuff.v.01', 'snuff.v.02']	1597	yes	yes	yes	yes	yes	yes		
+snuffle_verb	seed	['snuff.v.01']	1608	no	no	no	yes	yes	yes		
+stink_verb	seed	['reek.v.02']	1562	yes	yes	yes	yes	yes	yes		
+whiff_verb	seed	['sniff.v.01']	1653	no	no	yes	yes	yes	yes		
+wiff_verb	seed		1613	no	no	yes	yes	yes	yes		
+abominable_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+acacia_noun	cooc		1616	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+acetic_adj	cooc		1658	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+acetone_noun	cooc		1806	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+acid_adj	cooc		1596	no	yes	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+acid_noun	cooc		1605	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+aconite_noun	cooc		1613	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+acorn_noun	cooc		1597	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+acrid_adj	cooc	['pungent.s.01']	1610	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+aftershave_noun	cooc		1890	no	no	no	no	yes	no	CATEGORY|cleaning|medicinal	
+aglaia_noun	cooc		1564	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+air_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+alcohol_noun	cooc		1661	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+alcoholic_adj	cooc		1789	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+alder_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ale_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+alfalfa_noun	cooc		1706	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+alkali_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+alkaline_adj	cooc		1584	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+alliaceous_adj	cooc		1758	no	no	no	yes	yes	yes		
+alligator_noun	cooc		1575	no	no	no	no	yes	yes	CATEGORY|animal|people	
+alluring_adj	cooc		1533	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+almond_noun	cooc		1588	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+aloe_noun	cooc		1566	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+aluminium_noun	cooc		1785	no	no	no	no	yes	yes	CATEGORY|industry	
+alyssum_noun	cooc		1658	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+amaranth_noun	cooc		1595	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+amaryllis_noun	cooc		1614	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+amber_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ambergris_noun	cooc		1596	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ambrosia_noun	cooc		1590	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+ambrosial_adj	cooc		1587	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+amine_noun	cooc		1597	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+ammonia_noun	cooc		1640	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+ammoniacal_adj	cooc		1682	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+amomum_noun	cooc		1635	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+anchovy_noun	cooc		1658	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+anemone_noun	cooc		1593	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+angelica_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+animal_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+anise_noun	cooc		1586	no	no	no	yes	yes	no	CATEGORY|food|beverage	
+aniseed_noun	cooc		1562	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+ant_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|animal|people	
+antiseptic_adj	cooc		1682	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+antler_noun	cooc		1640	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+anus_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+ape_noun	cooc		1551	no	no	no	no	yes	yes	CATEGORY|animal|people	
+appetising_adj	cooc		1684	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+apple_noun	cooc		1539	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+apricot_noun	cooc		1576	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+aqueous_adj	cooc		1586	no	no	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+arid_adj	cooc		1524	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+aromatic_adj	cooc	['aromatic.s.02']	1596	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+ash_noun	cooc		1547	no	no	no	no	yes	yes	CATEGORY|industry	
+ass_noun	cooc		1547	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+atrocious_adj	cooc		1524	no	no	yes	yes	yes	yes		CATEGORY|decayed
+autumnal_adj	cooc		1609	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+awful_adj	cooc		1578	no	no	yes	yes	yes	yes		CATEGORY|decayed
+baby_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+bacon_noun	cooc		1551	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+bad_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+badger_noun	cooc		1575	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+baking_noun	cooc		1565	no	no	no	no	no	yes	CATEGORY|food|beverage	
+bale_noun	cooc		1533	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+balsam_noun	cooc		1619	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+balsamic_adj	cooc		1689	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+banana_noun	cooc		1602	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+band_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+barley_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+barn_noun	cooc		1566	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+basil_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+bath_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+bean_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+bear_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+beast_noun	cooc		1533	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+beaver_noun	cooc		1575	no	no	no	no	yes	yes	CATEGORY|animal|people	
+bee_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+beech_noun	cooc		1578	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+beef_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+beefsteak_noun	cooc		1713	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+beer_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+beetle_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+belly_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+bent_adj	cooc		1551	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+bergamot_noun	cooc		1681	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+berrie_noun	cooc		1575	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+berry_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+beverage_noun	cooc		1568	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+bilberry_noun	cooc		1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bile_noun	cooc		1581	yes	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+bilious_adj	cooc		1621	yes	no	yes	yes	yes	yes		CATEGORY|pungent
+bin_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+birch_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bird_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+biscuit_noun	cooc		1575	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+bison_noun	cooc		1584	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+bitter_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+bitter_noun	cooc		1590	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+bitterish_adj	cooc		1640	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+bitumen_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|industry	
+bladder_noun	cooc		1566	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+blend_noun	cooc		1590	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+blood_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+bloom_noun	cooc		1581	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+blooming_noun	cooc		1613	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+blossom_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bluebell_noun	cooc		1726	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+boar_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+body_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+bone_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+boot_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+booze_noun	cooc		1690	no	no	no	no	no	yes	CATEGORY|tobacco|smoke	
+borax_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+bough_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bouquet_noun	cooc	['bouquet.n.02']	1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bowel_noun	cooc		1590	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+bowl_noun	cooc		1547	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+boxwood_noun	cooc		1684	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+boy_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+bramble_noun	cooc		1602	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+bran_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+brandy_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+bread_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+breakfast_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+breeding_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+breezy_adj	cooc		1524	no	yes	yes	yes	yes	yes		CATEGORY|fresh
+brewage_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+briar_noun	cooc		1593	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+brier_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+briny_adj	cooc		1593	no	yes	yes	yes	yes	yes		CATEGORY|fresh
+bromine_noun	cooc		1730	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+brook_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+brooklet_noun	cooc		1581	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+broth_noun	cooc		1562	yes	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+buckwheat_noun	cooc		1720	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+bud_noun	cooc		1551	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+buffet_noun	cooc		1539	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+bull_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+bum_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+bun_noun	cooc		1533	no	no	no	yes	no	yes	CATEGORY|food|beverage	
+burned_adj	cooc		1524	no	no	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+burning_adj	cooc		1547	no	no	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+burnt_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+bus_noun	cooc		1524	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+bush_noun	cooc		1547	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+butler_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+butt_noun	cooc		1562	no	yes	yes	yes	yes	no	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+butter_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+buttermilk_noun	cooc		1655	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+buttery_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cab_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+cabbage_noun	cooc		1588	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cactus_noun	cooc		1584	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cafe_noun	cooc		1533	yes	yes	yes	yes	no	no	CATEGORY|food|beverage	
+cage_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+cake_noun	cooc		1533	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+calf_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+camel_noun	cooc		1568	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+camomile_noun	cooc		1599	no	no	yes	yes	yes	no	CATEGORY|nature_flowers|plant|tree|soil	
+camphor_noun	cooc		1597	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+candy_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cankerous_adj	cooc		1599	no	no	no	yes	yes	yes		CATEGORY|pungent
+capon_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+captivating_adj	cooc		1632	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+car_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+caramel_noun	cooc		1711	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+carbolic_adj	cooc		1681	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+carbon_noun	cooc		1651	no	no	yes	yes	yes	yes	CATEGORY|industry	
+carbonate_noun	cooc		1584	no	no	no	yes	yes	yes	CATEGORY|industry	
+carcass_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+caribou_noun	cooc		1711	no	no	no	no	yes	yes	CATEGORY|animal|people	
+carnation_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+carrion_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+carrot_noun	cooc		1584	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+cat_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+cattle_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+caustic_adj	cooc		1622	no	no	yes	yes	yes	no		CATEGORY|pungent
+cedar_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cedarwood_noun	cooc		1699	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cellulose_noun	cooc		1730	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+cement_noun	cooc		1547	yes	no	yes	yes	yes	yes	CATEGORY|industry	
+chalk_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+chamomile_noun	cooc		1649	no	yes	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+champagne_noun	cooc		1586	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+charred_adj	cooc		1654	no	no	no	no	no	yes		CATEGORY|smoky|toasted|burnt|fatty
+cheese_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+chemical_adj	cooc		1605	no	no	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+cherry_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+chervil_noun	cooc		1640	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+chestnut_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+chick_noun	cooc		1524	yes	no	no	yes	yes	yes	CATEGORY|animal|people	
+chicken_noun	cooc		1586	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+chili_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+chillum_noun	cooc		1788	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+chimney_noun	cooc		1581	no	no	yes	yes	yes	yes	CATEGORY|industry	
+chloride_noun	cooc		1678	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+chlorine_noun	cooc		1785	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+chloroform_noun	cooc		1799	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+chlorophyll_noun	cooc		1800	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+chocolate_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cider_noun	cooc		1584	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cigar_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+cigarette_noun	cooc		1798	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+cinnamon_noun	cooc		1568	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+citron_noun	cooc		1599	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+civet_noun	cooc		1623	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+clay_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cloth_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+cloudy_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+clove_noun	cooc		1598	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+clover_noun	cooc		1638	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+clown_noun	cooc		1586	no	no	yes	yes	yes	no	CATEGORY|animal|people	
+cloying_adj	cooc		1587	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+coal_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|industry	
+cod_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+coffee_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cologne_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+combustion_noun	cooc		1597	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+compost_noun	cooc		1533	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+composts_noun	cooc		1624	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+contemptible_adj	cooc		1565	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+cook_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cookery_noun	cooc		1602	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+cooking_noun	cooc		1609	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cool_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|fresh
+copper_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+cork_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|synthetic	
+corn_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+corpse_noun	cooc		1568	yes	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+corrosion_noun	cooc		1635	no	no	no	yes	yes	no	CATEGORY|industry	
+corruption_noun	cooc		1533	yes	yes	yes	yes	yes	yes		
+cotton_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cow_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+cowslip_noun	cooc		1597	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+crab_noun	cooc		1547	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cream_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+creamy_adj	cooc		1657	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+creamy_noun	cooc		1635	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+creature_noun	cooc		1533	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+creosote_noun	cooc		1800	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+cress_noun	cooc		1624	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+crocus_noun	cooc		1588	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+crow_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+crumb_noun	cooc		1643	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+crust_noun	cooc		1567	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+cucumber_noun	cooc		1615	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+cultivation_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+curd_noun	cooc		1596	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+curry_noun	cooc		1589	no	no	no	no	no	yes	CATEGORY|food|beverage	
+cushion_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|synthetic	
+custard_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cutlet_noun	cooc		1650	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cyder_noun	cooc		1533	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+cypress_noun	cooc		1564	yes	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+daffodil_noun	cooc		1593	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+dainty_adj	cooc		1562	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+dairy_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+daisy_noun	cooc		1587	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+damp_adj	cooc		1524	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+dampness_noun	cooc		1623	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+dank_adj	cooc		1609	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+daphne_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+dark_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+deer_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+delectable_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+delicate_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+delicious_adj	cooc		1550	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+delicious_noun	cooc		1593	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+delightful_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+dessert_noun	cooc		1620	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+dew_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+dewdrop_noun	cooc		1642	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+dewy_adj	cooc		1593	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+diarrhea_noun	cooc		1669	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+diarrhoea_noun	cooc		1641	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dick_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dinner_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+dioxide_noun	cooc		1678	no	no	yes	no	yes	yes	CATEGORY|cleaning|medicinal	
+dip_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+dirt_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dirty_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+disagreeable_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+disgusting_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+dish_noun	cooc		1551	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+disinfectant_noun	cooc		1800	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+doe_noun	cooc		1551	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+dog_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+dolphin_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+donkey_noun	cooc		1568	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+drains_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+dreadful_adj	cooc		1547	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+drink_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+drinks_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+droppings_noun	cooc		1584	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dry_adj	cooc		1533	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+duck_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+dumps_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dung_noun	cooc		1547	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dunghill_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+dust_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+dusty_adj	cooc		1575	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+dye_noun	cooc		1533	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+eagle_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+earth_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+earthy_adj	cooc		1581	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+ebony_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+eel_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+effluence_noun	cooc		1649	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+effluvia_noun	cooc		1617	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+egg_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+elephant_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+elm_noun	cooc		1566	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+emesis_noun	cooc		1642	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+emission_noun	cooc		1566	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+emulsion_noun	cooc		1638	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+enamel_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+enchanting_adj	cooc		1588	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+engine_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+enticing_adj	cooc		1584	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+ethereal_adj	cooc		1586	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+eucalyptus_noun	cooc		1796	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+excrement_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+excremental_adj	cooc		1592	no	no	yes	yes	yes	yes		CATEGORY|pungent
+excretion_noun	cooc		1603	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+exhaust_noun	cooc		1625	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+exotic_adj	cooc		1574	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+exquisite_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+factory_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|industry	
+faecal_adj	cooc		1736	no	no	no	no	yes	yes		CATEGORY|pungent
+falcon_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|animal|people	
+farina_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+farm_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+farmer_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+farting_noun	cooc		1603	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fat_adj	cooc		1533	yes	yes	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+fat_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+fauna_noun	cooc		1610	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+fawn_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+fennel_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+fern_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fetid_adj	cooc	['fetid.s.01']	1629	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+fillet_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+filth_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+filthy_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+fir_noun	cooc		1551	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fish_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+fishy_adj	cooc		1586	no	no	yes	yes	yes	yes		CATEGORY|decayed
+fixative_noun	cooc		1661	no	no	no	yes	no	yes	CATEGORY|cleaning|medicinal	
+flame_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+flamingo_noun	cooc		1638	no	no	no	no	yes	yes	CATEGORY|animal|people	
+flatulence_noun	cooc		1599	yes	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+flavoured_adj	cooc		1623	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+flea_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+flesh_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+flora_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+floral_adj	cooc		1524	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+floss_noun	cooc		1568	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+flour_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+flower_noun	cooc		1533	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+flowery_adj	cooc		1597	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+flue_noun	cooc		1551	no	no	no	no	yes	yes	CATEGORY|industry	
+foam_noun	cooc		1581	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+foggy_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+foliage_noun	cooc		1658	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+food_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+forest_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+formaldehyde_noun	cooc		1823	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+forrest_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+foul_adj	cooc	['fetid.s.01']	1550	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+foulness_noun	cooc	['malodorousness.n.01']	1581	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fox_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+fragrance_noun	cooc	['aroma.n.02', 'bouquet.n.02']	1586	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fragrant_adj	cooc	['fragrant.a.01']	1550	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+frangipani_noun	cooc		1701	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+frankincense_noun	cooc		1593	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+freight_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+fresh_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|fresh
+freshness_adj	cooc		1684	no	no	no	no	yes	yes		CATEGORY|fresh
+fried_adj	cooc		1566	no	no	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+frog_noun	cooc		1524	no	no	no	yes	yes	no	CATEGORY|animal|people	
+frost_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fruit_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+fruity_adj	cooc		1641	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+frying_noun	cooc		1566	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+fuel_noun	cooc		1524	yes	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+fume_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+fungous_adj	cooc		1640	no	no	yes	yes	yes	yes		CATEGORY|pungent
+fungus_noun	cooc		1597	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fur_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+furnace_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|industry	
+furze_noun	cooc		1617	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+fusty_adj	cooc	['fusty.s.01']	1593	yes	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+garden_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+garland_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+garlic_noun	cooc		1596	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+garlick_noun	cooc		1567	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+gas_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+gauze_noun	cooc		1633	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+geranium_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ghastly_adj	cooc		1584	no	no	yes	yes	yes	yes		CATEGORY|decayed
+gillyflower_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gin_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+ginger_noun	cooc		1568	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+girl_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+glove_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+glue_noun	cooc		1533	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+goat_noun	cooc		1547	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+goose_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+gooseberry_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gorgeous_adj	cooc		1524	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+gorse_noun	cooc		1640	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gourd_noun	cooc		1547	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+grain_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+grape_noun	cooc		1547	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+grass_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+grasse_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+grassy_adj	cooc		1586	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+gravel_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|industry	
+gravy_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+grease_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+greasy_adj	cooc		1588	no	yes	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+greenery_noun	cooc		1640	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+greyhound_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+grocer_noun	cooc		1578	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+grog_noun	cooc		1673	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+grossness_noun	cooc		1586	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+ground_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+groundnut_noun	cooc		1640	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+grove_noun	cooc		1547	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+grub_noun	cooc		1609	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+guaiacum_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gum_noun	cooc		1568	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+gumbo_noun	cooc		1729	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+gutter_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+hair_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+ham_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+handkerchief_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+hare_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+harvest_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+haulm_noun	cooc		1660	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hawk_noun	cooc		1562	no	yes	no	yes	yes	yes	CATEGORY|animal|people	
+hawthorn_noun	cooc		1593	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hay_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+haze_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+hazy_adj	cooc		1581	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+heady_adj	cooc		1562	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+heap_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+heath_noun	cooc		1547	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+heather_noun	cooc		1574	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hedge_noun	cooc		1533	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+heifer_noun	cooc		1597	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+heliotrope_noun	cooc		1638	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hellebore_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hemp_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hen_noun	cooc		1539	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+herb_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+herbage_noun	cooc		1587	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+herbe_noun	cooc		1566	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+herd_noun	cooc		1539	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+herdsman_noun	cooc		1641	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+heroine_noun	cooc		1587	no	no	no	yes	yes	no	CATEGORY|cleaning|medicinal	
+herring_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+hideous_adj	cooc		1524	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+hillside_noun	cooc		1644	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hog_noun	cooc		1550	yes	no	yes	yes	yes	yes	CATEGORY|animal|people	
+hollyhock_noun	cooc		1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+honey_noun	cooc		1533	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+honeyed_adj	cooc		1605	no	no	yes	yes	yes	yes		CATEGORY|sweet|spicy
+honeysuckle_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+honied_adj	cooc		1592	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+horrible_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+horrid_adj	cooc		1568	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+horse_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+hound_noun	cooc		1539	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+human_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+humid_adj	cooc		1550	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+humus_noun	cooc		1629	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hunt_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|animal|people	
+husk_noun	cooc		1595	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hyacinth_noun	cooc		1593	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+hydrocarbon_noun	cooc		1800	no	no	no	no	yes	yes	CATEGORY|industry	
+hydrogen_noun	cooc		1736	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+ice_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+incense_noun	cooc		1565	yes	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+indelicate_adj	cooc		1586	no	no	yes	yes	yes	yes		CATEGORY|pungent
+industrial_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|industry	
+ingredient_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+invigorating_adj	cooc		1586	no	no	no	yes	yes	yes		CATEGORY|fresh
+iodine_noun	cooc		1657	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+iodoform_noun	cooc		1838	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+iron_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+ironing_noun	cooc		1752	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+irresistible_adj	cooc		1564	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+ivy_noun	cooc		1547	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+jacket_noun	cooc		1575	no	no	no	no	yes	yes	CATEGORY|synthetic	
+jam_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+jasmin_noun	cooc		1657	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+jasmine_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+jelly_noun	cooc		1623	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+jessamine_noun	cooc		1617	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+jonquil_noun	cooc		1684	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+juice_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+jungle_noun	cooc		1575	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+juniper_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+kale_noun	cooc		1533	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+kennel_noun	cooc		1567	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+kerosene_noun	cooc		1719	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+kiln_noun	cooc		1620	no	no	no	no	no	yes	CATEGORY|industry	
+kitchen_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+kitten_noun	cooc		1598	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+laburnum_noun	cooc		1640	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lady_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+lamb_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+lard_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+latakia_noun	cooc		1765	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+latrine_noun	cooc		1620	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+laundress_noun	cooc		1562	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+laurel_noun	cooc		1574	no	no	no	yes	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lavender_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lawn_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+leaf_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+leather_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|synthetic	
+leathery_adj	cooc		1681	no	no	no	no	yes	yes		CATEGORY|woody/earthy/mouldy
+leaves_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+leek_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+lemon_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+lettuce_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+lilac_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lily_noun	cooc		1564	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lime_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+limestone_noun	cooc		1632	no	no	no	no	yes	yes	CATEGORY|industry	
+linden_noun	cooc		1609	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+linen_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+lion_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+lioness_noun	cooc		1610	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+liqueur_noun	cooc		1634	no	no	no	yes	yes	no	CATEGORY|food|beverage	
+liquor_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+litter_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+liver_noun	cooc		1567	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+loaf_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+loamy_adj	cooc		1635	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+loathsome_adj	cooc	['nauseating.s.01']	1579	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+lobster_noun	cooc		1576	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+lollypop_noun	cooc		1800	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+lotus_noun	cooc		1568	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lovely_adj	cooc		1547	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+lumpish_adj	cooc		1567	no	no	no	yes	yes	yes		CATEGORY|pungent
+lunch_noun	cooc		1565	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+luscious_adj	cooc		1615	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+lusty_adj	cooc		1533	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+lycoris_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+lye_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+machinery_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|industry	
+mackerel_noun	cooc		1658	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+magnolia_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mahogany_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+maize_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+mallow_noun	cooc		1586	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+malodorous_adj	cooc	['malodorous.a.01']	1829	no	no	no	no	yes	yes		CATEGORY|pungent
+malt_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+man_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+mandarin_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+mandrake_noun	cooc		1587	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mango_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+manure_noun	cooc		1584	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+maple_noun	cooc		1575	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+margarine_noun	cooc		1655	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+marjoram_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+marrow_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+marsh_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mask_noun	cooc		1564	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+mead_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+meadow_noun	cooc		1587	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+meal_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+meat_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+medicinal_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+mellifluous_adj	cooc		1593	no	yes	no	yes	yes	yes		CATEGORY|sweet|spicy
+mellow_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+melon_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+mephitic_adj	cooc	['miasmic.s.01']	1682	no	no	yes	yes	yes	yes		CATEGORY|pungent
+mercury_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+metal_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+mildewed_adj	cooc		1604	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+mildewy_adj	cooc		1800	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+milk_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+millet_noun	cooc		1586	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+mince_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+mineral_adj	cooc		1524	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+mint_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+mist_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+misty_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+moist_adj	cooc		1550	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+moisture_adj	cooc		1638	no	no	no	no	yes	yes		CATEGORY|woody/earthy/mouldy
+mold_noun	cooc		1533	yes	no	yes	yes	yes	yes		
+monkey_noun	cooc		1524	no	no	no	no	no	yes	CATEGORY|animal|people	
+monoxide_noun	cooc		1678	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+moor_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mop_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+morose_adj	cooc		1581	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+moss_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mossy_adj	cooc		1617	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+mould_noun	cooc		1562	yes	yes	yes	yes	yes	yes		
+mouldy_adj	cooc	['moldy.s.01']	1567	no	no	yes	yes	yes	yes		CATEGORY|decayed
+mountain_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mouse_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+mucky_adj	cooc		1691	no	no	no	yes	yes	no		CATEGORY|woody/earthy/mouldy
+mucus_noun	cooc		1602	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+mud_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+muddy_adj	cooc		1567	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+mulch_noun	cooc		1624	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+mule_noun	cooc		1568	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+mushroom_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+musk_noun	cooc	['musk.n.01', 'musk.n.02']	1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+musky_adj	cooc		1613	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+mustard_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+musty_adj	cooc	['moldy.s.01', 'fusty.s.01']	1600	yes	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+myrrh_noun	cooc		1593	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+myrtle_noun	cooc		1581	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+narcissus_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+narcotic_adj	cooc		1605	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+nasty_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+nauseating_adj	cooc	['nauseating.s.01']	1650	no	no	no	yes	yes	yes		CATEGORY|pungent
+nectar_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+nectarine_noun	cooc		1576	no	no	yes	yes	yes	no	CATEGORY|food|beverage	
+nitrate_noun	cooc		1584	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+noisome_adj	cooc	['fetid.s.01', 'nauseating.s.01']	1533	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+noxious_adj	cooc		1568	no	no	yes	yes	yes	yes		CATEGORY|pungent
+nut_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+nutty_adj	cooc		1610	no	no	no	no	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+oak_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+oaten_noun	cooc		1581	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+oats_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+odorous_adj	cooc	['odoriferous.s.03', 'odoriferous.s.02', 'odorous.a.01']	1595	no	yes	yes	yes	yes	yes		
+offal_noun	cooc		1624	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+oil_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+oily_adj	cooc		1607	no	yes	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+olive_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+onion_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+ooze_noun	cooc		1648	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+opium_noun	cooc		1575	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+orange_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+orchard_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+ordure_noun	cooc		1551	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+ore_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+otter_noun	cooc		1562	yes	no	yes	yes	yes	yes	CATEGORY|animal|people	
+oven_noun	cooc		1547	no	yes	yes	yes	yes	no	CATEGORY|food|beverage	
+owl_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+ox_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+oxen_noun	cooc		1533	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+oxide_noun	cooc		1678	no	no	no	yes	yes	yes	CATEGORY|industry	
+oyster_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+ozone_noun	cooc		1592	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+paint_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+palatable_adj	cooc		1524	no	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+palm_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pan_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+pansy_noun	cooc		1654	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+paraffin_noun	cooc		1770	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+parasite_noun	cooc		1551	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+parma_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+parrot_noun	cooc		1592	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+parsley_noun	cooc		1584	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+partridge_noun	cooc		1533	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+passenger_noun	cooc		1575	yes	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+pastry_noun	cooc		1581	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+pasture_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+pasty_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+pavement_noun	cooc		1568	no	no	yes	yes	yes	yes	CATEGORY|synthetic	
+paw_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+pea_noun	cooc		1597	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+peach_noun	cooc		1565	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+peacock_noun	cooc		1547	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+peanut_noun	cooc		1780	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+pear_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+peat_noun	cooc		1593	no	no	yes	yes	yes	yes	CATEGORY|industry	
+pelican_noun	cooc		1575	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+pellet_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|industry	
+pennyroyal_noun	cooc		1562	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pepper_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+peppermint_noun	cooc		1658	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+perfume_noun	cooc	['aroma.n.02', 'perfume.n.02']	1551	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+perfumed_adj	cooc	['perfumed.s.01', 'odoriferous.s.03']	1562	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+periwinkle_noun	cooc		1640	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pestilent_adj	cooc		1550	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+pet_noun	cooc		1533	yes	no	yes	yes	yes	yes	CATEGORY|animal|people	
+petal_noun	cooc		1633	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+petrol_noun	cooc		1706	no	no	yes	yes	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+petroleum_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+pharmaceutical_adj	cooc		1705	no	no	no	no	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+phenol_noun	cooc		1774	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+phosphate_noun	cooc		1719	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+phosphoric_adj	cooc		1771	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+pickle_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+pie_noun	cooc		1524	yes	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+pig_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+pigeon_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+pile_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+pine_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pineapple_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+pinewood_noun	cooc		1752	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pint_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+pipe_noun	cooc		1547	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+piquant_adj	cooc		1605	no	no	no	no	yes	yes		CATEGORY|sweet|spicy
+pit_noun	cooc		1551	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+plant_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+plantain_noun	cooc		1597	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+plantation_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+planter_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pleasant_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+plum_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+poison_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+poisonous_adj	cooc		1524	no	no	yes	yes	yes	yes		CATEGORY|pungent
+polecat_noun	cooc		1617	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+polish_noun	cooc		1576	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+pollution_noun	cooc		1533	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+polony_noun	cooc		1600	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+pomade_noun	cooc		1702	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+pomander_noun	cooc		1588	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pomatum_noun	cooc		1617	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+pomegranate_noun	cooc		1602	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+pony_noun	cooc		1533	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+poodle_noun	cooc		1720	no	no	no	no	yes	yes	CATEGORY|animal|people	
+poplar_noun	cooc		1597	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+poppy_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pork_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+porridge_noun	cooc		1581	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+posy_noun	cooc		1566	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pot_noun	cooc		1533	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+potash_noun	cooc		1684	no	no	no	yes	yes	yes	CATEGORY|industry	
+potato_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+potatoe_noun	cooc		1646	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+poultry_noun	cooc		1576	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+powder_noun	cooc		1565	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+primrose_noun	cooc		1586	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+prune_noun	cooc		1551	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pudding_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+puddle_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+puff_noun	cooc	['puff.n.01']	1586	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+pug_noun	cooc		1607	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+pump_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|industry	
+pumpkin_noun	cooc		1684	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+pungent_adj	cooc	['pungent.s.01']	1597	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+puppy_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+purple_noun	cooc		1551	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+pus_noun	cooc		1566	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrefaction_noun	cooc		1586	yes	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrefying_adj	cooc		1640	no	no	yes	yes	yes	yes		CATEGORY|decayed
+putrescence_noun	cooc		1658	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrid_adj	cooc	['putrid.s.02']	1597	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+putridity_noun	cooc		1668	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrifying_adj	cooc		1594	no	no	no	yes	yes	yes		CATEGORY|decayed
+quince_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rabbit_noun	cooc		1562	no	no	no	no	yes	no	CATEGORY|animal|people	
+racy_adj	cooc		1586	no	yes	no	yes	yes	yes		
+radish_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+rag_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+rainy_adj	cooc		1562	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+raisin_noun	cooc		1590	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+rancid_adj	cooc		1562	no	no	yes	yes	yes	yes		CATEGORY|decayed
+rank_adj	cooc		1562	yes	yes	yes	yes	yes	yes		
+rat_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+rattlesnake_noun	cooc		1634	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+raven_noun	cooc		1588	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+ravishing_adj	cooc		1590	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+rectum_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+reed_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+reek_noun	cooc	['malodor.n.01']	1593	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+reeking_adj	cooc	['reeking.s.02']	1594	no	no	yes	yes	yes	yes		CATEGORY|decayed
+refreshing_adj	cooc		1551	yes	yes	yes	yes	yes	yes		CATEGORY|fresh
+reindeer_noun	cooc		1609	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+relish_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+reptile_noun	cooc		1574	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+repugnant_adj	cooc		1565	no	no	yes	yes	yes	yes		CATEGORY|decayed
+resin_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+resinous_adj	cooc		1640	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+retching_noun	cooc		1636	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rhubarb_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+rice_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+rind_noun	cooc		1566	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+road_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+roast_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+roasted_adj	cooc		1562	no	no	no	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+rose_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rosemary_noun	cooc		1584	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+rot_noun	cooc		1567	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rotted_adj	cooc		1623	no	no	no	yes	yes	yes		CATEGORY|decayed
+rotten_adj	cooc		1550	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+rottenness_noun	cooc		1586	yes	yes	yes	yes	yes	yes		
+rotting_adj	cooc		1596	no	no	no	yes	yes	yes		CATEGORY|decayed
+rotting_noun	cooc		1616	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rub_noun	cooc		1591	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+rubber_noun	cooc		1574	no	no	no	no	yes	yes	CATEGORY|synthetic	
+rubbish_noun	cooc		1574	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rum_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+rust_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|industry	
+saccharine_adj	cooc		1661	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+saffron_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sage_noun	cooc		1551	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+salad_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+saline_adj	cooc		1640	no	no	no	yes	yes	yes		CATEGORY|sweet|spicy
+salt_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+salty_adj	cooc		1524	no	no	no	no	yes	yes		CATEGORY|sweet|spicy
+sand_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sandalwood_noun	cooc		1575	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sandstone_noun	cooc		1568	no	no	no	no	yes	yes	CATEGORY|industry	
+sandwich_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+sap_noun	cooc		1566	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sappy_adj	cooc		1593	no	no	yes	yes	yes	yes		CATEGORY|sweet|spicy
+sauce_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+saucy_adj	cooc		1591	no	no	yes	yes	yes	yes		CATEGORY|sweet|spicy
+sausage_noun	cooc		1588	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+savory_adj	cooc		1603	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+savoury_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+savoury_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+scent_noun	cooc	['aroma.n.02', 'scent.n.02', 'olfactory_property.n.01']	1578	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+scented_adj	cooc	['scented.a.01', 'perfumed.s.01', 'odoriferous.s.03', 'scented.s.04']	1594	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+scone_noun	cooc		1598	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+scorched_adj	cooc		1598	no	no	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+scotch_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+scrap_noun	cooc		1576	no	no	yes	yes	yes	yes	CATEGORY|industry	
+scrub_noun	cooc		1597	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+scum_noun	cooc		1586	no	yes	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+seaweed_noun	cooc		1581	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+seductive_adj	cooc		1547	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+seed_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+semen_noun	cooc		1568	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+sensual_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+sensuous_adj	cooc		1587	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+sewage_noun	cooc		1609	no	no	no	no	yes	yes	CATEGORY|industry	
+sewer_noun	cooc		1551	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+shark_noun	cooc		1609	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+sharp_adj	cooc		1547	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+sheep_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+shepherd_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+sherry_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+shoe_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+shrub_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sickening_adj	cooc	['nauseating.s.01']	1719	no	no	yes	yes	yes	yes		CATEGORY|decayed
+sickly_adj	cooc		1567	no	no	yes	yes	yes	yes		CATEGORY|pungent
+silica_noun	cooc		1637	no	no	yes	yes	yes	yes	CATEGORY|industry	
+silicate_noun	cooc		1714	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+sink_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+skeleton_noun	cooc		1564	no	no	no	no	yes	yes	CATEGORY|animal|people	
+skin_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+skull_noun	cooc		1567	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+slag_noun	cooc		1629	no	no	no	no	yes	yes	CATEGORY|industry	
+slaughter_noun	cooc		1533	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+slime_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+slipper_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+sloth_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+slug_noun	cooc		1596	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+sluice_noun	cooc		1593	no	no	yes	yes	yes	yes	CATEGORY|industry	
+smoke_noun	cooc		1547	yes	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+smokes_noun	cooc		1566	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+smoking_noun	cooc		1533	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+smoky_adj	cooc		1581	no	no	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+smouldering_noun	cooc		1649	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+smudgy_adj	cooc		1657	no	no	no	no	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+snake_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+snotty_adj	cooc		1640	no	no	yes	yes	yes	yes		CATEGORY|pungent
+snout_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+snuff_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+snuffs_noun	cooc		1592	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+soap_noun	cooc		1566	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+sock_noun	cooc		1603	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+soda_noun	cooc		1600	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+soft_adj	cooc		1547	yes	yes	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+soil_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+soot_noun	cooc		1586	no	no	yes	yes	yes	yes	CATEGORY|industry	
+sooty_adj	cooc		1597	no	no	yes	yes	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+soup_noun	cooc		1577	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+sour_adj	cooc		1550	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+sour_noun	cooc		1602	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+sparkling_adj	cooc		1588	no	yes	yes	yes	yes	yes		CATEGORY|fresh
+sperm_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+spewing_noun	cooc		1650	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+spice_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+spiced_adj	cooc		1562	no	no	no	no	yes	yes		CATEGORY|sweet|spicy
+spicery_noun	cooc		1584	no	no	no	no	no	yes		
+spices_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+spicy_adj	cooc		1562	yes	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+spider_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+spikenard_noun	cooc		1568	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+spinach_noun	cooc		1588	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+spitting_noun	cooc		1603	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+spray_noun	cooc		1566	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+sprig_noun	cooc		1575	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+spruce_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sputum_noun	cooc		1640	no	no	no	no	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stag_noun	cooc		1578	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+stagnant_adj	cooc		1655	no	no	yes	yes	yes	yes		CATEGORY|decayed
+stain_noun	cooc		1574	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+stale_adj	cooc		1562	no	yes	yes	yes	yes	yes		CATEGORY|decayed
+stank_noun	cooc		1602	no	no	no	yes	yes	no	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+steak_noun	cooc		1562	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+steam_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+steams_noun	cooc		1597	no	yes	yes	yes	yes	yes	CATEGORY|industry	
+steel_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|industry	
+stench_noun	cooc	['malodor.n.01']	1568	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stew_noun	cooc		1568	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+stilton_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+stinging_adj	cooc		1578	no	no	no	yes	yes	yes		CATEGORY|pungent
+stink_noun	cooc	['malodor.n.01']	1550	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stinking_adj	cooc	['fetid.s.01']	1551	yes	no	yes	yes	yes	yes		CATEGORY|pungent
+stinking_noun	cooc		1600	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+stoat_noun	cooc		1612	no	no	no	no	no	yes	CATEGORY|animal|people	
+stone_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+stove_noun	cooc		1568	no	no	no	yes	yes	yes	CATEGORY|industry	
+strawberry_noun	cooc		1574	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+street_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+succulent_adj	cooc		1632	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+sugar_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+sugarcane_noun	cooc		1711	no	no	yes	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+sugary_adj	cooc		1594	no	no	yes	yes	yes	yes		CATEGORY|sweet|spicy
+sulphide_noun	cooc		1678	no	no	no	no	yes	yes	CATEGORY|industry	
+sulphur_noun	cooc		1568	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+sulphureous_adj	cooc		1615	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+sulphuric_adj	cooc		1605	no	no	no	yes	yes	yes		CATEGORY|chemical|hydro-carbons|synthetic
+sulphurous_adj	cooc		1600	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+sulphury_adj	cooc		1608	no	no	no	yes	yes	yes		CATEGORY|pungent
+swab_noun	cooc		1651	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+sweat_noun	cooc		1547	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+sweaty_adj	cooc		1577	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+sweet_adj	cooc	['odoriferous.s.03']	1524	yes	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+sweet_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+sweetish_adj	cooc		1640	no	yes	yes	yes	yes	yes		CATEGORY|sweet|spicy
+sweetmeat_noun	cooc		1596	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+swine_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+syrop_noun	cooc		1685	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+syrup_noun	cooc		1590	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+tablecloth_noun	cooc		1650	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+tainted_adj	cooc		1593	no	no	no	no	yes	yes		CATEGORY|decayed
+tapioca_noun	cooc		1782	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+tar_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|industry	
+tart_noun	cooc		1533	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+tasteful_adj	cooc		1586	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+tasting_adj	cooc		1603	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+tasty_adj	cooc		1598	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+taxis_noun	cooc		1596	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+tea_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+thyme_noun	cooc		1562	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+timber_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|industry	
+tin_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|industry	
+tire_noun	cooc		1565	no	no	yes	yes	yes	yes	CATEGORY|synthetic	
+toad_noun	cooc		1562	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+toast_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+tobacco_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+toilet_noun	cooc		1533	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+tomato_noun	cooc		1699	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+tortoise_noun	cooc		1603	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+towel_noun	cooc		1577	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+toxic_adj	cooc		1711	no	no	no	no	no	yes		CATEGORY|chemical|hydro-carbons|synthetic
+traffic_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+train_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+transport_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+trash_noun	cooc		1582	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+treacle_noun	cooc		1568	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+tread_noun	cooc		1524	no	no	no	no	yes	yes	CATEGORY|synthetic	
+tree_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+trout_noun	cooc		1565	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+truck_noun	cooc		1566	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+tub_noun	cooc		1547	no	yes	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+tuber_noun	cooc		1612	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+tuberose_noun	cooc		1640	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+turfy_adj	cooc		1640	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+turkey_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+turnip_noun	cooc		1584	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+turpentine_noun	cooc		1584	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+turtle_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+twig_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+tyre_noun	cooc		1533	no	no	yes	yes	yes	yes	CATEGORY|synthetic	
+undergrowth_noun	cooc		1550	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+unguent_noun	cooc		1631	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+unpalatable_adj	cooc		1625	no	no	yes	yes	yes	yes		CATEGORY|pungent
+unpleasant_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|pungent
+urine_noun	cooc		1565	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+urinous_adj	cooc		1672	no	no	no	yes	yes	yes		CATEGORY|pungent
+vagina_noun	cooc		1566	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+vanilla_noun	cooc		1677	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+vapor_noun	cooc		1586	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+vapour_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+varnish_noun	cooc		1581	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+vegetable_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+vegetation_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+vehicle_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+venomous_adj	cooc		1550	no	yes	yes	yes	yes	yes		CATEGORY|pungent
+verbena_noun	cooc		1588	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+verdure_noun	cooc		1565	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+verjuice_noun	cooc		1588	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+vermilion_noun	cooc		1587	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+vermin_noun	cooc		1568	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+vernal_noun	cooc		1657	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+vile_adj	cooc	['nauseating.s.01']	1533	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+vine_noun	cooc		1547	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+vinegar_noun	cooc		1567	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+violet_noun	cooc		1550	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+viper_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+voluptuous_adj	cooc		1550	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+vomit_noun	cooc		1586	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+wafer_noun	cooc		1524	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+waft_noun	cooc		1568	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+wash_noun	cooc		1564	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+waste_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+water_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|industry	
+wax_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+weasel_noun	cooc		1575	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+weed_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+weedy_adj	cooc		1565	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+wet_adj	cooc		1551	no	yes	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+whale_noun	cooc		1524	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+wheat_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+whiff_noun	cooc	['puff.n.01']	1618	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+whiskey_noun	cooc		1586	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+whisky_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+whitethorn_noun	cooc		1568	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+wig_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+willow_noun	cooc		1562	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+windy_adj	cooc		1524	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+wine_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+wintry_adj	cooc		1596	no	no	no	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+wolf_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+wood_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+woodbine_noun	cooc		1581	yes	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+woodland_noun	cooc		1550	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+woodruff_noun	cooc		1663	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+woody_adj	cooc		1596	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+wool_noun	cooc		1524	no	yes	yes	yes	yes	yes	CATEGORY|synthetic	
+worm_noun	cooc		1524	yes	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+wormwood_noun	cooc		1594	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+wormy_adj	cooc		1533	no	no	no	yes	yes	yes		CATEGORY|decayed
+wreath_noun	cooc		1564	no	yes	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+wretched_adj	cooc		1524	yes	yes	yes	yes	yes	yes		CATEGORY|decayed
+yam_noun	cooc		1606	no	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+yarrow_noun	cooc		1620	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+yeast_noun	cooc		1588	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+yolk_noun	cooc		1638	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+zinc_noun	cooc		1576	no	no	no	no	yes	yes	CATEGORY|industry	
+perfume_noun	WordNetExpansion	perfume.v.01									
+aromatize_verb	WordNetExpansion	perfume.v.01									
+aromatise_verb	WordNetExpansion	perfume.v.01									
+perfume_verb	WordNetExpansion	perfume.v.02									
+scent_noun	WordNetExpansion	perfume.v.02									
+odorize_verb	WordNetExpansion	odorize.v.01									
+odourise_verb	WordNetExpansion	odorize.v.01									
+scent_noun	WordNetExpansion	odorize.v.01									
+incense_noun	WordNetExpansion	incense.n.02									
+scent_noun	WordNetExpansion	scent.v.02									
+nose_noun	WordNetExpansion	scent.v.02									
+wind_noun	WordNetExpansion	scent.v.02									
+muskiness_noun	WordNetExpansion	muskiness.n.01								CATEGORY|nature_flowers|plant|tree|soil	
+rancidness_noun	WordNetExpansion	rancidness.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+acridity_noun	WordNetExpansion	acridity.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+exteroception_noun	WordNetExpansion	exteroception.n.01									
+modality_noun	WordNetExpansion	modality.n.03									
+sense_modality_noun	WordNetExpansion	modality.n.03									
+sensory_system_noun	WordNetExpansion	modality.n.03									
+nose_noun	WordNetExpansion	nose.n.06									
+sensing_verb	WordNetExpansion	sensing.n.02									
+perception_noun	WordNetExpansion	sensing.n.02									
+sniff_noun	WordNetExpansion	sniff.n.01									
+snuff_noun	WordNetExpansion	sniff.n.01									
+whiff_noun	WordNetExpansion	whiff.v.02									
+secretion_noun	WordNetExpansion	secretion.n.02									
+musky_adj	WordNetExpansion	musky.s.01									CATEGORY|woody/earthy/mouldy
+rank_adj	WordNetExpansion	rank.s.02									CATEGORY|decayed
+body_odor_noun	WordNetExpansion	body_odor.n.01								CATEGORY|animal|people	
+body_odour_noun	WordNetExpansion	body_odor.n.01								CATEGORY|animal|people	
+B.O._noun	WordNetExpansion	body_odor.n.01								CATEGORY|animal|people	
+full-bodied_noun	WordNetExpansion	full-bodied.s.01									
+racy_adj	WordNetExpansion	full-bodied.s.01									CATEGORY|pungent
+rich_adj	WordNetExpansion	full-bodied.s.01									
+robust_adj	WordNetExpansion	full-bodied.s.01									
+spiciness_noun	WordNetExpansion	spiciness.n.01								CATEGORY|food|beverage	
+spice_noun	WordNetExpansion	spiciness.n.01								CATEGORY|food|beverage	
+spicery_noun	WordNetExpansion	spiciness.n.01								CATEGORY|food|beverage	
+toiletry_noun	WordNetExpansion	toiletry.n.01								CATEGORY|cleaning|medicinal	
+toilet_articles_noun	WordNetExpansion	toiletry.n.01								CATEGORY|cleaning|medicinal	
+cologne_noun	WordNetExpansion	cologne.n.02								CATEGORY|cleaning|medicinal	
+cologne_water_noun	WordNetExpansion	cologne.n.02								CATEGORY|cleaning|medicinal	
+eau_de_cologne_noun	WordNetExpansion	cologne.n.02								CATEGORY|cleaning|medicinal	
+patchouli_noun	WordNetExpansion	patchouli.n.02								CATEGORY|nature_flowers|plant|tree|soil	
+patchouly_noun	WordNetExpansion	patchouli.n.02								CATEGORY|nature_flowers|plant|tree|soil	
+pachouli_noun	WordNetExpansion	patchouli.n.02								CATEGORY|nature_flowers|plant|tree|soil	
+perfumery_noun	WordNetExpansion	perfumery.n.01								CATEGORY|cleaning|medicinal	
+potpourri_noun	WordNetExpansion	potpourri.n.03								CATEGORY|nature_flowers|plant|tree|soil	
+rose_water_noun	WordNetExpansion	rose_water.n.01								CATEGORY|cleaning|medicinal	
+toilet_water_noun	WordNetExpansion	toilet_water.n.01								CATEGORY|cleaning|medicinal	
+eau_de_toilette_noun	WordNetExpansion	toilet_water.n.01								CATEGORY|cleaning|medicinal	
+harmfulness_noun	WordNetExpansion	harmfulness.n.02								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+noisomeness_noun	WordNetExpansion	harmfulness.n.02								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+noxiousness_noun	WordNetExpansion	harmfulness.n.02								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+non-aromatic_noun	WordNetExpansion	non-aromatic.s.01									
+alliaceous_adj	WordNetExpansion	alliaceous.s.02									CATEGORY|decayed
+almond-scented_adj	WordNetExpansion	almond-scented.s.01									CATEGORY|Fragrant|fruity|floral
+anise-scented_adj	WordNetExpansion	anise-scented.s.01									CATEGORY|Fragrant|fruity|floral
+apple-scented_adj	WordNetExpansion	apple-scented.s.01									CATEGORY|Fragrant|fruity|floral
+balsam-scented_adj	WordNetExpansion	balsam-scented.s.01									CATEGORY|Fragrant|fruity|floral
+candy-scented_adj	WordNetExpansion	candy-scented.s.01									CATEGORY|Fragrant|fruity|floral
+cedar-scented_adj	WordNetExpansion	cedar-scented.s.01									CATEGORY|Fragrant|fruity|floral
+cinnamon-scented_adj	WordNetExpansion	cinnamon-scented.s.01									CATEGORY|Fragrant|fruity|floral
+clove-scented_adj	WordNetExpansion	clove-scented.s.01									CATEGORY|Fragrant|fruity|floral
+ginger-scented_adj	WordNetExpansion	ginger-scented.s.01									CATEGORY|Fragrant|fruity|floral
+honey-scented_adj	WordNetExpansion	honey-scented.s.01									CATEGORY|Fragrant|fruity|floral
+lemon-scented_adj	WordNetExpansion	lemon-scented.s.01									CATEGORY|Fragrant|fruity|floral
+mint-scented_adj	WordNetExpansion	mint-scented.s.01									CATEGORY|Fragrant|fruity|floral
+musk-scented_adj	WordNetExpansion	musk-scented.s.01									CATEGORY|Fragrant|fruity|floral
+musky-scented_adj	WordNetExpansion	musk-scented.s.01									CATEGORY|Fragrant|fruity|floral
+pleasant-smelling_adj	WordNetExpansion	pleasant-smelling.s.01									CATEGORY|Fragrant|fruity|floral
+spice-scented_adj	WordNetExpansion	spice-scented.s.01									CATEGORY|sweet|spicy
+strong-smelling_adj	WordNetExpansion	strong-smelling.s.01									
+strong-scented_adj	WordNetExpansion	strong-smelling.s.01									
+tansy-scented_adj	WordNetExpansion	tansy-scented.s.01									CATEGORY|Fragrant|fruity|floral
+tansy-smelling_adj	WordNetExpansion	tansy-scented.s.01									CATEGORY|Fragrant|fruity|floral
+tea-scented_adj	WordNetExpansion	tea-scented.s.01									
+vanilla-scented_adj	WordNetExpansion	vanilla-scented.s.01									CATEGORY|Fragrant|fruity|floral
+violet-scented_adj	WordNetExpansion	violet-scented.s.01									CATEGORY|Fragrant|fruity|floral
+bilgy_adj	WordNetExpansion	bilgy.s.01									CATEGORY|pungent
+gamey_adj	WordNetExpansion	gamey.s.02									
+gamy_adj	WordNetExpansion	gamey.s.02									
+high_adj	WordNetExpansion	gamey.s.02									
+putrid-smelling_adj	WordNetExpansion	putrid-smelling.s.01									CATEGORY|decayed
+rank-smelling_adj	WordNetExpansion	rank-smelling.s.01									CATEGORY|decayed
+sour_adj	WordNetExpansion	sour.s.01									CATEGORY|pungent
+rancid_adj	WordNetExpansion	sour.s.01									CATEGORY|decayed
+mold_noun	WordNetExpansion	mold.n.05								CATEGORY|nature_flowers|plant|tree|soil	
+mould_noun	WordNetExpansion	mold.n.05								CATEGORY|nature_flowers|plant|tree|soil	
+mustiness_noun	WordNetExpansion	mustiness.n.01								CATEGORY|nature_flowers|plant|tree|soil	
+must_noun	WordNetExpansion	mustiness.n.01								CATEGORY|nature_flowers|plant|tree|soil	
+moldiness_noun	WordNetExpansion	mustiness.n.01								CATEGORY|nature_flowers|plant|tree|soil	
+stale_adj	WordNetExpansion	stale.a.01									CATEGORY|woody/earthy/mouldy
+nausea_noun	WordNetExpansion	nausea.n.02									
+loathsomeness_noun	WordNetExpansion	loathsomeness.n.01									
+repulsiveness_noun	WordNetExpansion	loathsomeness.n.01									
+sliminess_noun	WordNetExpansion	loathsomeness.n.01									
+vileness_noun	WordNetExpansion	loathsomeness.n.01									
+lousiness_noun	WordNetExpansion	loathsomeness.n.01									
+wickedness_noun	WordNetExpansion	loathsomeness.n.01									
+shock_verb	WordNetExpansion	shock.v.02									
+offend_verb	WordNetExpansion	shock.v.02									
+scandalize_verb	WordNetExpansion	shock.v.02									
+scandalise_verb	WordNetExpansion	shock.v.02									
+appal_verb	WordNetExpansion	shock.v.02									
+appall_verb	WordNetExpansion	shock.v.02									
+outrage_verb	WordNetExpansion	shock.v.02									
+offensiveness_noun	WordNetExpansion	offensiveness.n.01									
+odiousness_noun	WordNetExpansion	offensiveness.n.01									
+distastefulness_noun	WordNetExpansion	offensiveness.n.01									
+miasma_noun	WordNetExpansion	miasma.n.01									
+miasm_noun	WordNetExpansion	miasma.n.01									
+mephitis_noun	WordNetExpansion	mephitis.n.01									CATEGORY|pungent
+putridity_noun	WordNetExpansion	putridity.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putrescence_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+putridness_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rottenness_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+corruption_noun	WordNetExpansion	putrescence.n.01								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+perceive_verb	WordNetExpansion	perceive.v.01									
+comprehend_verb	WordNetExpansion	perceive.v.01									
+get_a_noseful_verb	WordNetExpansion	get_a_noseful.v.01									
+get_a_whiff_verb	WordNetExpansion	get_a_noseful.v.01									
+cause_to_be_perceived_verb	WordNetExpansion	cause_to_be_perceived.v.01									
+stinker_noun	WordNetExpansion	stinker.n.02									
+sniffer_noun	WordNetExpansion	sniffer.n.01									
+snuffle_verb	WordNetExpansion	snuffle.n.01									
+sniffle_verb	WordNetExpansion	snuffle.n.01									
+snivel_verb	WordNetExpansion	snuffle.n.01									
+inhale_verb	WordNetExpansion	inhale.v.02									
+inspire_verb	WordNetExpansion	inhale.v.02									
+breathe_in_verb	WordNetExpansion	inhale.v.02									
+asphalt_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+automobile_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+buses_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+chemicals_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+fumes_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+gasoline_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+lorries_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+oils_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+smog_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+tram_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+trams_noun	StartingList									CATEGORY|emissions_traffic|fuel|dust	
+bulldozer_noun	StartingList									CATEGORY|industry	
+coals_noun	StartingList									CATEGORY|industry	
+diesel_noun	StartingList									CATEGORY|industry	
+grout_noun	StartingList									CATEGORY|industry	
+sewers_noun	StartingList									CATEGORY|industry	
+smokestack_noun	StartingList									CATEGORY|industry	
+abattoir_noun	StartingList									CATEGORY|food|beverage	
+abattoirs_noun	StartingList									CATEGORY|food|beverage	
+almonds_noun	StartingList									CATEGORY|food|beverage	
+apple_pie_noun	StartingList									CATEGORY|food|beverage	
+apple_pies_noun	StartingList									CATEGORY|food|beverage	
+arugula_noun	StartingList									CATEGORY|food|beverage	
+asian_food_noun	StartingList									CATEGORY|food|beverage	
+avocado_noun	StartingList									CATEGORY|food|beverage	
+baked_goods_noun	StartingList									CATEGORY|food|beverage	
+bakery_noun	StartingList									CATEGORY|food|beverage	
+baklava_noun	StartingList									CATEGORY|food|beverage	
+barbecue_noun	StartingList									CATEGORY|food|beverage	
+bbq_noun	StartingList									CATEGORY|food|beverage	
+beers_noun	StartingList									CATEGORY|food|beverage	
+biscuits_noun	StartingList									CATEGORY|food|beverage	
+brownie_noun	StartingList									CATEGORY|food|beverage	
+butterscotch_noun	StartingList									CATEGORY|food|beverage	
+cardamom_noun	StartingList									CATEGORY|food|beverage	
+chabli_noun	StartingList									CATEGORY|food|beverage	
+chipotle_noun	StartingList									CATEGORY|food|beverage	
+citrus_noun	StartingList									CATEGORY|food|beverage	
+coke_noun	StartingList									CATEGORY|food|beverage	
+condiment_noun	StartingList									CATEGORY|food|beverage	
+cookie_noun	StartingList									CATEGORY|food|beverage	
+couscous_noun	StartingList									CATEGORY|food|beverage	
+creme_noun	StartingList									CATEGORY|food|beverage	
+crepe_noun	StartingList									CATEGORY|food|beverage	
+cuisine_noun	StartingList									CATEGORY|food|beverage	
+dough_noun	StartingList									CATEGORY|food|beverage	
+earl_grey_noun	StartingList									CATEGORY|food|beverage	
+falafel_noun	StartingList									CATEGORY|food|beverage	
+food_market_noun	StartingList									CATEGORY|food|beverage	
+french_fries_noun	StartingList									CATEGORY|food|beverage	
+fresh_bread_noun	StartingList									CATEGORY|food|beverage	
+fresh_coffee_noun	StartingList									CATEGORY|food|beverage	
+fresh_fish_noun	StartingList									CATEGORY|food|beverage	
+fruitcake_noun	StartingList									CATEGORY|food|beverage	
+fudge_noun	StartingList									CATEGORY|food|beverage	
+groat_noun	StartingList									CATEGORY|food|beverage	
+hash_noun	StartingList									CATEGORY|food|beverage	
+hot_dog_noun	StartingList									CATEGORY|food|beverage	
+ice_cream_noun	StartingList									CATEGORY|food|beverage	
+indian_food_noun	StartingList									CATEGORY|food|beverage	
+jalapeno_noun	StartingList									CATEGORY|food|beverage	
+leftovers_noun	StartingList									CATEGORY|food|beverage	
+licorice_noun	StartingList									CATEGORY|food|beverage	
+macadamia_noun	StartingList									CATEGORY|food|beverage	
+marshmallow_noun	StartingList									CATEGORY|food|beverage	
+mayonnaise_noun	StartingList									CATEGORY|food|beverage	
+mince_pie_noun	StartingList									CATEGORY|food|beverage	
+moussaka_noun	StartingList									CATEGORY|food|beverage	
+oatmeal_noun	StartingList									CATEGORY|food|beverage	
+omelet_noun	StartingList									CATEGORY|food|beverage	
+omelette_noun	StartingList									CATEGORY|food|beverage	
+orange_juice_noun	StartingList									CATEGORY|food|beverage	
+oriental_food_noun	StartingList									CATEGORY|food|beverage	
+pancake_noun	StartingList									CATEGORY|food|beverage	
+pizza_noun	StartingList									CATEGORY|food|beverage	
+raspberry_noun	StartingList									CATEGORY|food|beverage	
+sauvignon_noun	StartingList									CATEGORY|food|beverage	
+scallop_noun	StartingList									CATEGORY|food|beverage	
+seafood_noun	StartingList									CATEGORY|food|beverage	
+sherbet_noun	StartingList									CATEGORY|food|beverage	
+skewer_noun	StartingList									CATEGORY|food|beverage	
+snack_noun	StartingList									CATEGORY|food|beverage	
+snapper_noun	StartingList									CATEGORY|food|beverage	
+sour_milk_noun	StartingList									CATEGORY|food|beverage	
+spam_noun	StartingList									CATEGORY|food|beverage	
+spicy_food_noun	StartingList									CATEGORY|food|beverage	
+sushi_noun	StartingList									CATEGORY|food|beverage	
+taco_noun	StartingList									CATEGORY|food|beverage	
+tiramisu_noun	StartingList									CATEGORY|food|beverage	
+topping_noun	StartingList									CATEGORY|food|beverage	
+vegetables_noun	StartingList									CATEGORY|food|beverage	
+waffle_noun	StartingList									CATEGORY|food|beverage	
+watercress_noun	StartingList									CATEGORY|food|beverage	
+marijuana_noun	StartingList									CATEGORY|tobacco|smoke	
+smoker_noun	StartingList									CATEGORY|tobacco|smoke	
+smokey_noun	StartingList									CATEGORY|tobacco|smoke	
+smoky_noun	StartingList									CATEGORY|tobacco|smoke	
+tabacco_noun	StartingList									CATEGORY|tobacco|smoke	
+bleach_noun	StartingList									CATEGORY|cleaning|medicinal	
+cleaner_noun	StartingList									CATEGORY|cleaning|medicinal	
+cleaning_noun	StartingList									CATEGORY|cleaning|medicinal	
+clothes_noun	StartingList									CATEGORY|cleaning|medicinal	
+dentist_noun	StartingList									CATEGORY|cleaning|medicinal	
+knickers_noun	StartingList									CATEGORY|cleaning|medicinal	
+laundry_noun	StartingList									CATEGORY|cleaning|medicinal	
+mothball_noun	StartingList									CATEGORY|cleaning|medicinal	
+solvent_noun	StartingList									CATEGORY|cleaning|medicinal	
+spray_paint_noun	StartingList									CATEGORY|cleaning|medicinal	
+sulfide_noun	StartingList									CATEGORY|cleaning|medicinal	
+underwear_noun	StartingList									CATEGORY|cleaning|medicinal	
+latex_noun	StartingList									CATEGORY|synthetic	
+suede_noun	StartingList									CATEGORY|synthetic	
+dog_shit_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+faeces_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+fart_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+feces_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+garbage_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+garbage_truck_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+pee_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+piss_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+public_toilet_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rotten_fruit_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+rotten_socks_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+shit_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+urinal_noun	StartingList									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+beagle_noun	StartingList									CATEGORY|animal|people	
+dirty_clothes_noun	StartingList									CATEGORY|animal|people	
+doggie_noun	StartingList									CATEGORY|animal|people	
+feline_noun	StartingList									CATEGORY|animal|people	
+fresh_air_noun	StartingList									CATEGORY|animal|people	
+ocelot_noun	StartingList									CATEGORY|animal|people	
+rodent_noun	StartingList									CATEGORY|animal|people	
+skunk_noun	StartingList									CATEGORY|animal|people	
+vetiver_noun	StartingList									CATEGORY|animal|people	
+zoo_noun	StartingList									CATEGORY|animal|people	
+blossoming_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+chrysanthemum_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+conifer_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+dry_flowers_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+dry_grass_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+flowershop_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+medicinal_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+moist_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+old_wood_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+powdery_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+sycamore_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+tulip_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+wet_leaf_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+woodlands_noun	StartingList									CATEGORY|nature_flowers|plant|tree|soil	
+appetizing_adj	StartingList										CATEGORY|Fragrant|fruity|floral
+flavored_adj	StartingList										CATEGORY|Fragrant|fruity|floral
+flavorful_adj	StartingList										CATEGORY|Fragrant|fruity|floral
+mouth-watering_adj	StartingList										CATEGORY|Fragrant|fruity|floral
+yummy_adj	StartingList										CATEGORY|Fragrant|fruity|floral
+camphoraceous_adj	StartingList										CATEGORY|woody/earthy/mouldy
+centuries-old_adj	StartingList										CATEGORY|woody/earthy/mouldy
+herbal_adj	StartingList										CATEGORY|woody/earthy/mouldy
+underseasoned_adj	StartingList										CATEGORY|woody/earthy/mouldy
+minty_adj	StartingList										CATEGORY|fresh,cool
+caramelized_adj	StartingList										CATEGORY|sweet|spicy
+semisweet_adj	StartingList										CATEGORY|sweet|spicy
+peppery_adj	StartingList										CATEGORY|sweet|spicy
+spiciness_adj	StartingList										CATEGORY|sweet|spicy
+sweetness_adj	StartingList										CATEGORY|sweet|spicy
+sweet-smelling_adj	StartingList										CATEGORY|sweet|spicy
+syrupy_adj	StartingList										CATEGORY|sweet|spicy
+tangy_adj	StartingList										CATEGORY|sweet|spicy
+treacly_adj	StartingList										CATEGORY|sweet|spicy
+zesty_adj	StartingList										CATEGORY|sweet|spicy
+cheesy_adj	StartingList										CATEGORY|smoky|toasted|burnt|fatty
+fatty_adj	StartingList										CATEGORY|smoky|toasted|burnt|fatty
+smokey_adj	StartingList										CATEGORY|smoky|toasted|burnt|fatty
+garlicky_adj	StartingList										CATEGORY|decayed
+acerbic_adj	StartingList										CATEGORY|pungent
+acidic_adj	StartingList										CATEGORY|pungent
+bittersweet_adj	StartingList										CATEGORY|pungent
+fecal_adj	StartingList										CATEGORY|pungent
+whiffy_adj	StartingList										CATEGORY|pungent

@@ -1,0 +1,680 @@
+word	source	synset	first appearance	1650-1700	1701-1750	1751-1800	1801-1850	1851-1900	1901-1925	smell-source	quality
+Aroma_noun	seed		1799	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+Ausduenstung_noun	seed		1508	no	no	yes	yes	yes	yes		
+Bluetenduft_noun	seed		1659	no	no	no	no	no	yes		
+Blume_noun	seed		1659	yes	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Blumenduft_noun	seed		1781	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Bouquet_noun	seed		1754	no	no	no	yes	yes	yes		
+Duft_noun	seed	['s14292']	1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Geruch_noun	seed	['s14288', 's27490']	1508	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+Geruchssinn_noun	seed	['s27490']	1795	no	no	no	no	no	yes		
+Gestank_noun	seed	['s14289']	1659	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Knoblauchgeruch_noun	seed		1782	no	no	no	no	yes	yes		
+Lavendelwasser_noun	seed		1758	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Nase_noun	seed		1508	yes	yes	yes	yes	yes	yes		
+Riechstoff_noun	seed		1797	no	no	no	yes	yes	yes		
+Rosenduft_noun	seed		1781	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ruch_noun	seed		1717	no	no	no	yes	yes	yes		
+Schaerfe_noun	seed		1508	no	yes	yes	yes	yes	yes		
+Spuersinn_noun	seed		1799	no	no	no	no	yes	yes		
+Veilchenduft_noun	seed		1779	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Wohlgeruch_noun	seed		1760	no	no	no	yes	yes	yes		
+duftend_adj	seed		1760	yes	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+olfaktorisch_adj	seed	['s85082']	1890	no	no	no	no	no	yes		
+riechend_adj	seed		1764	no	no	no	yes	yes	yes		CATEGORY|pungent
+stinkend_adj	seed		1659	no	no	no	yes	yes	yes		CATEGORY|pungent
+wohlriechend_adj	seed	['s93614']	1756	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+abgeben_verb	seed		1508	no	yes	yes	yes	yes	yes		
+absondern_verb	seed		1508	no	yes	yes	yes	yes	yes		
+duften_verb	seed	['s58713']	1751	no	no	no	yes	yes	yes		
+parfuemieren_verb	seed	['s54647', 's106840']	1780	no	no	no	no	yes	yes		
+riechen_verb	seed	['s58710', 's54431', 's58712', 's58565']	1659	yes	yes	yes	yes	yes	yes		
+schnuppern_verb	seed	['s58567']	1813	no	no	no	no	no	yes		
+stinken_verb	seed	['s54432', 's58711']	1751	no	no	no	yes	yes	yes		
+verbreiten_verb	seed		1508	yes	yes	yes	yes	yes	yes		
+wahrnehmen_verb	seed		1528	yes	yes	yes	yes	yes	yes		
+wittern_verb	seed		1703	no	no	yes	yes	yes	yes		
+Absonderung_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Alkohol_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Ammoniak_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Arbeit_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|cleaning|medicinal	
+Arbeiter_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|industry	
+Arm_noun	cooc		1508	no	no	no	no	no	yes	CATEGORY|animal|people	
+Bauer_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Baum_noun	cooc		1545	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Becher_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Beet_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Biene_noun	cooc		1741	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Blase_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Blatt_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Bluete_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Blume_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Blut_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Boden_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Bohren_noun	cooc		1745	no	no	no	yes	yes	yes	CATEGORY|industry	
+Branntwein_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Braten_noun	cooc		1689	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Bronchie_noun	cooc		1816	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Buttersaeure_noun	cooc		1814	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Chlor_noun	cooc		1767	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Dampf_noun	cooc		1717	no	no	no	no	yes	yes	CATEGORY|industry	
+Duft_noun	cooc	['s14292']	1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ei_noun	cooc		1508	no	no	yes	yes	yes	no	CATEGORY|food|beverage	
+Eiter_noun	cooc		1734	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Eiters_noun	cooc		1756	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Eiterungen_noun	cooc		1778	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Erdboden_noun	cooc		1545	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Erde_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Farbe_noun	cooc		1528	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Feuchtigkeit_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Feuer_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|industry	
+Fisch_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Flieder_noun	cooc		1754	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Fluessigkeit_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Frau_noun	cooc		1508	no	no	no	yes	yes	no	CATEGORY|animal|people	
+Frucht_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Galle_noun	cooc		1659	no	no	no	yes	no	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Garten_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Gas_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Gaumen_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+Gebirge_noun	cooc		1545	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Geist_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Geruch_noun	cooc	['s14288', 's27490']	1508	no	no	yes	yes	yes	yes	CATEGORY|tobacco|smoke	
+Geschmack_noun	cooc		1508	yes	yes	yes	yes	yes	yes	CATEGORY|food|beverage	
+Geschmackssinn_noun	cooc		1791	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Geschmaecke_noun	cooc		1752	no	no	yes	yes	yes	yes	CATEGORY|food|beverage	
+Geschmaecken_noun	cooc		1787	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Gras_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Haar_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Hals_noun	cooc		1545	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Hauch_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Haut_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Heu_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Himmel_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Hitze_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Juchten_noun	cooc		1723	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Kelch_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Kind_noun	cooc		1508	no	no	no	yes	yes	no	CATEGORY|animal|people	
+Kneifer_noun	cooc		1759	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Knospe_noun	cooc		1528	yes	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Kohlensaeure_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Konsistenz_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Kopf_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Kopfkissen_noun	cooc		1784	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Kreuz_noun	cooc		1628	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Krone_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Laerm_noun	cooc		1727	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+Licht_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Linden_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Luft_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Luftroehre_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Luftstrom_noun	cooc		1774	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Lunge_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Madensack_noun	cooc		1721	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Materie_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Meer_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Mensch_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Menschenhaufen_noun	cooc		1776	no	no	no	no	no	yes	CATEGORY|animal|people	
+Milch_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Mohn_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Nase_noun	cooc		1508	no	no	yes	yes	yes	yes		
+Nasennebenhoehlen_noun	cooc		1872	no	no	no	no	no	yes	CATEGORY|animal|people	
+Nasenrachenraum_noun	cooc		1824	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nasenrachenraumes_noun	cooc		1851	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nasenrachenraums_noun	cooc		1863	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Nasenrachens_noun	cooc		1886	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Natur_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Nelke_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Ohr_noun	cooc		1628	no	yes	yes	yes	yes	yes	CATEGORY|animal|people	
+Orangenhaine_noun	cooc		1659	yes	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Organismus_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Pflanze_noun	cooc		1628	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Probirstein_noun	cooc		1760	no	no	no	yes	yes	yes	CATEGORY|industry	
+Produkt_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Quark_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|food|beverage	
+Rauch_noun	cooc		1679	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Raum_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|industry	
+Reinheit_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Rose_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Rosenduft_noun	cooc		1781	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Saatengruen_noun	cooc		1844	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Saeure_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Sauerstoff_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schaum_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Schein_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schleim_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Schleimhaeute_noun	cooc		1778	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schleimhaeuten_noun	cooc		1769	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schlundes_noun	cooc		1750	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Schmetterling_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schmutz_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Schnee_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Schnurrbart_noun	cooc		1729	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Schreck_noun	cooc		1721	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Schuss_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Schwall_noun	cooc		1729	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Schwefel_noun	cooc		1645	no	no	no	yes	yes	yes	CATEGORY|industry	
+Schwefelwasserstoff_noun	cooc		1769	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Seele_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Stamm_noun	cooc		1528	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Staub_noun	cooc		1645	no	no	no	no	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Stengel_noun	cooc		1659	yes	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Stern_noun	cooc		1528	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Stoff_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Strahl_noun	cooc		1659	no	no	yes	yes	yes	yes	CATEGORY|industry	
+Strom_noun	cooc		1628	yes	no	no	yes	yes	yes	CATEGORY|industry	
+Substanz_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Suesses_noun	cooc		1758	no	no	no	no	yes	yes	CATEGORY|food|beverage	
+Tabak_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|tobacco|smoke	
+Tau_noun	cooc		1727	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Tier_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Ton_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|industry	
+Tritt_noun	cooc		1508	no	no	no	no	yes	yes	CATEGORY|animal|people	
+Trockenheit_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Tuch_noun	cooc		1689	no	yes	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Turm_noun	cooc		1659	no	no	no	no	no	yes	CATEGORY|industry	
+Umschlag_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|cleaning|medicinal	
+Urin_noun	cooc		1659	no	no	no	no	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Vehikels_noun	cooc		1785	no	no	yes	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+Veilchen_noun	cooc		1727	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Verstopfung_noun	cooc		1740	no	no	no	yes	yes	yes	CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Violett_noun	cooc		1753	no	no	no	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Vogel_noun	cooc		1689	no	no	no	no	no	yes	CATEGORY|animal|people	
+Vogels_noun	cooc		1740	no	no	yes	yes	yes	yes	CATEGORY|animal|people	
+Waermen_noun	cooc		1745	no	no	no	no	no	yes	CATEGORY|emissions_traffic|fuel|dust	
+Wasser_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|industry	
+Weihrauch_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|tobacco|smoke	
+Wesen_noun	cooc		1508	no	no	yes	yes	no	no	CATEGORY|animal|people	
+Wilde_noun	cooc		1528	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Winde_noun	cooc		1689	no	no	no	no	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Wuerzgeruch_noun	cooc		1798	no	no	no	yes	yes	yes	CATEGORY|cleaning|medicinal	
+Wurm_noun	cooc		1659	no	no	no	yes	yes	yes	CATEGORY|animal|people	
+Wurzel_noun	cooc		1508	no	no	yes	yes	yes	yes	CATEGORY|nature_flowers|plant|tree|soil	
+Zug_noun	cooc		1508	no	no	no	yes	yes	yes	CATEGORY|emissions_traffic|fuel|dust	
+angenehm_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+belebend_adj	cooc		1659	yes	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+bitter_adj	cooc		1508	no	no	no	yes	no	yes		CATEGORY|pungent
+brennend_adj	cooc		1701	no	no	no	no	yes	yes		CATEGORY|smoky|toasted|burnt|fatty
+dicht_adj	cooc		1645	no	no	no	yes	yes	no		CATEGORY|woody/earthy/mouldy
+eitrig_adj	cooc		1772	no	no	no	yes	yes	yes		CATEGORY|pungent
+energisch_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|pungent
+erfreulich_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+fauliger_adj	cooc		1770	no	no	no	yes	yes	yes		CATEGORY|decayed
+fein_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|Fragrant|fruity|floral
+frisch_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|fresh
+frischer_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|fresh
+gut_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+herrlich_adj	cooc		1525	yes	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+himmlisch_adj	cooc		1659	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+lieblich_adj	cooc		1525	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+ruhig_adj	cooc		1528	no	no	no	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+scharf_adj	cooc		1508	no	no	no	no	yes	yes		CATEGORY|pungent
+schneidend_adj	cooc		1628	no	no	no	yes	yes	yes		CATEGORY|pungent
+schoen_adj	cooc		1525	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+seltsam_adj	cooc		1528	no	no	no	yes	yes	yes		CATEGORY|pungent
+sinnlich_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|Fragrant|fruity|floral
+stark_adj	cooc		1508	no	no	yes	yes	yes	yes		CATEGORY|pungent
+stechend_adj	cooc		1740	no	no	no	yes	yes	yes		CATEGORY|pungent
+trocken_adj	cooc		1659	no	no	no	yes	yes	no		CATEGORY|woody/earthy/mouldy
+unangenehm_adj	cooc		1508	no	no	no	yes	yes	yes		CATEGORY|pungent
+widerlich_adj	cooc		1745	no	no	no	yes	yes	yes		CATEGORY|decayed
+wild_adj	cooc		1659	no	no	yes	yes	yes	yes		CATEGORY|woody/earthy/mouldy
+sensorisches Attribut_noun	WordNetExpansion	s14262									
+Modergeruch_noun	WordNetExpansion	s146554								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Kellergeruch_noun	WordNetExpansion	s151654									
+Wohlgeruch_noun	WordNetExpansion	s113551									
+Odeur_noun	WordNetExpansion	s113551									
+Gasgeruch_noun	WordNetExpansion	s136168								CATEGORY|emissions_traffic|fuel|dust	
+Aasgeruch_noun	WordNetExpansion	s146559								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Ausdünstung_noun	WordNetExpansion	s83055									
+Seegeruch_noun	WordNetExpansion	s154610								CATEGORY|nature_flowers|plant|tree|soil	
+Verwesungsgeruch_noun	WordNetExpansion	s149552								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Leichengeruch_noun	WordNetExpansion	s149552								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Chlorgeruch_noun	WordNetExpansion	s146566								CATEGORY|cleaning|medicinal	
+Tabakgeruch_noun	WordNetExpansion	s154611								CATEGORY|tobacco|smoke	
+Benzingeruch_noun	WordNetExpansion	s149056								CATEGORY|emissions_traffic|fuel|dust	
+Stallgeruch_noun	WordNetExpansion	s151481								CATEGORY|animal|people	
+Duftgemisch_noun	WordNetExpansion	s158113									
+Körpergeruch_noun	WordNetExpansion	s86852								CATEGORY|animal|people	
+Teergeruch_noun	WordNetExpansion	s154612								CATEGORY|industry	
+Wildgeruch_noun	WordNetExpansion	s154613								CATEGORY|animal|people	
+Rauchgeruch_noun	WordNetExpansion	s145834								CATEGORY|tobacco|smoke	
+Schwefelgeruch_noun	WordNetExpansion	s135676								CATEGORY|emissions_traffic|fuel|dust	
+Mief_noun	WordNetExpansion	s14291									
+Muffigkeit_noun	WordNetExpansion	s14291								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Muff_noun	WordNetExpansion	s14291								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Mundgeruch_noun	WordNetExpansion	s76612								CATEGORY|animal|people	
+Brandgeruch_noun	WordNetExpansion	s139361									
+Eigengeruch_noun	WordNetExpansion	s124376								CATEGORY|animal|people	
+Alkoholgeruch_noun	WordNetExpansion	s139617								CATEGORY|cleaning|medicinal	
+Uringeruch_noun	WordNetExpansion	s144939								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Fischgeruch_noun	WordNetExpansion	s148882								CATEGORY|animal|people	
+Blume_noun	WordNetExpansion	s14293								CATEGORY|nature_flowers|plant|tree|soil	
+Bukett_noun	WordNetExpansion	s14293								CATEGORY|nature_flowers|plant|tree|soil	
+Bouquet_noun	WordNetExpansion	s14293								CATEGORY|nature_flowers|plant|tree|soil	
+Essensgeruch_noun	WordNetExpansion	s147011								CATEGORY|food|beverage	
+Fußgeruch_noun	WordNetExpansion	s145531								CATEGORY|animal|people	
+Schimmelgeruch_noun	WordNetExpansion	s151554								CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Knoblauchgeruch_noun	WordNetExpansion	s146745								CATEGORY|food|beverage	
+Knoblauchduft_noun	WordNetExpansion	s146745								CATEGORY|food|beverage	
+Ledergeruch_noun	WordNetExpansion	s151652								CATEGORY|animal|people	
+Schärfe_noun	WordNetExpansion	s109855									
+Spürsinn_noun	WordNetExpansion	s110001									
+Nase_noun	WordNetExpansion	s112846								CATEGORY|animal|people	
+Kosmetikartikel_noun	WordNetExpansion	s11331								CATEGORY|synthetic	
+Kosmetik_noun	WordNetExpansion	s11331								CATEGORY|synthetic	
+Kosmetikprodukt_noun	WordNetExpansion	s11331								CATEGORY|synthetic	
+Herrenduft_noun	WordNetExpansion	s140496								CATEGORY|synthetic	
+Eau de Cologne_noun	WordNetExpansion	s11347								CATEGORY|synthetic	
+Kölnisch Wasser_noun	WordNetExpansion	s11347								CATEGORY|synthetic	
+Lavendelwasser_noun	WordNetExpansion	s87469								CATEGORY|synthetic	
+Eau de Toilette_noun	WordNetExpansion	s11346								CATEGORY|synthetic	
+Toilettenwasser_noun	WordNetExpansion	s11346								CATEGORY|synthetic	
+Geruchsstoff_noun	WordNetExpansion	s47601									
+Riechstoff_noun	WordNetExpansion	s47601									
+Ambra_noun	WordNetExpansion	s73077								CATEGORY|nature_flowers|plant|tree|soil	
+Blumenduft_noun	WordNetExpansion	s146330								CATEGORY|nature_flowers|plant|tree|soil	
+Blumengeruch_noun	WordNetExpansion	s146330								CATEGORY|nature_flowers|plant|tree|soil	
+Kaffeeduft_noun	WordNetExpansion	s142554								CATEGORY|food|beverage	
+Rosenduft_noun	WordNetExpansion	s139916								CATEGORY|nature_flowers|plant|tree|soil	
+Fliederduft_noun	WordNetExpansion	s141799								CATEGORY|nature_flowers|plant|tree|soil	
+Tannenduft_noun	WordNetExpansion	s148970								CATEGORY|nature_flowers|plant|tree|soil	
+Veilchenduft_noun	WordNetExpansion	s137179								CATEGORY|nature_flowers|plant|tree|soil	
+Dufthauch_noun	WordNetExpansion	s158114									
+Bratengeruch_noun	WordNetExpansion	s151556								CATEGORY|food|beverage	
+Bratenduft_noun	WordNetExpansion	s151556								CATEGORY|food|beverage	
+Duftwolke_noun	WordNetExpansion	s158095									
+Duftnote_noun	WordNetExpansion	s103565									
+Mandelduft_noun	WordNetExpansion	s157174								CATEGORY|food|beverage	
+Lavendelduft_noun	WordNetExpansion	s143229								CATEGORY|nature_flowers|plant|tree|soil	
+Glühweinduft_noun	WordNetExpansion	s155590								CATEGORY|food|beverage	
+Blütenduft_noun	WordNetExpansion	s130342								CATEGORY|nature_flowers|plant|tree|soil	
+Ruch_noun	WordNetExpansion	s110380									
+Lieblingsduft_noun	WordNetExpansion	s139655									
+absondern_verb	WordNetExpansion	s54399									
+sekretieren_verb	WordNetExpansion	s54399									
+wahrnehmen_verb	WordNetExpansion	s58414									
+perzipieren_verb	WordNetExpansion	s58414									
+wittern_verb	WordNetExpansion	s58566									
+beriechen_verb	WordNetExpansion	s58568									
+beschnuppern_verb	WordNetExpansion	s58568									
+beschnüffeln_verb	WordNetExpansion	s58568									
+erschnuppern_verb	WordNetExpansion	s83572									
+erschnüffeln_verb	WordNetExpansion	s83341									
+Hautpflege_noun	WordNetExpansion	s54645									
+verbreiten_verb	WordNetExpansion	s82692									
+abgeben_verb	WordNetExpansion	s82692									
+ausgasen_verb	WordNetExpansion	s119817									
+geruchsspezifisch_adj	WordNetExpansion	s3185									
+Asphalt_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Automobil_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Bus_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Busse_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Wagen_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Auto_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Autos_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Chemikalien_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Auspuff_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Treibstoff_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Dämpfe_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Benzin_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Gasolin_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Fett_noun	StartingCategories									CATEGORY|food|beverage	
+Dunst_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Lastwagen_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Öle_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Smog_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Verkehr_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Straßenbahn_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Straßenbahnen_noun	StartingCategories									CATEGORY|emissions_traffic|fuel|dust	
+Bulldozer_noun	StartingCategories									CATEGORY|industry	
+Kamin_noun	StartingCategories									CATEGORY|industry	
+Kohle_noun	StartingCategories									CATEGORY|industry	
+Kohlen_noun	StartingCategories									CATEGORY|industry	
+Diesel-_noun	StartingCategories									CATEGORY|industry	
+Abflüsse_noun	StartingCategories									CATEGORY|industry	
+Fabrik_noun	StartingCategories									CATEGORY|industry	
+Mörtel_noun	StartingCategories									CATEGORY|industry	
+Eisen_noun	StartingCategories									CATEGORY|industry	
+Metall_noun	StartingCategories									CATEGORY|industry	
+Rost_noun	StartingCategories									CATEGORY|industry	
+Abwasser_noun	StartingCategories									CATEGORY|industry	
+Kanal_noun	StartingCategories									CATEGORY|industry	
+Kanalisation_noun	StartingCategories									CATEGORY|industry	
+Schornstein_noun	StartingCategories									CATEGORY|industry	
+Schlachthof_noun	StartingCategories									CATEGORY|food|beverage	
+Schlachthöfe_noun	StartingCategories									CATEGORY|food|beverage	
+Mandel_noun	StartingCategories									CATEGORY|food|beverage	
+Mandeln_noun	StartingCategories									CATEGORY|food|beverage	
+Anis_noun	StartingCategories									CATEGORY|food|beverage	
+Apfel_noun	StartingCategories									CATEGORY|food|beverage	
+Apfelkuchen_noun	StartingCategories									CATEGORY|food|beverage	
+Rucola_noun	StartingCategories									CATEGORY|food|beverage	
+asiatisches_Essen_noun	StartingCategories									CATEGORY|food|beverage	
+Avocado_noun	StartingCategories									CATEGORY|food|beverage	
+Speck_noun	StartingCategories									CATEGORY|food|beverage	
+Backwaren_noun	StartingCategories									CATEGORY|food|beverage	
+Bäckerei_noun	StartingCategories									CATEGORY|food|beverage	
+Baklava_noun	StartingCategories									CATEGORY|food|beverage	
+Banane_noun	StartingCategories									CATEGORY|food|beverage	
+Grill_noun	StartingCategories									CATEGORY|food|beverage	
+Basilikum_noun	StartingCategories									CATEGORY|food|beverage	
+Bier_noun	StartingCategories									CATEGORY|food|beverage	
+Biere_noun	StartingCategories									CATEGORY|food|beverage	
+Keks_noun	StartingCategories									CATEGORY|food|beverage	
+Kekse_noun	StartingCategories									CATEGORY|food|beverage	
+bitter_noun	StartingCategories									CATEGORY|food|beverage	
+Mischung_noun	StartingCategories									CATEGORY|food|beverage	
+alkoholische_Getränke_noun	StartingCategories									CATEGORY|food|beverage	
+Brandy_noun	StartingCategories									CATEGORY|food|beverage	
+Brot_noun	StartingCategories									CATEGORY|food|beverage	
+Brownie_noun	StartingCategories									CATEGORY|food|beverage	
+Diener_noun	StartingCategories									CATEGORY|food|beverage	
+Butterscotch_noun	StartingCategories									CATEGORY|food|beverage	
+Kohl_noun	StartingCategories									CATEGORY|food|beverage	
+Cafe_noun	StartingCategories									CATEGORY|food|beverage	
+Kuchen_noun	StartingCategories									CATEGORY|food|beverage	
+Karamell_noun	StartingCategories									CATEGORY|food|beverage	
+Kardamom_noun	StartingCategories									CATEGORY|food|beverage	
+Zeder_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Chabli_noun	StartingCategories									CATEGORY|food|beverage	
+Käse_noun	StartingCategories									CATEGORY|food|beverage	
+Kirsche_noun	StartingCategories									CATEGORY|food|beverage	
+Hähnchen_noun	StartingCategories									CATEGORY|food|beverage	
+Chipotle_noun	StartingCategories									CATEGORY|food|beverage	
+Schokolade_noun	StartingCategories									CATEGORY|food|beverage	
+Zimt_noun	StartingCategories									CATEGORY|food|beverage	
+Zitrusfrüchte_noun	StartingCategories									CATEGORY|food|beverage	
+Kaffee_noun	StartingCategories									CATEGORY|food|beverage	
+Cola_noun	StartingCategories									CATEGORY|food|beverage	
+Würze_noun	StartingCategories									CATEGORY|food|beverage	
+Plätzchen_noun	StartingCategories									CATEGORY|food|beverage	
+Mais_noun	StartingCategories									CATEGORY|food|beverage	
+Couscous_noun	StartingCategories									CATEGORY|food|beverage	
+Creme_noun	StartingCategories									CATEGORY|food|beverage	
+Krepp_noun	StartingCategories									CATEGORY|food|beverage	
+Gurke_noun	StartingCategories									CATEGORY|food|beverage	
+Küche_noun	StartingCategories									CATEGORY|food|beverage	
+Molkerei_noun	StartingCategories									CATEGORY|food|beverage	
+Teig_noun	StartingCategories									CATEGORY|food|beverage	
+Earl_Grey_noun	StartingCategories									CATEGORY|food|beverage	
+Falafel_noun	StartingCategories									CATEGORY|food|beverage	
+Fleisch_noun	StartingCategories									CATEGORY|food|beverage	
+Lebensmittel_noun	StartingCategories									CATEGORY|food|beverage	
+Supermarkt_noun	StartingCategories									CATEGORY|food|beverage	
+Pommes_frittes_noun	StartingCategories									CATEGORY|food|beverage	
+frisches_Brot_noun	StartingCategories									CATEGORY|food|beverage	
+frischer_Kaffee_noun	StartingCategories									CATEGORY|food|beverage	
+frischer_Fisch_noun	StartingCategories									CATEGORY|food|beverage	
+Obst_noun	StartingCategories									CATEGORY|food|beverage	
+Obstkuchen_noun	StartingCategories									CATEGORY|food|beverage	
+Fudge_noun	StartingCategories									CATEGORY|food|beverage	
+Knoblauch_noun	StartingCategories									CATEGORY|food|beverage	
+Traube_noun	StartingCategories									CATEGORY|food|beverage	
+Grütze_noun	StartingCategories									CATEGORY|food|beverage	
+Ernte_noun	StartingCategories									CATEGORY|food|beverage	
+Hering_noun	StartingCategories									CATEGORY|food|beverage	
+Honig_noun	StartingCategories									CATEGORY|food|beverage	
+Hotdog_noun	StartingCategories									CATEGORY|food|beverage	
+Eiscreme_noun	StartingCategories									CATEGORY|food|beverage	
+Indisches_Essen_noun	StartingCategories									CATEGORY|food|beverage	
+Jalapeno_noun	StartingCategories									CATEGORY|food|beverage	
+Lauch_noun	StartingCategories									CATEGORY|food|beverage	
+Reste_noun	StartingCategories									CATEGORY|food|beverage	
+Zitrone_noun	StartingCategories									CATEGORY|food|beverage	
+Lakritze_noun	StartingCategories									CATEGORY|food|beverage	
+Limette_noun	StartingCategories									CATEGORY|food|beverage	
+Macadamia_noun	StartingCategories									CATEGORY|food|beverage	
+Mäusespeck_noun	StartingCategories									CATEGORY|food|beverage	
+Mayonnaise_noun	StartingCategories									CATEGORY|food|beverage	
+Melone_noun	StartingCategories									CATEGORY|food|beverage	
+Hackfleischpastete_noun	StartingCategories									CATEGORY|food|beverage	
+Moussaka_noun	StartingCategories									CATEGORY|food|beverage	
+Pilz_noun	StartingCategories									CATEGORY|food|beverage	
+Senf_noun	StartingCategories									CATEGORY|food|beverage	
+Haferflocken_noun	StartingCategories									CATEGORY|food|beverage	
+Öl_noun	StartingCategories									CATEGORY|food|beverage	
+Omelett_noun	StartingCategories									CATEGORY|food|beverage	
+Omelette_noun	StartingCategories									CATEGORY|food|beverage	
+Zwiebel_noun	StartingCategories									CATEGORY|food|beverage	
+Orangensaft_noun	StartingCategories									CATEGORY|food|beverage	
+orientalisches_Essen_noun	StartingCategories									CATEGORY|food|beverage	
+Ofen_noun	StartingCategories									CATEGORY|food|beverage	
+Ozon_noun	StartingCategories									CATEGORY|food|beverage	
+Pfannkuchen_noun	StartingCategories									CATEGORY|food|beverage	
+Gebäck_noun	StartingCategories									CATEGORY|food|beverage	
+Birne_noun	StartingCategories									CATEGORY|food|beverage	
+Pfeffer_noun	StartingCategories									CATEGORY|food|beverage	
+Pfefferminze_noun	StartingCategories									CATEGORY|food|beverage	
+Pizza_noun	StartingCategories									CATEGORY|food|beverage	
+Kartoffel_noun	StartingCategories									CATEGORY|food|beverage	
+Rosine_noun	StartingCategories									CATEGORY|food|beverage	
+Himbeere_noun	StartingCategories									CATEGORY|food|beverage	
+genießen_noun	StartingCategories									CATEGORY|food|beverage	
+Safran_noun	StartingCategories									CATEGORY|food|beverage	
+Salz_noun	StartingCategories									CATEGORY|food|beverage	
+Sandwich_noun	StartingCategories									CATEGORY|food|beverage	
+Würstchen_noun	StartingCategories									CATEGORY|food|beverage	
+Sauvignon_noun	StartingCategories									CATEGORY|food|beverage	
+Jakobsmuschel_noun	StartingCategories									CATEGORY|food|beverage	
+Meeresfrüchte_noun	StartingCategories									CATEGORY|food|beverage	
+Sorbett_noun	StartingCategories									CATEGORY|food|beverage	
+Sherry_noun	StartingCategories									CATEGORY|food|beverage	
+Spieß_noun	StartingCategories									CATEGORY|food|beverage	
+Snack_noun	StartingCategories									CATEGORY|food|beverage	
+Schnapper_noun	StartingCategories									CATEGORY|food|beverage	
+Sprudel_noun	StartingCategories									CATEGORY|food|beverage	
+Suppe_noun	StartingCategories									CATEGORY|food|beverage	
+saure_Milch_noun	StartingCategories									CATEGORY|food|beverage	
+Spam_noun	StartingCategories									CATEGORY|food|beverage	
+würzen_noun	StartingCategories									CATEGORY|food|beverage	
+Gewürze_noun	StartingCategories									CATEGORY|food|beverage	
+scharfes_Essen_noun	StartingCategories									CATEGORY|food|beverage	
+Steak_noun	StartingCategories									CATEGORY|food|beverage	
+Erdbeere_noun	StartingCategories									CATEGORY|food|beverage	
+Sushi_noun	StartingCategories									CATEGORY|food|beverage	
+Süss_noun	StartingCategories									CATEGORY|food|beverage	
+Taco_noun	StartingCategories									CATEGORY|food|beverage	
+Torte_noun	StartingCategories									CATEGORY|food|beverage	
+Tee_noun	StartingCategories									CATEGORY|food|beverage	
+Tiramisu_noun	StartingCategories									CATEGORY|food|beverage	
+Belag_noun	StartingCategories									CATEGORY|food|beverage	
+Vanille_noun	StartingCategories									CATEGORY|food|beverage	
+Gemüse_noun	StartingCategories									CATEGORY|food|beverage	
+Essig_noun	StartingCategories									CATEGORY|food|beverage	
+Wafer_noun	StartingCategories									CATEGORY|food|beverage	
+Waffel_noun	StartingCategories									CATEGORY|food|beverage	
+Brunnenkresse_noun	StartingCategories									CATEGORY|food|beverage	
+Wein_noun	StartingCategories									CATEGORY|food|beverage	
+Süßkartoffel_noun	StartingCategories									CATEGORY|food|beverage	
+Hefe_noun	StartingCategories									CATEGORY|food|beverage	
+Zigarre_noun	StartingCategories									CATEGORY|tobacco|smoke	
+Zigarette_noun	StartingCategories									CATEGORY|tobacco|smoke	
+Marihuana_noun	StartingCategories									CATEGORY|tobacco|smoke	
+Raucher_noun	StartingCategories									CATEGORY|tobacco|smoke	
+rauchig_noun	StartingCategories									CATEGORY|tobacco|smoke	
+Band_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+bleichen_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Reiniger_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Reinigung_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Kleider_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Eau_de_Cologne_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Zahnarzt_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+kleben_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Heroin_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Bügeln_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Unterhose_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Wäsche_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Mottenkugel_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Harz_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Lösungsmittel_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Sprühfarbe_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Sulfid_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Unterwäsche_noun	StartingCategories									CATEGORY|cleaning|medicinal	
+Latex_noun	StartingCategories									CATEGORY|synthetic	
+Leder_noun	StartingCategories									CATEGORY|synthetic	
+Gummi_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Wildleder_noun	StartingCategories									CATEGORY|synthetic	
+Reifen_noun	StartingCategories									CATEGORY|synthetic	
+Behälter_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Leiche_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Hundescheiße_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Kot_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Furz_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Müll_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Müllwagen_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Abfall_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Dünger_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Düngemittel_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+pinkeln_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Piss_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+öffentliche_Toilette_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+verdorbenes_Obst_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+faule_Socken_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Scheisse_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+sauer_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Toilette_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Urinal_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+erbrechen_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+kotzen_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+übergeben_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Kotze_noun	StartingCategories									CATEGORY|waste_garbage|pee|vomit|excrement|rotten	
+Scheune_noun	StartingCategories									CATEGORY|animal|people	
+Beagle_noun	StartingCategories									CATEGORY|animal|people	
+Körper_noun	StartingCategories									CATEGORY|animal|people	
+Stier_noun	StartingCategories									CATEGORY|animal|people	
+Hirsch_noun	StartingCategories									CATEGORY|animal|people	
+dreckige_Kleidung_noun	StartingCategories									CATEGORY|animal|people	
+Hund_noun	StartingCategories									CATEGORY|animal|people	
+katzenartig_noun	StartingCategories									CATEGORY|animal|people	
+frische_Luft_noun	StartingCategories									CATEGORY|animal|people	
+Frosch_noun	StartingCategories									CATEGORY|animal|people	
+Herde_noun	StartingCategories									CATEGORY|animal|people	
+Pferd_noun	StartingCategories									CATEGORY|animal|people	
+Schlamm_noun	StartingCategories									CATEGORY|animal|people	
+Ozelot_noun	StartingCategories									CATEGORY|animal|people	
+Paraffin_noun	StartingCategories									CATEGORY|animal|people	
+Nagetier_noun	StartingCategories									CATEGORY|animal|people	
+Stinktier_noun	StartingCategories									CATEGORY|animal|people	
+Schweiß_noun	StartingCategories									CATEGORY|animal|people	
+Vetiver_noun	StartingCategories									CATEGORY|animal|people	
+Wolf_noun	StartingCategories									CATEGORY|animal|people	
+Zoo_noun	StartingCategories									CATEGORY|animal|people	
+Bulle_noun	StartingCategories									CATEGORY|animal|people	
+Katze_noun	StartingCategories									CATEGORY|animal|people	
+Bernstein_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+blühen_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Blühen_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Blüte_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Strauß_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Zedernholz_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Chrysantheme_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Lehm_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Nadelbaum_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Narzisse_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+trockene_Blumen_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+trockenes_Gras_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Eukalyptus_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Blumengeschäft_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Ziege_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Kraut_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Efeu_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Jasmin_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Lavendel_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Rasen_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Blätter_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Lilie_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Magnolie_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+medizinisch_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+feucht_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Moschus_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+altes_Holz_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Parfüm_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Kiefer_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Pinie_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Topf_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Potpourri_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+pudrig_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Rosmarin_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Salbei_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Sandelholz_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Seetang_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Stein_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Bergahorn_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Tulpe_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+violett_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+nasses_Blatt_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Holz_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Wälder_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+Blütenpracht_noun	StartingCategories									CATEGORY|nature_flowers|plant|tree|soil	
+armoatisch_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+köstlich_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+zauberhaft_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+aromatisch_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+blumig_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+fruchtig_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+moschusartig_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+muffelig_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+muffig_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+schmackhaft_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+lecker_adj	StartingCategories										CATEGORY|Fragrant|fruity|floral
+kampferhaltig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+Jahrhunderte_alt_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+feuchtig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+ungesund_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+staubig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+erdig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+regnerisch_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+harzig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+Feuchtigkeit_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+moosig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+grasig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+Kräuter_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+feucht_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+abgestanden_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+untersaisonal_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+holzig_adj	StartingCategories										CATEGORY|woody/earthy/mouldy
+alkoholisch_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+alkalisch_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+antiseptisch_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+chemisch_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+medizinisch_adj	StartingCategories										CATEGORY|chemical|hydro-carbons|synthetic
+salzig_adj	StartingCategories										CATEGORY|sweet|spicy
+erfrischend_adj	StartingCategories										CATEGORY|fresh
+Frische_adj	StartingCategories										CATEGORY|fresh
+Minze_adj	StartingCategories										CATEGORY|fresh
+karamellisiert_adj	StartingCategories										CATEGORY|sweet|spicy
+süßlich_adj	StartingCategories										CATEGORY|sweet|spicy
+pikant_adj	StartingCategories										CATEGORY|sweet|spicy
+Saccharin_adj	StartingCategories										CATEGORY|sweet|spicy
+herzhaft_adj	StartingCategories										CATEGORY|sweet|spicy
+halbsüß_adj	StartingCategories										CATEGORY|sweet|spicy
+pfeffrig_adj	StartingCategories										CATEGORY|sweet|spicy
+Würze_adj	StartingCategories										CATEGORY|sweet|spicy
+würzig_adj	StartingCategories										CATEGORY|sweet|spicy
+zuckerhaltig_adj	StartingCategories										CATEGORY|sweet|spicy
+süß_adj	StartingCategories										CATEGORY|sweet|spicy
+Süße_adj	StartingCategories										CATEGORY|sweet|spicy
+süß_riechend_adj	StartingCategories										CATEGORY|sweet|spicy
+sirupartig_adj	StartingCategories										CATEGORY|sweet|spicy
+Zitronen_adj	StartingCategories										CATEGORY|sweet|spicy
+herbsüß_adj	StartingCategories										CATEGORY|sweet|spicy
+verbrannt_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+käsig_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+fettig_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+rauchig_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+nussig_adj	StartingCategories										CATEGORY|smoky|toasted|burnt|fatty
+fischig_adj	StartingCategories										CATEGORY|decayed
+faul_adj	StartingCategories										CATEGORY|decayed
+faulig_adj	StartingCategories										CATEGORY|decayed
+ranzig_adj	StartingCategories										CATEGORY|decayed
+verfault_adj	StartingCategories										CATEGORY|decayed
+Knoblauch_adj	StartingCategories										CATEGORY|decayed
+stagniert_adj	StartingCategories										CATEGORY|decayed
+sauer_adj	StartingCategories										CATEGORY|pungent
+herb_adj	StartingCategories										CATEGORY|pungent
+bittersüß_adj	StartingCategories										CATEGORY|pungent
+Kot_adj	StartingCategories										CATEGORY|pungent
+beißend_adj	StartingCategories										CATEGORY|pungent
+verschwitzt_adj	StartingCategories										CATEGORY|pungent
+übel_riechend_adj	StartingCategories										CATEGORY|pungent
