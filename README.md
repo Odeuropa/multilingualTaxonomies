@@ -1,11 +1,11 @@
 # multilingualTaxonomies
 
 
-The folder taxonomies contains the first version of the multilingual taxonomy of olfactory terms developed within the ODEUROPA project. The taxonomy is available in English, French, German, Dutch, Italian and Slovenian, and has been created semi-automatically, starting from a core set of WordNet synsets and extending them with co-occurring terms using n-grams. 
+The folder `taxonomies-v2` contains the multilingual taxonomy of olfactory terms developed within the ODEUROPA project. The taxonomy is available in English, French, German and Italian (with ongoing work to add Dutch and Slovenian), and has been created semi-automatically, starting from a core set of WordNet synsets and extending them with co-occurring terms using n-grams. 
 
-For each language, we release two files in tab-separated format. 
+For each language, we release a files in tab-separated format, and an Excel file containing all the languages.
 
-The first file, ending with `_taxonomy` contains the following columns:
+They contain the following columns:
 
 * `entry`: term listed in the taxonomy
 * `source`: whether the term comes from the WordNet-based core taxonomy or has been obtained through n-gram co-occurrences.
@@ -15,12 +15,3 @@ The first file, ending with `_taxonomy` contains the following columns:
 * `smell-source`: for nouns in English, Italian, German and French, to which category of smell sources it was assigned (see Section \ref{categorisation})
 * `quality`: for adjectives in English, Italian, German and French, to which category of qualities it was assigned (see Section \ref{categorisation}) 
 
-
-The second file, ending with `_co-occurences`, contains information about pairs of co-occurring terms (i.e. seed word + co-occurring term with high PMI) extracted from n-grams. Each file in tsv format contains the following columns:
-
-
-* `seed word + part of speech`
-* `co-occurring term`
-* `time span`: when the two terms were found (if found in multiple time spans, the row is repeated with different values)
-* `frequency`: number of times the two terms were co-occurring in the given time span
-* `total tokens`: number of overall tokens present in the n-grams for the given time period, to be used as a reference or to normalise the frequency
