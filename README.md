@@ -15,3 +15,9 @@ They contain the following columns:
 * `smell-source`: for nouns in English, Italian, German and French, to which category of smell sources it was assigned (see Section \ref{categorisation})
 * `quality`: for adjectives in English, Italian, German and French, to which category of qualities it was assigned (see Section \ref{categorisation}) 
 
+
+## Funding acknowledgement
+
+<img src="https://github.com/Odeuropa/.github/raw/main/profile/eu-logo.png" width="80" height="54" align="left" alt="EU logo" />
+
+This work has been realised in the context of [Odeuropa](https://odeuropa.eu/), a research project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101004469.
