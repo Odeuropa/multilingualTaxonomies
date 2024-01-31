@@ -16,6 +16,10 @@ They contain the following columns:
 * `quality`: for adjectives in English, Italian, German and French, to which category of qualities it was assigned (see Section \ref{categorisation}) 
 
 
+If you use this resource, please cite:
+
+Stefano Menini, Teresa Paccosi, Serra Sinem Tekiroğlu, and Sara Tonelli (2022) *Building a Multilingual Taxonomy of Olfactory Terms with Timestamps*. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 4030–4039, Marseille, France. European Language Resources Association. [[Link]](https://aclanthology.org/2022.lrec-1.429/)
+
 ## Funding acknowledgement
 
 <img src="https://github.com/Odeuropa/.github/raw/main/profile/eu-logo.png" width="80" height="54" align="left" alt="EU logo" />
